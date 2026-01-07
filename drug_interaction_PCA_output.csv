@@ -1,0 +1,501 @@
+Drug1,Drug2,Interaction,Drug1_encoded,Drug2_encoded,Interaction_encoded,PC1,PC2
+Ibuprofen,Amiodarone,Reduced absorption,9,0,6,1.2743213508570654,-0.527464923120737
+Lisinopril,Contrast Dye,Enhanced sedation,12,5,0,-0.03494753975801781,-1.7972374009866097
+Metformin,Omeprazole,Increased serum levels,14,15,5,0.08667575804122885,0.5102186348120521
+Digoxin,Metformin,Enhanced sedation,6,14,0,-1.5996482486838284,-0.7089379138593214
+Warfarin,Lisinopril,Increased digoxin toxicity,19,12,2,0.37039645639946633,-0.7841966638778093
+Levothyroxine,Metformin,Risk of arrhythmia,11,14,9,0.6133613554334626,1.6204091754638714
+Amiodarone,Digoxin,Enhanced sedation,0,6,0,-1.422660642393835,-1.299401500820494
+Insulin,Paracetamol,Reduced effectiveness,10,16,8,0.11496463808873851,1.5738753011153521
+Simvastatin,Atorvastatin,Increased serum levels,18,2,5,1.846975340845336,-0.9065697400543299
+Digoxin,Insulin,Increased digoxin toxicity,6,10,2,-0.8170649554609792,-0.5493559766452677
+Hydrochlorothiazide,Ciprofloxacin,Increased serum levels,8,3,5,0.6734723796761174,-0.4752480284052291
+Contrast Dye,Losartan,Reduced absorption,5,13,6,-0.48597823194704165,0.8893234517456452
+Ibuprofen,Paracetamol,Increased risk of lactic acidosis,9,16,3,-0.9240761273394464,0.22066986169845404
+Digoxin,Prednisone,Increased digoxin toxicity,6,17,2,-1.5342307323145454,0.14189940680292223
+Furosemide,Insulin,Increased serum levels,7,10,5,-0.15079846791074852,0.2492644493014681
+Losartan,Atorvastatin,Increased digoxin toxicity,13,2,2,0.7522885703619073,-1.5721617889670363
+Ibuprofen,Metformin,Increased digoxin toxicity,9,14,2,-0.9055587586059759,-0.25412418316468127
+Hydrochlorothiazide,Insulin,Enhanced sedation,8,10,0,-0.9756290918723345,-1.1704551786324444
+Digoxin,Atorvastatin,Increased serum levels,6,2,5,0.5617144920457422,-0.5074846089522416
+Paracetamol,Prednisone,Risk of arrhythmia,16,17,9,0.8415299475912886,1.750376011363416
+Contrast Dye,Omeprazole,Increased serum levels,5,15,5,-0.8772698785584663,0.8095324831386185
+Digoxin,Ibuprofen,Risk of arrhythmia,6,9,9,0.5900972709480842,1.2929408014362727
+Clarithromycin,Warfarin,Reduced absorption,4,19,6,-1.2077968256976837,1.5150851603883155
+Ibuprofen,Clarithromycin,Risk of arrhythmia,9,4,9,1.4236737523291014,0.6994156733406149
+Atorvastatin,Simvastatin,Increased serum levels,2,18,5,-1.5059418522670358,1.205556073106222
+Simvastatin,Levothyroxine,Increased serum levels,18,11,5,0.9249050563193218,-0.017812818478085846
+Hydrochlorothiazide,Omeprazole,Reduced antihypertensive effect,8,15,7,-0.18318038848061383,1.2643462138332584
+Clarithromycin,Losartan,Increased digoxin toxicity,4,13,2,-1.3386318584362493,-0.18658948093617156
+Amiodarone,Metformin,Increased digoxin toxicity,0,14,2,-1.869504395205671,0.045189665161885044
+Levothyroxine,Paracetamol,Increased bleeding risk,11,16,1,-1.0826402637508017,-0.40042934028872285
+Digoxin,Atorvastatin,Enhanced sedation,6,2,0,-0.37022120264914327,-1.8939471426276469
+Ciprofloxacin,Metformin,Risk of arrhythmia,3,14,9,-0.24347921043293316,1.8864659295319304
+Lisinopril,Atorvastatin,Reduced absorption,12,2,6,1.3907320553845162,-0.4297346677682047
+Simvastatin,Digoxin,Risk of arrhythmia,18,6,9,2.182714881256349,0.5976033631421028
+Simvastatin,Amiodarone,Increased digoxin toxicity,18,0,2,1.4927184317008522,-1.9359487983876273
+Ibuprofen,Warfarin,Risk of arrhythmia,9,19,9,-0.11311005521425517,2.1806772093010216
+Warfarin,Levothyroxine,Reduced effectiveness,19,11,8,1.5911715438695528,0.78080760746865
+Paracetamol,Prednisone,Risk of arrhythmia,16,17,9,0.8415299475912886,1.750376011363416
+Losartan,Hydrochlorothiazide,Risk of arrhythmia,13,8,9,1.4422850199174044,0.9613903725626939
+Amiodarone,Lisinopril,Enhanced sedation,0,12,0,-2.0373741654111774,-0.7068968864363314
+Amiodarone,Prednisone,Increased risk of lactic acidosis,0,17,3,-1.9904740177753653,0.6187344790890474
+Omeprazole,Aspirin,Risk of arrhythmia,15,1,9,2.3736609382375695,0.20362080059748933
+Hydrochlorothiazide,Losartan,Increased bleeding risk,8,13,1,-1.0965987144420286,-0.5969103647052822
+Levothyroxine,Ciprofloxacin,Enhanced sedation,11,3,0,0.06285189718113036,-1.9614818448561566
+Hydrochlorothiazide,Amiodarone,Reduced antihypertensive effect,8,0,7,1.3536034190627428,-0.21691532212714845
+Atorvastatin,Contrast Dye,Reduced absorption,2,5,6,0.012324586542850147,0.19908858200895038
+Omeprazole,Metformin,Reduced antihypertensive effect,15,14,7,0.6690073604887062,0.9327957849596796
+Furosemide,Ibuprofen,Reduced absorption,7,9,6,0.1380409248644523,0.42780618697252204
+Insulin,Contrast Dye,Reduced absorption,10,5,6,0.8691651524092459,-0.06696817205910857
+Ciprofloxacin,Amiodarone,Risk of arrhythmia,3,0,9,1.1908523432742,0.5039551626355505
+Omeprazole,Levothyroxine,Reduced antihypertensive effect,15,11,7,0.9763641219973777,0.6365434777675982
+Prednisone,Furosemide,Risk of arrhythmia,17,7,9,1.9731575566868258,0.7296112264646373
+Hydrochlorothiazide,Simvastatin,Increased bleeding risk,8,18,1,-1.6088599836231474,-0.10315651938514663
+Levothyroxine,Atorvastatin,Increased digoxin toxicity,11,2,2,0.5380784288953082,-1.5056476004500214
+Simvastatin,Paracetamol,Increased serum levels,18,16,5,0.4126437871382029,0.47594102684204986
+Prednisone,Lisinopril,Increased risk of myopathy,17,12,4,0.5289605928108214,-0.16309746189063243
+Digoxin,Lisinopril,Risk of arrhythmia,6,12,9,0.2827405094394129,1.589193108628354
+Warfarin,Paracetamol,Increased risk of myopathy,19,16,4,0.33336171893252536,0.16539142584846142
+Lisinopril,Furosemide,Increased bleeding risk,12,7,1,-0.05346490849148823,-1.3224433561234743
+Aspirin,Metformin,Reduced absorption,1,14,6,-1.0168507687164632,1.121102597843702
+Furosemide,Insulin,Increased risk of myopathy,7,10,4,-0.3371856068497256,-0.028028057433612967
+Lisinopril,Digoxin,Increased bleeding risk,12,6,1,0.048987345344735575,-1.4211941251875013
+Atorvastatin,Insulin,Risk of arrhythmia,2,10,9,0.05922473417866252,1.5247199475343292
+Atorvastatin,Warfarin,Reduced absorption,2,19,6,-1.4220069671642825,1.5815993489053304
+Hydrochlorothiazide,Warfarin,Reduced absorption,8,19,6,-0.779376542764486,1.382056783354286
+Contrast Dye,Digoxin,Reduced effectiveness,5,6,8,0.6039618227844789,0.7526530817676176
+Levothyroxine,Omeprazole,Risk of arrhythmia,11,15,9,0.5109091015972388,1.7191599445278987
+Metformin,Hydrochlorothiazide,Reduced antihypertensive effect,14,8,7,1.1766158127727495,0.37354826483402437
+Metformin,Ciprofloxacin,Increased serum levels,14,3,5,1.3161028040759144,-0.6747905939562734
+Lisinopril,Contrast Dye,Increased risk of lactic acidosis,12,5,3,0.5242138770589134,-0.9653598807813665
+Lisinopril,Clarithromycin,Enhanced sedation,12,4,0,0.067504714078206,-1.8959881700506367
+Ibuprofen,Ciprofloxacin,Reduced effectiveness,9,3,8,1.3397388672263484,0.32337239754150665
+Paracetamol,Metformin,Increased risk of lactic acidosis,16,14,3,0.030563875466097373,-0.20963133623915187
+Lisinopril,Levothyroxine,Increased risk of lactic acidosis,12,11,3,-0.09049964595842913,-0.37285526639720373
+Amiodarone,Digoxin,Increased digoxin toxicity,0,6,2,-1.049886364515881,-0.744816487350332
+Insulin,Amiodarone,Reduced absorption,10,0,6,1.3814264215903649,-0.5607220173792444
+Losartan,Insulin,Reduced absorption,13,10,6,0.6782190954280254,0.3270143904855049
+Paracetamol,Amiodarone,Increased serum levels,16,0,5,1.8376697070511845,-1.0375570896653694
+Aspirin,Warfarin,Enhanced sedation,1,19,0,-2.647434871531445,-0.04889859724664878
+Digoxin,Ciprofloxacin,Reduced antihypertensive effect,6,3,7,0.8320365160874726,0.14585117358194769
+Omeprazole,Lisinopril,Increased serum levels,15,12,5,0.5011375902831997,0.18070923336146336
+Furosemide,Hydrochlorothiazide,Increased serum levels,7,8,5,0.05410603976169904,0.05176291117341385
+Lisinopril,Insulin,Increased digoxin toxicity,12,10,2,-0.17443453106118242,-0.7488985421963119
+Simvastatin,Aspirin,Enhanced sedation,18,1,0,1.017491899986674,-2.3917830427937625
+Clarithromycin,Metformin,Enhanced sedation,4,14,0,-1.8138583901504273,-0.6424237253423066
+Insulin,Simvastatin,Reduced antihypertensive effect,10,18,7,-0.27632700852268616,1.494084332508325
+Atorvastatin,Contrast Dye,Increased risk of myopathy,2,5,4,-0.360449691335104,-0.35549643146121174
+Digoxin,Simvastatin,Increased risk of lactic acidosis,6,18,3,-1.4502958472117922,0.5179426826020302
+Amiodarone,Aspirin,Increased digoxin toxicity,0,1,2,-0.5376250953347621,-1.2385703326704676
+Furosemide,Omeprazole,Increased risk of myopathy,7,15,4,-0.8494468760308446,0.4657257878865227
+Levothyroxine,Warfarin,Increased risk of lactic acidosis,11,19,3,-1.0172227473815187,0.4504079803735206
+Digoxin,Hydrochlorothiazide,Increased risk of lactic acidosis,6,8,3,-0.4257733088495546,-0.4695650080382409
+Paracetamol,Clarithromycin,Increased risk of lactic acidosis,16,4,3,1.0550864138283353,-1.197139026879423
+Amiodarone,Lisinopril,Increased digoxin toxicity,0,12,2,-1.6645998875332233,-0.15231187296616922
+Simvastatin,Ibuprofen,Increased digoxin toxicity,18,9,2,0.5706481471748381,-1.047191876811383
+Amiodarone,Warfarin,Increased serum levels,0,19,5,-1.8226042475698587,1.370821030687264
+Metformin,Amiodarone,Increased digoxin toxicity,14,0,2,1.0642981487676544,-1.8029204213535979
+Omeprazole,Atorvastatin,Risk of arrhythmia,15,2,9,2.271208684401346,0.30237156966151635
+Insulin,Contrast Dye,Increased serum levels,10,5,5,0.6827780134702688,-0.3442606787941896
+Atorvastatin,Simvastatin,Increased risk of lactic acidosis,2,18,3,-1.87871613014499,0.6509710596360598
+Clarithromycin,Ciprofloxacin,Reduced antihypertensive effect,4,3,7,0.6178263746208736,0.21236536209896242
+Omeprazole,Warfarin,Reduced antihypertensive effect,15,19,7,0.1567460913075874,1.4265496302798153
+Paracetamol,Metformin,Risk of arrhythmia,16,14,9,1.14888670909996,1.4541237041713346
+Clarithromycin,Simvastatin,Reduced effectiveness,4,18,8,-0.7325702939835058,1.9709194047944505
+Metformin,Aspirin,Reduced antihypertensive effect,14,1,7,1.893781589626316,-0.3177071186141655
+Omeprazole,Levothyroxine,Increased serum levels,15,11,5,0.6035898441194235,0.08195846429743622
+Furosemide,Ciprofloxacin,Reduced absorption,7,3,6,0.752754447881795,-0.16469842741164076
+Atorvastatin,Amiodarone,Risk of arrhythmia,2,0,9,1.0837472725409005,0.5372122568940579
+Losartan,Ibuprofen,Reduced absorption,13,9,6,0.7806713492642492,0.2282636214214778
+Levothyroxine,Lisinopril,Reduced absorption,11,12,6,0.2591044462889789,0.5910301171305739
+Ibuprofen,Prednisone,Reduced absorption,9,17,6,-0.467366964358739,1.1512981509677243
+Amiodarone,Losartan,Enhanced sedation,0,13,0,-2.1398264192474015,-0.6081461173723043
+Contrast Dye,Digoxin,Risk of arrhythmia,5,6,9,0.7903489617234559,1.0299455885026987
+Atorvastatin,Metformin,Reduced antihypertensive effect,2,14,7,-0.7233585590441868,1.3651380103202755
+Warfarin,Paracetamol,Risk of arrhythmia,19,16,9,1.2652974136274109,1.5518539595238667
+Levothyroxine,Lisinopril,Reduced effectiveness,11,12,8,0.6318787241669331,1.145615130600736
+Hydrochlorothiazide,Furosemide,Risk of arrhythmia,8,7,9,1.0092119200871308,1.0289250747912035
+Atorvastatin,Simvastatin,Reduced absorption,2,18,6,-1.3195547133280587,1.4828485798413031
+Amiodarone,Ibuprofen,Increased digoxin toxicity,0,9,2,-1.357243126024552,-0.44856418015825056
+Losartan,Insulin,Enhanced sedation,13,10,0,-0.44010373820583715,-1.3367406499249814
+Lisinopril,Amiodarone,Increased bleeding risk,12,0,1,0.6637008683620782,-2.013698739571664
+Clarithromycin,Ibuprofen,Increased risk of lactic acidosis,4,9,3,-0.7424357041523774,-0.30430005045719904
+Atorvastatin,Prednisone,Increased digoxin toxicity,2,17,2,-1.9626510152477432,0.2749277838369517
+Digoxin,Losartan,Reduced antihypertensive effect,6,13,7,-0.1924860222747651,1.133358864222219
+Paracetamol,Lisinopril,Reduced antihypertensive effect,16,12,7,0.9810169388944533,0.702037152573118
+Lisinopril,Metformin,Reduced effectiveness,12,14,8,0.5340792872277851,1.309859574470283
+Warfarin,Insulin,Reduced effectiveness,19,10,8,1.6936237977057764,0.6820568384046228
+Omeprazole,Levothyroxine,Increased bleeding risk,15,11,1,-0.1419587116364849,-1.027211562642888
+Furosemide,Simvastatin,Reduced absorption,7,18,6,-0.7840293596615616,1.3165631085487661
+Insulin,Warfarin,Enhanced sedation,10,19,0,-1.6834892349317494,-0.3482124455732151
+Levothyroxine,Ibuprofen,Increased risk of myopathy,11,9,4,0.19368692991969602,-0.2598072035316696
+Simvastatin,Omeprazole,Risk of arrhythmia,18,15,9,1.2606445967303352,1.486360284718347
+Omeprazole,Simvastatin,Increased serum levels,15,18,5,-0.11357593273414292,0.7732138477456261
+Paracetamol,Metformin,Increased risk of lactic acidosis,16,14,3,0.030563875466097373,-0.20963133623915187
+Aspirin,Hydrochlorothiazide,Increased digoxin toxicity,1,8,2,-1.1476858014550289,-0.5805720434807851
+Paracetamol,Hydrochlorothiazide,Increased risk of myopathy,16,8,4,0.8316645374224171,-0.5248434438882336
+Furosemide,Digoxin,Increased risk of lactic acidosis,7,6,3,-0.11376373044380764,-0.7003236404248026
+Losartan,Contrast Dye,Increased risk of myopathy,13,5,4,0.81770608673119,-0.7213244683047929
+Aspirin,Insulin,Increased risk of myopathy,1,10,4,-0.9798160312495225,0.17151450811743127
+Lisinopril,Prednisone,Increased risk of lactic acidosis,12,17,3,-0.7052131689757718,0.219649347986959
+Metformin,Levothyroxine,Reduced effectiveness,14,11,8,1.0556461902030554,0.9470930787611868
+Ciprofloxacin,Aspirin,Enhanced sedation,3,1,0,-0.5890841610128179,-1.8929266289161517
+Losartan,Furosemide,Increased risk of lactic acidosis,13,7,3,0.4264144401197655,-0.8011154369118197
+Insulin,Simvastatin,Reduced antihypertensive effect,10,18,7,-0.27632700852268616,1.494084332508325
+Metformin,Contrast Dye,Reduced absorption,14,5,6,1.2975854353424436,-0.19999654909313802
+Metformin,Insulin,Increased digoxin toxicity,14,10,2,0.039775610405416495,-0.8154127307133267
+Omeprazole,Contrast Dye,Increased risk of lactic acidosis,15,5,3,0.8455290892588119,-1.0651311635568885
+Atorvastatin,Ciprofloxacin,Increased bleeding risk,2,3,1,-0.7147066004795877,-1.3848754897945093
+Ciprofloxacin,Warfarin,Increased risk of myopathy,3,19,4,-1.6876761743089372,0.9937572411766605
+Warfarin,Prednisone,Enhanced sedation,19,17,0,-0.5146390906596068,-0.8450278320278358
+Contrast Dye,Digoxin,Increased risk of myopathy,5,6,4,-0.1415867329714295,-0.3565169451727067
+Atorvastatin,Digoxin,Reduced effectiveness,2,6,8,0.28264661058458057,0.8524243645431396
+Lisinopril,Warfarin,Increased bleeding risk,12,19,1,-1.2828919545261734,-0.13743412735514884
+Clarithromycin,Losartan,Increased digoxin toxicity,4,13,2,-1.3386318584362493,-0.18658948093617156
+Paracetamol,Aspirin,Enhanced sedation,16,1,0,0.8032817585200751,-2.3252688542767475
+Aspirin,Ibuprofen,Risk of arrhythmia,1,9,9,0.05457191728158677,1.4592262727288094
+Lisinopril,Levothyroxine,Increased digoxin toxicity,12,11,2,-0.2768867848974062,-0.6501477731322848
+Furosemide,Simvastatin,Increased serum levels,7,18,5,-0.9704164986005387,1.039270601813685
+Omeprazole,Ibuprofen,Increased serum levels,15,9,5,0.808494351791871,-0.11554307383061799
+Contrast Dye,Paracetamol,Reduced effectiveness,5,16,8,-0.4205607155777589,1.740160772407889
+Paracetamol,Atorvastatin,Increased bleeding risk,16,2,1,0.8872166436228286,-1.9492255784776393
+Hydrochlorothiazide,Ciprofloxacin,Reduced absorption,8,3,6,0.8598595186150945,-0.19795552167014807
+Warfarin,Atorvastatin,Risk of arrhythmia,19,2,9,2.6996289673345437,0.16934319262748687
+Ibuprofen,Hydrochlorothiazide,Increased digoxin toxicity,9,8,2,-0.2908452355886333,-0.846628797548844
+Contrast Dye,Paracetamol,Increased risk of lactic acidosis,5,16,3,-1.3524964102726442,0.3536982387324835
+Losartan,Simvastatin,Increased risk of myopathy,13,18,4,-0.5141732131397189,0.5624355295275597
+Hydrochlorothiazide,Omeprazole,Increased digoxin toxicity,8,15,2,-1.1151160831754992,-0.12211631984214678
+Aspirin,Prednisone,Increased bleeding risk,1,17,1,-2.25614322492002,0.030892371360377886
+Digoxin,Losartan,Risk of arrhythmia,6,13,9,0.1802882556031891,1.6879438776923812
+Metformin,Prednisone,Increased risk of myopathy,14,17,4,-0.3046158885701958,0.4304276662050253
+Amiodarone,Simvastatin,Risk of arrhythmia,0,18,9,-0.9746034379777265,2.381240288563561
+Metformin,Amiodarone,Increased risk of myopathy,14,0,4,1.4370724266456085,-1.2483354078834359
+Hydrochlorothiazide,Amiodarone,Reduced absorption,8,0,6,1.1672162801237658,-0.49420782886222947
+Warfarin,Losartan,Increased risk of lactic acidosis,19,13,3,0.45433134150221965,-0.4081533880787011
+Metformin,Furosemide,Risk of arrhythmia,14,7,9,1.6518423444869275,0.8293825092401593
+Ciprofloxacin,Clarithromycin,Increased digoxin toxicity,3,4,2,-0.523666644643535,-1.0420893082539082
+Clarithromycin,Ibuprofen,Reduced effectiveness,4,9,8,0.18949999054250813,1.0821624832182064
+Losartan,Hydrochlorothiazide,Risk of arrhythmia,13,8,9,1.4422850199174044,0.9613903725626939
+Paracetamol,Prednisone,Increased risk of lactic acidosis,16,17,3,-0.2767928860425739,0.08662097095292953
+Atorvastatin,Paracetamol,Reduced absorption,2,16,6,-1.1146502056556113,1.2853470417132489
+Ciprofloxacin,Contrast Dye,Increased risk of lactic acidosis,3,5,3,-0.4397317595407817,-0.6660460324548002
+Lisinopril,Clarithromycin,Risk of arrhythmia,12,4,9,1.744988964529,0.5996443905650928
+Aspirin,Levothyroxine,Reduced antihypertensive effect,1,11,7,-0.523106868268815,1.1021427973867015
+Amiodarone,Simvastatin,Reduced absorption,0,18,6,-1.5337648547946576,1.5493627683583178
+Aspirin,Omeprazole,Increased serum levels,1,15,5,-1.305690161491664,0.942560860172648
+Prednisone,Lisinopril,Reduced antihypertensive effect,17,12,7,1.0881220096277529,0.6687800583146106
+Insulin,Aspirin,Risk of arrhythmia,10,1,9,1.8381355845710723,0.3699062718900261
+Losartan,Hydrochlorothiazide,Increased bleeding risk,13,8,1,-0.04881209159441248,-1.2569496813179546
+Atorvastatin,Ibuprofen,Risk of arrhythmia,2,9,9,0.1616769880148863,1.4259691784703021
+Lisinopril,Warfarin,Increased risk of myopathy,12,19,4,-0.7237305377092423,0.6944433928500943
+Clarithromycin,Contrast Dye,Reduced absorption,4,5,6,0.22653472800944902,0.13257439349193567
+Insulin,Ibuprofen,Reduced antihypertensive effect,10,9,7,0.6457432760033278,0.6053274109320809
+Hydrochlorothiazide,Levothyroxine,Increased serum levels,8,11,5,-0.14614565101367283,0.31475812410698784
+Paracetamol,Amiodarone,Risk of arrhythmia,16,0,9,2.583218262807093,0.07161293727495477
+Prednisone,Atorvastatin,Increased bleeding risk,17,2,1,0.994321714356128,-1.9824826727361466
+Clarithromycin,Amiodarone,Increased serum levels,4,0,5,0.5524088582515909,-0.6384719585632811
+Insulin,Warfarin,Increased risk of myopathy,10,19,4,-0.9379406791758412,0.760957581367109
+Aspirin,Omeprazole,Increased digoxin toxicity,1,15,2,-1.8648515783085953,0.11068333996740486
+Atorvastatin,Simvastatin,Enhanced sedation,2,18,0,-2.4378775469619214,-0.18090646056918333
+Contrast Dye,Omeprazole,Increased risk of myopathy,5,15,4,-1.0636570174974433,0.5322399764035374
+Ibuprofen,Insulin,Increased serum levels,9,10,5,0.06341167355585042,0.18275026078445336
+Amiodarone,Levothyroxine,Increased digoxin toxicity,0,11,2,-1.5621476336969997,-0.2510626420301963
+Simvastatin,Lisinopril,Reduced effectiveness,18,12,8,1.3816142193000294,0.9128154707911844
+Warfarin,Paracetamol,Reduced antihypertensive effect,19,16,7,0.8925231357494566,0.9972689460537045
+Aspirin,Metformin,Risk of arrhythmia,1,14,9,-0.457689351899532,1.9529801180489452
+Clarithromycin,Omeprazole,Reduced effectiveness,4,15,8,-0.42521353247483457,1.6746670976023692
+Furosemide,Insulin,Reduced absorption,7,10,6,0.03558867102822857,0.5265569560365491
+Clarithromycin,Hydrochlorothiazide,Reduced antihypertensive effect,4,8,7,0.10556510543975481,0.706119207419098
+Atorvastatin,Insulin,Increased serum levels,2,10,5,-0.6863238215772458,0.4155499205940049
+Metformin,Digoxin,Risk of arrhythmia,14,6,9,1.7542945983231513,0.7306317401761323
+Lisinopril,Paracetamol,Increased risk of myopathy,12,16,4,-0.4163737762005709,0.3981910856580129
+Ibuprofen,Insulin,Reduced effectiveness,9,10,8,0.6225730903727817,1.0146277809896966
+Paracetamol,Digoxin,Increased risk of myopathy,16,6,4,1.0365690450948648,-0.7223449820162878
+Amiodarone,Atorvastatin,Enhanced sedation,0,2,0,-1.01285162704894,-1.6944045770766025
+Prednisone,Hydrochlorothiazide,Reduced effectiveness,17,8,8,1.684318163911625,0.5510694887935833
+Simvastatin,Atorvastatin,Increased risk of myopathy,18,2,4,1.660588201906359,-1.1838622467894109
+Simvastatin,Losartan,Enhanced sedation,18,13,0,-0.21193514604801114,-1.206773814025437
+Clarithromycin,Prednisone,Increased risk of lactic acidosis,4,17,3,-1.5620537348421673,0.48570610205501796
+Lisinopril,Furosemide,Reduced effectiveness,12,7,8,1.2512450640813515,0.6186041910220931
+Contrast Dye,Ciprofloxacin,Enhanced sedation,5,3,0,-0.5797785272186665,-1.7619392793051123
+Digoxin,Prednisone,Increased serum levels,6,17,5,-0.9750693154976143,0.9737769270081653
+Aspirin,Losartan,Increased risk of lactic acidosis,1,13,3,-1.4735599316971706,0.19047430857443148
+Aspirin,Amiodarone,Increased risk of lactic acidosis,1,0,3,-0.14168063182626178,-1.093285689257921
+Contrast Dye,Furosemide,Increased bleeding risk,5,7,1,-0.8032004036245844,-1.0896436963139227
+Omeprazole,Lisinopril,Increased serum levels,15,12,5,0.5011375902831997,0.18070923336146336
+Prednisone,Atorvastatin,Increased digoxin toxicity,17,2,2,1.1807088532951053,-1.7051901660010655
+Paracetamol,Levothyroxine,Increased serum levels,16,11,5,0.710694914852723,0.048701370038928896
+Simvastatin,Clarithromycin,Increased digoxin toxicity,18,4,2,1.0829094163559572,-1.5409457221315188
+Contrast Dye,Warfarin,Increased risk of myopathy,5,19,4,-1.4734660328423383,0.9272430526596459
+Insulin,Metformin,Increased digoxin toxicity,10,14,2,-0.7984536878726765,-0.28738127742318864
+Hydrochlorothiazide,Ibuprofen,Increased bleeding risk,8,9,1,-0.6867896990971337,-0.9919134409613907
+Aspirin,Atorvastatin,Increased serum levels,1,2,5,0.026189138379244817,-0.3411991376597046
+Metformin,Aspirin,Increased serum levels,14,1,5,1.5210073117483618,-0.8722921320843277
+Paracetamol,Lisinopril,Increased risk of lactic acidosis,16,12,3,0.23546838313854493,-0.40713287436720613
+Amiodarone,Prednisone,Increased bleeding risk,0,17,1,-2.3632482956533196,0.0641494656188853
+Levothyroxine,Paracetamol,Increased bleeding risk,11,16,1,-1.0826402637508017,-0.40042934028872285
+Ciprofloxacin,Clarithromycin,Reduced absorption,3,4,6,0.2218819111123733,0.06708071868641588
+Levothyroxine,Hydrochlorothiazide,Increased risk of lactic acidosis,11,8,3,0.1097520448169427,-0.6358504793307778
+Ibuprofen,Levothyroxine,Reduced effectiveness,9,11,8,0.5201208365365579,1.1133785500537237
+Prednisone,Hydrochlorothiazide,Risk of arrhythmia,17,8,9,1.870705302850602,0.8283619955286644
+Simvastatin,Metformin,Increased risk of lactic acidosis,18,14,3,0.24477401693269632,-0.2761455247561666
+Insulin,Paracetamol,Reduced effectiveness,10,16,8,0.11496463808873851,1.5738753011153521
+Simvastatin,Metformin,Increased bleeding risk,18,14,1,-0.12800026094525788,-0.8307305382263288
+Ibuprofen,Warfarin,Increased digoxin toxicity,9,19,2,-1.4178200277870947,0.23962966215545434
+Warfarin,Contrast Dye,Reduced absorption,19,5,6,1.833110789008941,-0.3662820203856749
+Atorvastatin,Prednisone,Increased risk of lactic acidosis,2,17,3,-1.7762638763087661,0.5522202905720327
+Contrast Dye,Digoxin,Risk of arrhythmia,5,6,9,0.7903489617234559,1.0299455885026987
+Omeprazole,Levothyroxine,Increased serum levels,15,11,5,0.6035898441194235,0.08195846429743622
+Omeprazole,Atorvastatin,Increased risk of myopathy,15,2,4,1.3392729897064606,-1.084090964013889
+Insulin,Hydrochlorothiazide,Increased serum levels,10,8,5,0.3754212519615974,-0.04800837160210826
+Digoxin,Contrast Dye,Reduced effectiveness,6,5,8,0.8135191473540022,0.620645218445083
+Omeprazole,Losartan,Reduced effectiveness,15,13,8,0.9578467532639072,1.1113375226307338
+Metformin,Hydrochlorothiazide,Reduced absorption,14,8,6,0.9902286738337723,0.0962557580989433
+Atorvastatin,Simvastatin,Increased risk of myopathy,2,18,4,-1.6923289912060129,0.9282635663711408
+Atorvastatin,Furosemide,Increased risk of lactic acidosis,2,7,3,-0.7517413379465286,-0.4352874000682386
+Lisinopril,Simvastatin,Increased digoxin toxicity,12,18,2,-0.9940525617509726,0.041107610315905034
+Atorvastatin,Levothyroxine,Increased serum levels,2,11,5,-0.7887760754134695,0.514300689658032
+Furosemide,Omeprazole,Increased digoxin toxicity,7,15,2,-1.2222211539087986,-0.08885922558363936
+Contrast Dye,Levothyroxine,Enhanced sedation,5,11,0,-1.3993965579084566,-0.9719331267928953
+Furosemide,Prednisone,Increased bleeding risk,7,17,1,-1.6135128005202233,-0.16865019419066632
+Hydrochlorothiazide,Digoxin,Increased risk of myopathy,8,6,4,0.17972847922846888,-0.4562882279482288
+Metformin,Ciprofloxacin,Reduced effectiveness,14,3,8,1.8752642208928456,0.1570869262489699
+Metformin,Warfarin,Risk of arrhythmia,14,19,9,0.4224152984522421,2.014391738008485
+Lisinopril,Insulin,Risk of arrhythmia,12,10,9,1.1302754415116574,1.1921490049492556
+Furosemide,Paracetamol,Increased digoxin toxicity,7,16,2,-1.3246734077450224,0.00989154348038778
+Digoxin,Clarithromycin,Increased digoxin toxicity,6,4,2,-0.20235143244363663,-1.1418605910294304
+Aspirin,Ibuprofen,Reduced effectiveness,1,9,8,-0.13181522165739032,1.1819337659937286
+Metformin,Paracetamol,Reduced antihypertensive effect,14,16,7,0.3569977820829592,1.1635544173462415
+Lisinopril,Digoxin,Enhanced sedation,12,6,0,-0.1373997935942415,-1.6984866319225824
+Paracetamol,Lisinopril,Increased bleeding risk,16,12,1,-0.13730589473940927,-0.9617178878373683
+Insulin,Atorvastatin,Increased risk of lactic acidosis,10,2,3,0.6173604971009858,-1.195097999456433
+Lisinopril,Omeprazole,Reduced antihypertensive effect,12,15,7,0.2452398944525841,1.131317836799229
+Digoxin,Aspirin,Reduced effectiveness,6,1,8,1.2233281626988974,0.22564214218897458
+Simvastatin,Prednisone,Increased serum levels,18,17,5,0.3101915333019792,0.5746917959060769
+Ibuprofen,Hydrochlorothiazide,Enhanced sedation,9,8,0,-0.6636195134665875,-1.4012138110190062
+Losartan,Clarithromycin,Increased bleeding risk,13,4,1,0.36099692375048253,-1.6519527575740631
+Atorvastatin,Metformin,Reduced antihypertensive effect,2,14,7,-0.7233585590441868,1.3651380103202755
+Omeprazole,Lisinopril,Reduced effectiveness,15,12,8,1.060299007100131,1.0125867535667066
+Digoxin,Levothyroxine,Increased digoxin toxicity,6,11,2,-0.9195172092972029,-0.4506052075812405
+Insulin,Digoxin,Risk of arrhythmia,10,6,9,1.3258743153899535,0.8636601172101618
+Metformin,Hydrochlorothiazide,Increased risk of myopathy,14,8,4,0.6174543959558181,-0.4583292553712188
+Digoxin,Ciprofloxacin,Increased digoxin toxicity,6,3,2,-0.09989917860741276,-1.2406113600934574
+Lisinopril,Clarithromycin,Increased risk of lactic acidosis,12,4,3,0.6266661308951372,-1.0641106498453936
+Ciprofloxacin,Lisinopril,Increased bleeding risk,3,12,1,-1.5296718142723023,-0.5293756624767725
+Warfarin,Digoxin,Increased risk of myopathy,19,6,4,1.3578842572947634,-0.82211626479181
+Hydrochlorothiazide,Simvastatin,Increased bleeding risk,8,18,1,-1.6088599836231474,-0.10315651938514663
+Ciprofloxacin,Metformin,Increased bleeding risk,3,14,1,-1.7345763219447499,-0.33187412434871816
+Metformin,Clarithromycin,Risk of arrhythmia,14,4,9,1.9591991059955987,0.533130202048078
+Lisinopril,Hydrochlorothiazide,Enhanced sedation,12,8,0,-0.3423043012666891,-1.5009850937945282
+Insulin,Metformin,Reduced antihypertensive effect,10,14,7,0.13348200682220898,1.0990812562522165
+Simvastatin,Levothyroxine,Reduced effectiveness,18,11,8,1.4840664731362532,0.8140647017271573
+Contrast Dye,Atorvastatin,Reduced effectiveness,5,2,8,1.0137708381293742,0.3576500055115091
+Simvastatin,Aspirin,Increased digoxin toxicity,18,1,2,1.3902661778646284,-1.8371980293236
+Digoxin,Insulin,Enhanced sedation,6,10,0,-1.1898392333389334,-1.1039409901154298
+Losartan,Contrast Dye,Increased serum levels,13,5,5,1.0040932256701673,-0.44403196156971175
+Insulin,Contrast Dye,Reduced absorption,10,5,6,0.8691651524092459,-0.06696817205910857
+Hydrochlorothiazide,Metformin,Increased digoxin toxicity,8,14,2,-1.0126638293392753,-0.2208670889061739
+Levothyroxine,Warfarin,Increased bleeding risk,11,19,1,-1.3899970252594729,-0.10417703309664154
+Amiodarone,Ibuprofen,Reduced antihypertensive effect,0,9,7,-0.4253074313296669,0.9378983535171546
+Contrast Dye,Omeprazole,Reduced effectiveness,5,15,8,-0.318108461741535,1.641410003343862
+Prednisone,Lisinopril,Risk of arrhythmia,17,12,9,1.460896287505707,1.223365071784773
+Furosemide,Aspirin,Increased risk of lactic acidosis,7,1,3,0.3984975387373112,-1.194077485744938
+Insulin,Amiodarone,Risk of arrhythmia,10,0,9,1.940587838407296,0.2711555028259989
+Contrast Dye,Hydrochlorothiazide,Increased bleeding risk,5,8,1,-0.9056526574608083,-0.9908929272498957
+Contrast Dye,Insulin,Risk of arrhythmia,5,10,9,0.3805399463785609,1.4249486647588072
+Furosemide,Lisinopril,Reduced absorption,7,12,6,-0.169315836644219,0.7240584941646033
+Clarithromycin,Losartan,Increased digoxin toxicity,4,13,2,-1.3386318584362493,-0.18658948093617156
+Warfarin,Lisinopril,Increased bleeding risk,19,12,1,0.18400931746048918,-1.0614891706128904
+Digoxin,Levothyroxine,Increased risk of myopathy,6,11,4,-0.5467429314192488,0.10397980588892151
+Levothyroxine,Clarithromycin,Reduced antihypertensive effect,11,4,7,1.2651096159177462,0.07831647135343803
+Aspirin,Losartan,Enhanced sedation,1,13,0,-2.032721348514102,-0.6414032116308117
+Clarithromycin,Digoxin,Increased digoxin toxicity,4,6,2,-0.6214660815826831,-0.8778448643843614
+Clarithromycin,Ciprofloxacin,Risk of arrhythmia,4,3,9,0.9906006524988279,0.7669503755691246
+Atorvastatin,Aspirin,Reduced effectiveness,2,1,8,0.7949078797656994,0.358670519223004
+Lisinopril,Prednisone,Risk of arrhythmia,12,17,9,0.4131096646580908,1.8834043883974454
+Omeprazole,Prednisone,Reduced effectiveness,15,17,8,0.5480377379190121,1.5063405988868424
+Furosemide,Lisinopril,Reduced absorption,7,12,6,-0.169315836644219,0.7240584941646033
+Losartan,Paracetamol,Risk of arrhythmia,13,16,9,0.622666989227614,1.751396525074911
+Paracetamol,Ciprofloxacin,Enhanced sedation,16,3,0,0.5983772508476277,-2.1277673161486934
+Ibuprofen,Hydrochlorothiazide,Risk of arrhythmia,9,8,9,1.0138647369842064,1.0944187495967235
+Digoxin,Omeprazole,Increased serum levels,6,15,5,-0.7701648078251668,0.776275388880111
+Digoxin,Hydrochlorothiazide,Enhanced sedation,6,8,0,-0.9849347256664859,-1.301442528243484
+Hydrochlorothiazide,Paracetamol,Increased digoxin toxicity,8,16,2,-1.217568337011723,-0.023365550778119644
+Furosemide,Metformin,Reduced antihypertensive effect,7,14,7,-0.18783320537768947,1.1988525390277387
+Hydrochlorothiazide,Furosemide,Reduced effectiveness,8,7,8,0.8228247811481536,0.7516325680561224
+Hydrochlorothiazide,Omeprazole,Increased digoxin toxicity,8,15,2,-1.1151160831754992,-0.12211631984214678
+Atorvastatin,Paracetamol,Enhanced sedation,2,16,0,-2.2329730392894738,-0.37840799869723757
+Amiodarone,Warfarin,Increased risk of myopathy,0,19,4,-2.008991386508836,1.0935285239521828
+Insulin,Furosemide,Enhanced sedation,10,7,0,-0.45406218889706423,-1.5332216743415406
+Aspirin,Omeprazole,Reduced effectiveness,1,15,8,-0.746528744674733,1.7744383803778914
+Lisinopril,Furosemide,Reduced absorption,12,7,6,0.8784707862033972,0.0640191775519309
+Amiodarone,Digoxin,Increased bleeding risk,0,6,1,-1.236273503454858,-1.022108994085413
+Clarithromycin,Losartan,Risk of arrhythmia,4,13,9,-0.03392188586340978,1.7544580662093958
+Metformin,Aspirin,Increased digoxin toxicity,14,1,2,0.9618458949314304,-1.7041696522895706
+Insulin,Paracetamol,Increased risk of lactic acidosis,10,16,3,-0.816971056606147,0.18741276743994661
+Ibuprofen,Paracetamol,Increased bleeding risk,9,16,1,-1.2968504052174006,-0.3339151517717081
+Hydrochlorothiazide,Losartan,Increased bleeding risk,8,13,1,-1.0965987144420286,-0.5969103647052822
+Clarithromycin,Aspirin,Reduced effectiveness,4,1,8,1.0091180212322983,0.2921563307059893
+Omeprazole,Paracetamol,Reduced effectiveness,15,16,8,0.6504899917552358,1.407589829822815
+Paracetamol,Ibuprofen,Increased bleeding risk,16,9,1,0.17005086676926204,-1.2579701950294495
+Clarithromycin,Omeprazole,Increased digoxin toxicity,4,15,2,-1.543536366108697,0.0109120571918827
+Ibuprofen,Omeprazole,Increased risk of myopathy,9,15,4,-0.6352367345642456,0.39921159936950795
+Levothyroxine,Clarithromycin,Increased digoxin toxicity,11,4,2,0.33317392122286066,-1.3081460623219672
+Warfarin,Paracetamol,Increased risk of myopathy,19,16,4,0.33336171893252536,0.16539142584846142
+Omeprazole,Digoxin,Increased serum levels,15,6,5,1.1158511133005424,-0.41179538102269936
+Amiodarone,Digoxin,Increased serum levels,0,6,5,-0.49072494769894975,0.0870610328549112
+Atorvastatin,Paracetamol,Increased digoxin toxicity,2,16,2,-1.8601987614115196,0.17617701477292458
+Clarithromycin,Aspirin,Reduced absorption,4,1,6,0.6363437433543441,-0.26242868276417286
+Levothyroxine,Paracetamol,Reduced absorption,11,16,6,-0.15070456905591628,0.9860331933866824
+Furosemide,Digoxin,Reduced absorption,7,6,6,0.4453976863731236,0.1315538797804407
+Paracetamol,Clarithromycin,Increased risk of myopathy,16,4,4,1.2414735527673124,-0.9198465201443421
+Aspirin,Clarithromycin,Reduced absorption,1,4,6,0.007671769645774285,0.13359490720343065
+Contrast Dye,Hydrochlorothiazide,Increased risk of lactic acidosis,5,8,3,-0.5328783795828541,-0.43630791377973355
+Ciprofloxacin,Losartan,Reduced antihypertensive effect,3,13,7,-0.5138012344746634,1.233130146997741
+Metformin,Losartan,Increased bleeding risk,14,13,1,-0.45396829004223194,-0.7964529302563265
+Furosemide,Levothyroxine,Reduced antihypertensive effect,7,11,7,0.1195235561309819,0.9026002318356573
+Omeprazole,Losartan,Reduced absorption,15,13,6,0.585072475385953,0.5567525091605715
+Simvastatin,Warfarin,Risk of arrhythmia,18,19,9,0.8508355813854399,1.8813633609744556
+Insulin,Warfarin,Increased risk of lactic acidosis,10,19,3,-1.1243278181148182,0.483665074632028
+Losartan,Hydrochlorothiazide,Increased risk of myopathy,13,8,4,0.5103493252225187,-0.42507216111271146
+Hydrochlorothiazide,Atorvastatin,Increased digoxin toxicity,8,2,2,0.2167632166954099,-1.4058763176744993
+Ciprofloxacin,Prednisone,Enhanced sedation,3,17,0,-2.228320222392398,-0.31291432389171786
+Hydrochlorothiazide,Prednisone,Increased digoxin toxicity,8,17,2,-1.3200205908479465,0.07538521828590748
+Simvastatin,Amiodarone,Enhanced sedation,18,0,0,1.1199441538228978,-2.4905338118577895
+Hydrochlorothiazide,Clarithromycin,Reduced antihypertensive effect,8,4,7,0.9437944037178476,0.17808775412896008
+Ciprofloxacin,Clarithromycin,Increased risk of myopathy,3,4,4,-0.15089236676558088,-0.48750429478374624
+Amiodarone,Clarithromycin,Enhanced sedation,0,4,0,-1.2177561347213877,-1.4969030389485483
+Metformin,Ibuprofen,Risk of arrhythmia,14,9,9,1.44693783681448,1.0268840473682137
+Furosemide,Insulin,Increased risk of myopathy,7,10,4,-0.3371856068497256,-0.028028057433612967
+Levothyroxine,Amiodarone,Increased bleeding risk,11,0,1,0.5565957976287788,-1.9804416453131568
+Insulin,Prednisone,Increased digoxin toxicity,10,17,2,-1.1058104493813476,0.00887102976889275
+Levothyroxine,Paracetamol,Increased digoxin toxicity,11,16,2,-0.8962531248118246,-0.1231368335536417
+Hydrochlorothiazide,Omeprazole,Increased digoxin toxicity,8,15,2,-1.1151160831754992,-0.12211631984214678
+Levothyroxine,Losartan,Reduced absorption,11,13,6,0.1566521924527551,0.689780886194601
+Omeprazole,Warfarin,Enhanced sedation,15,19,0,-1.1479638812652522,-0.5144979168657521
+Ciprofloxacin,Levothyroxine,Reduced absorption,3,11,6,-0.49528386574119304,0.7583361021346057
+Metformin,Prednisone,Risk of arrhythmia,14,17,9,0.6273198061246897,1.8168901998804308
+Insulin,Levothyroxine,Reduced antihypertensive effect,10,11,7,0.44083876833088026,0.8028289490601351
+Metformin,Contrast Dye,Reduced effectiveness,14,5,8,1.670359713220398,0.3545884643770241
+Ciprofloxacin,Hydrochlorothiazide,Risk of arrhythmia,3,8,9,0.3712343125844096,1.2939613151477676
+Aspirin,Prednisone,Increased bleeding risk,1,17,1,-2.25614322492002,0.030892371360377886
+Hydrochlorothiazide,Lisinopril,Increased digoxin toxicity,8,12,2,-0.8077593216668278,-0.41836862703422817
+Atorvastatin,Lisinopril,Risk of arrhythmia,2,12,9,-0.145679773493785,1.7222214856623834
+Ciprofloxacin,Contrast Dye,Reduced absorption,3,5,6,0.1194296572761496,0.16583148775044304
+Contrast Dye,Atorvastatin,Increased bleeding risk,5,2,1,-0.29093913444346564,-1.5833975416340582
+Contrast Dye,Amiodarone,Reduced absorption,5,0,6,0.8459010679238674,-0.3944365460867074
+Atorvastatin,Paracetamol,Enhanced sedation,2,16,0,-2.2329730392894738,-0.37840799869723757
+Losartan,Paracetamol,Increased risk of lactic acidosis,13,16,3,-0.49565584440624855,0.08764148466442451
+Simvastatin,Ciprofloxacin,Increased digoxin toxicity,18,3,2,1.185361670192181,-1.6396964911955458
+Furosemide,Paracetamol,Enhanced sedation,7,16,0,-1.6974476856229765,-0.5446934699897744
+Insulin,Atorvastatin,Reduced antihypertensive effect,10,2,7,1.3629090528568943,-0.08592797251610892
+Atorvastatin,Ciprofloxacin,Increased risk of lactic acidosis,2,3,3,-0.34193232260163353,-0.8302904763243472
+Digoxin,Aspirin,Increased digoxin toxicity,6,1,2,0.10500532906503474,-1.4381128982215117
+Clarithromycin,Contrast Dye,Enhanced sedation,4,5,0,-0.8917881056244135,-1.5311806469185507
+Lisinopril,Hydrochlorothiazide,Reduced absorption,12,8,6,0.7760185323671734,0.16276994661595806
+Hydrochlorothiazide,Omeprazole,Increased serum levels,8,15,5,-0.5559546663585679,0.7097612003630963
+Amiodarone,Levothyroxine,Reduced antihypertensive effect,0,11,7,-0.6302119390021145,1.135399891645209
+Metformin,Contrast Dye,Increased risk of lactic acidosis,14,5,3,0.7384240185255123,-1.0318740692983812
+Metformin,Aspirin,Increased risk of myopathy,14,1,4,1.3346201728093847,-1.1495846388194086
+Paracetamol,Omeprazole,Increased risk of myopathy,16,15,4,0.1144987605688507,0.16641193955995634
+Furosemide,Ciprofloxacin,Increased serum levels,7,3,5,0.566367308942818,-0.4419909341467218
+Warfarin,Prednisone,Enhanced sedation,19,17,0,-0.5146390906596068,-0.8450278320278358
+Simvastatin,Warfarin,Reduced absorption,18,19,6,0.29167416456850864,1.0494858407692123
+Levothyroxine,Omeprazole,Increased risk of lactic acidosis,11,15,3,-0.6074137320366237,0.05540490411741211
+Ciprofloxacin,Digoxin,Increased risk of myopathy,3,6,4,-0.3557968744380284,-0.290002756655692
+Amiodarone,Lisinopril,Enhanced sedation,0,12,0,-2.0373741654111774,-0.7068968864363314
+Ibuprofen,Furosemide,Reduced absorption,9,7,6,0.5571555740034988,0.16379046032745304
+Omeprazole,Metformin,Increased serum levels,15,14,5,0.29623308261075215,0.3782107714895176
+Aspirin,Clarithromycin,Increased risk of lactic acidosis,1,4,3,-0.551489647171157,-0.6982826130018126
+Furosemide,Lisinopril,Increased digoxin toxicity,7,12,2,-0.9148643924001273,-0.3851115327757208
+Lisinopril,Metformin,Reduced antihypertensive effect,12,14,7,0.3476921482888079,1.032567067735202
+Levothyroxine,Hydrochlorothiazide,Reduced absorption,11,8,6,0.668913461633874,0.19602704087446543
+Simvastatin,Amiodarone,Reduced effectiveness,18,0,8,2.611041265334715,-0.2721937579771411
+Prednisone,Ciprofloxacin,Reduced absorption,17,3,6,1.8238051552147898,-0.49726936999671445
+Clarithromycin,Contrast Dye,Increased serum levels,4,5,5,0.04014758907047195,-0.14471811324314537
+Metformin,Aspirin,Increased bleeding risk,14,1,1,0.7754587559924533,-1.9814621590246517
+Simvastatin,Hydrochlorothiazide,Enhanced sedation,18,8,0,0.3003261231331075,-1.7005276593455725
+Amiodarone,Lisinopril,Increased risk of lactic acidosis,0,12,3,-1.4782127485942462,0.12498063376891178
+Warfarin,Furosemide,Increased risk of myopathy,19,7,4,1.2554320034585396,-0.7233654957277829
+Simvastatin,Insulin,Increased bleeding risk,18,10,1,0.28180875439963715,-1.2257336144824371
+Ciprofloxacin,Lisinopril,Reduced absorption,3,12,6,-0.5977361195774168,0.8570868711986328
+Prednisone,Insulin,Reduced absorption,17,10,6,1.1066393783612232,0.19398601345147548
+Insulin,Digoxin,Increased bleeding risk,10,6,1,-0.16522279612186344,-1.3546799366704867
+Metformin,Insulin,Reduced antihypertensive effect,14,10,7,0.9717113051003019,0.5710498029620785
+Omeprazole,Prednisone,Increased digoxin toxicity,15,17,2,-0.5702850957148504,-0.15741444152364414
+Contrast Dye,Losartan,Increased serum levels,5,13,5,-0.6723653708860187,0.6120309450105641
+Insulin,Contrast Dye,Increased bleeding risk,10,5,1,-0.06277054228563962,-1.4534307057345137
+Prednisone,Hydrochlorothiazide,Increased risk of myopathy,17,8,4,0.9387696081557164,-0.558100538146741
+Losartan,Warfarin,Increased risk of myopathy,13,19,4,-0.6166254669759428,0.6611862985915868
+Warfarin,Paracetamol,Increased bleeding risk,19,16,1,-0.22579969788440593,-0.6664860943567819
+Simvastatin,Metformin,Increased risk of myopathy,18,14,4,0.4311611558716734,0.0011469819789144738
+Lisinopril,Contrast Dye,Increased bleeding risk,12,5,1,0.15143959918095926,-1.5199448942515286
+Amiodarone,Lisinopril,Reduced antihypertensive effect,0,12,7,-0.7326641928383381,1.234150660709236
+Furosemide,Lisinopril,Enhanced sedation,7,12,0,-1.2876386702780813,-0.9396965462458831
+Clarithromycin,Paracetamol,Risk of arrhythmia,4,16,9,-0.3412786473720813,2.0507103734014773
+Hydrochlorothiazide,Contrast Dye,Increased risk of myopathy,8,5,4,0.2821807330646927,-0.555038997012256
+Prednisone,Omeprazole,Enhanced sedation,17,15,0,-0.5239447244537582,-0.9760151816388752
+Prednisone,Ibuprofen,Enhanced sedation,17,9,0,0.09076879856358443,-1.568519796023038
+Contrast Dye,Amiodarone,Reduced effectiveness,5,0,8,1.2186753458018218,0.16014846738345476
+Paracetamol,Aspirin,Enhanced sedation,16,1,0,0.8032817585200751,-2.3252688542767475
+Clarithromycin,Simvastatin,Increased risk of lactic acidosis,4,18,3,-1.664505988678391,0.584456871119045
+Ibuprofen,Warfarin,Increased serum levels,9,19,5,-0.8586586109701635,1.0715071823606974
+Furosemide,Ibuprofen,Enhanced sedation,7,9,0,-0.9802819087694102,-1.2359488534379643
+Paracetamol,Furosemide,Reduced effectiveness,16,7,8,1.6796653470145493,0.48557581398806354
+Losartan,Digoxin,Reduced antihypertensive effect,13,6,7,1.2744152497118977,0.20930382096447744
+Simvastatin,Paracetamol,Increased digoxin toxicity,18,16,2,-0.14651762967872836,-0.3559364933631933
+Prednisone,Losartan,Reduced absorption,17,13,6,0.799282616852552,0.4902383206435568
+Omeprazole,Amiodarone,Increased risk of myopathy,15,0,4,1.544177497378908,-1.2815925021419432
+Furosemide,Ibuprofen,Increased serum levels,7,9,5,-0.04834621407452475,0.150513680237441
+Contrast Dye,Metformin,Risk of arrhythmia,5,14,9,-0.029269068966334143,1.8199517410149157
+Warfarin,Lisinopril,Reduced antihypertensive effect,19,12,7,1.3023321510943517,0.6022658697975959
+Prednisone,Amiodarone,Reduced absorption,17,0,6,2.131161916723461,-0.7935216771887958
+Digoxin,Omeprazole,Increased serum levels,6,15,5,-0.7701648078251668,0.776275388880111
+Ibuprofen,Paracetamol,Increased bleeding risk,9,16,1,-1.2968504052174006,-0.3339151517717081
+Digoxin,Furosemide,Reduced antihypertensive effect,6,7,7,0.42222750074257753,0.5408542498380561
+Warfarin,Losartan,Reduced effectiveness,19,13,8,1.3862670361971052,0.9783091455967042
+Paracetamol,Ibuprofen,Risk of arrhythmia,16,9,9,1.661147978281079,0.9603698588511989
+Omeprazole,Simvastatin,Enhanced sedation,15,18,0,-1.0455116274290284,-0.6132486859297792
+Contrast Dye,Paracetamol,Increased risk of myopathy,5,16,4,-1.1661092713336672,0.6309907454675645
+Lisinopril,Hydrochlorothiazide,Increased serum levels,12,8,5,0.5896313934281964,-0.11452256011912301
+Warfarin,Contrast Dye,Reduced antihypertensive effect,19,5,7,2.019497927947918,-0.0889895136505939
+Warfarin,Contrast Dye,Increased digoxin toxicity,19,5,2,1.0875622332530328,-1.475452047325999
+Clarithromycin,Atorvastatin,Increased serum levels,4,2,5,0.34750435057914325,-0.4409704204352268
+Warfarin,Atorvastatin,Increased risk of lactic acidosis,19,2,3,1.5813061337006813,-1.4944118477829995
+Insulin,Warfarin,Enhanced sedation,10,19,0,-1.6834892349317494,-0.3482124455732151
+Ibuprofen,Insulin,Increased digoxin toxicity,9,10,2,-0.49574974326108084,-0.6491272594207899
+Lisinopril,Metformin,Reduced antihypertensive effect,12,14,7,0.3476921482888079,1.032567067735202
+Ibuprofen,Clarithromycin,Increased digoxin toxicity,9,4,2,0.11896377975626177,-1.2416318738049523
+Ciprofloxacin,Levothyroxine,Increased digoxin toxicity,3,11,2,-1.2408324214971012,-0.3508339248057184
+Clarithromycin,Levothyroxine,Increased risk of lactic acidosis,4,11,3,-0.9473402118248249,-0.10679851232914478
+Clarithromycin,Furosemide,Increased bleeding risk,4,7,1,-0.910305474357884,-1.0563866020554153
+Metformin,Losartan,Reduced absorption,14,13,6,0.47796740465265347,0.5900096034190788
+Insulin,Ciprofloxacin,Risk of arrhythmia,10,3,9,1.633231076898625,0.5674078100180803
+Losartan,Contrast Dye,Increased bleeding risk,13,5,1,0.25854466991425884,-1.5532019885100359
+Digoxin,Simvastatin,Reduced antihypertensive effect,6,18,7,-0.704747291455884,1.6271127095423545
+Atorvastatin,Ciprofloxacin,Increased serum levels,2,3,5,0.03084195527632065,-0.27570546285418496
+Lisinopril,Contrast Dye,Increased bleeding risk,12,5,1,0.15143959918095926,-1.5199448942515286
+Amiodarone,Clarithromycin,Reduced antihypertensive effect,0,4,7,0.08695383785145192,0.44414450819701906
+Simvastatin,Furosemide,Reduced absorption,18,7,6,1.521101210603194,-0.13552338799911334
+Aspirin,Ibuprofen,Reduced antihypertensive effect,1,9,7,-0.3182023605963675,0.9046412592586472
+Hydrochlorothiazide,Contrast Dye,Reduced absorption,8,5,6,0.6549550109426469,-0.0004539835420938819
+Paracetamol,Warfarin,Enhanced sedation,16,19,0,-1.0408588105319527,-0.5477550111242594
+Losartan,Warfarin,Increased risk of myopathy,13,19,4,-0.6166254669759428,0.6611862985915868
+Metformin,Ibuprofen,Enhanced sedation,14,9,0,-0.23054641363631392,-1.4687485132475158
+Hydrochlorothiazide,Insulin,Increased bleeding risk,8,10,1,-0.7892419529333574,-0.8931626718973635
+Contrast Dye,Furosemide,Enhanced sedation,5,7,0,-0.9895875425635616,-1.3669362030490038
+Digoxin,Levothyroxine,Increased digoxin toxicity,6,11,2,-0.9195172092972029,-0.4506052075812405
+Paracetamol,Omeprazole,Increased serum levels,16,15,5,0.3008858995078278,0.4437044462950374
+Digoxin,Levothyroxine,Enhanced sedation,6,11,0,-1.292291487175157,-1.0051902210514025
+Clarithromycin,Furosemide,Increased serum levels,4,7,5,-0.1647569186019756,0.05278342488490881
+Prednisone,Paracetamol,Increased risk of myopathy,17,16,4,0.11915157746592636,0.23190561436547616
+Clarithromycin,Omeprazole,Enhanced sedation,4,15,0,-1.9163106439866513,-0.5436729562782795
+Hydrochlorothiazide,Paracetamol,Increased bleeding risk,8,16,1,-1.4039554759507,-0.3006580575132008
+Amiodarone,Prednisone,Enhanced sedation,0,17,0,-2.5496354345922967,-0.21314304111619573
+Warfarin,Ibuprofen,Increased bleeding risk,19,9,1,0.4913660789691605,-1.3577414778049717
+Paracetamol,Atorvastatin,Increased risk of lactic acidosis,16,2,3,1.259990921500783,-1.3946405650074774
+Simvastatin,Paracetamol,Reduced antihypertensive effect,18,16,7,0.7854180650161571,1.030526040312212
+Warfarin,Clarithromycin,Reduced antihypertensive effect,19,4,7,2.121950181784142,-0.18774028271462093
+Insulin,Metformin,Enhanced sedation,10,14,0,-1.1712279657506306,-0.8419662908933508
+Clarithromycin,Insulin,Increased risk of lactic acidosis,4,10,3,-0.8448879579886012,-0.20554928139317194

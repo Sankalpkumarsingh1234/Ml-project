@@ -1,0 +1,1201 @@
+Intent,User_Input,Response,Entity,Category
+Lifestyle_Advice,Can I take alcohol with my medication?,Avoid taking alcohol with certain medications. Consult your doctor.,alcohol,Lifestyle
+Drug_Info,What is Lithium used for?,Lithium is used for treatment of its respective condition.,Lithium,Drug
+Symptom_Advice,"I have nausea, what should I do?","For nausea, monitor and consult your doctor if persistent.",nausea,Symptom
+Interaction_Check,Can I take Aspirin and Lithium together?,Aspirin and Lithium may have Minor interaction.,Aspirin/Lithium,Drug
+Side_Effect,What are side effects of Warfarin?,Common side effects of Warfarin include mild to moderate reactions.,Warfarin,Drug
+Side_Effect,What are side effects of Amiodarone?,Common side effects of Amiodarone include mild to moderate reactions.,Amiodarone,Drug
+Drug_Info,What is Metformin used for?,Metformin is used for treatment of its respective condition.,Metformin,Drug
+Drug_Info,What is Lisinopril used for?,Lisinopril is used for treatment of its respective condition.,Lisinopril,Drug
+Interaction_Check,Can I take Levothyroxine and Omeprazole together?,Levothyroxine and Omeprazole may have Major interaction.,Levothyroxine/Omeprazole,Drug
+Lifestyle_Advice,Can I take grapefruit with my medication?,Avoid taking grapefruit with certain medications. Consult your doctor.,grapefruit,Lifestyle
+Drug_Dosage,Recommended dose of Lisinopril?,Typical dose for Lisinopril depends on individual condition. Consult doctor.,Lisinopril,Drug
+Drug_Dosage,Recommended dose of Omeprazole?,Typical dose for Omeprazole depends on individual condition. Consult doctor.,Omeprazole,Drug
+Symptom_Advice,"I have headache, what should I do?","For headache, monitor and consult your doctor if persistent.",headache,Symptom
+Interaction_Check,Can I take Lithium and Amiodarone together?,Lithium and Amiodarone may have Major interaction.,Lithium/Amiodarone,Drug
+Interaction_Check,Can I take Prednisone and Digoxin together?,Prednisone and Digoxin may have Moderate interaction.,Prednisone/Digoxin,Drug
+Drug_Info,What is Digoxin used for?,Digoxin is used for treatment of its respective condition.,Digoxin,Drug
+Symptom_Advice,"I have shortness of breath, what should I do?","For shortness of breath, monitor and consult your doctor if persistent.",shortness of breath,Symptom
+Symptom_Advice,"I have headache, what should I do?","For headache, monitor and consult your doctor if persistent.",headache,Symptom
+Lifestyle_Advice,Can I take exercise with my medication?,Avoid taking exercise with certain medications. Consult your doctor.,exercise,Lifestyle
+Side_Effect,What are side effects of Warfarin?,Common side effects of Warfarin include mild to moderate reactions.,Warfarin,Drug
+Drug_Dosage,Recommended dose of Warfarin?,Typical dose for Warfarin depends on individual condition. Consult doctor.,Warfarin,Drug
+Side_Effect,What are side effects of Ibuprofen?,Common side effects of Ibuprofen include mild to moderate reactions.,Ibuprofen,Drug
+Lifestyle_Advice,Can I take grapefruit with my medication?,Avoid taking grapefruit with certain medications. Consult your doctor.,grapefruit,Lifestyle
+Symptom_Advice,"I have shortness of breath, what should I do?","For shortness of breath, monitor and consult your doctor if persistent.",shortness of breath,Symptom
+Interaction_Check,Can I take Lithium and Warfarin together?,Lithium and Warfarin may have Major interaction.,Lithium/Warfarin,Drug
+Symptom_Advice,"I have headache, what should I do?","For headache, monitor and consult your doctor if persistent.",headache,Symptom
+Interaction_Check,Can I take Simvastatin and Warfarin together?,Simvastatin and Warfarin may have Moderate interaction.,Simvastatin/Warfarin,Drug
+Lifestyle_Advice,Can I take diet with my medication?,Avoid taking diet with certain medications. Consult your doctor.,diet,Lifestyle
+Interaction_Check,Can I take Digoxin and Simvastatin together?,Digoxin and Simvastatin may have Moderate interaction.,Digoxin/Simvastatin,Drug
+Lifestyle_Advice,Can I take alcohol with my medication?,Avoid taking alcohol with certain medications. Consult your doctor.,alcohol,Lifestyle
+Side_Effect,What are side effects of Clopidogrel?,Common side effects of Clopidogrel include mild to moderate reactions.,Clopidogrel,Drug
+Interaction_Check,Can I take Levothyroxine and Lithium together?,Levothyroxine and Lithium may have Moderate interaction.,Levothyroxine/Lithium,Drug
+Drug_Dosage,Recommended dose of Ibuprofen?,Typical dose for Ibuprofen depends on individual condition. Consult doctor.,Ibuprofen,Drug
+Lifestyle_Advice,Can I take grapefruit with my medication?,Avoid taking grapefruit with certain medications. Consult your doctor.,grapefruit,Lifestyle
+Interaction_Check,Can I take Clopidogrel and Digoxin together?,Clopidogrel and Digoxin do not have significant interactions.,Clopidogrel/Digoxin,Drug
+Drug_Info,What is Lisinopril used for?,Lisinopril is used for treatment of its respective condition.,Lisinopril,Drug
+Drug_Info,What is Prednisone used for?,Prednisone is used for treatment of its respective condition.,Prednisone,Drug
+Symptom_Advice,"I have fatigue, what should I do?","For fatigue, monitor and consult your doctor if persistent.",fatigue,Symptom
+Symptom_Advice,"I have headache, what should I do?","For headache, monitor and consult your doctor if persistent.",headache,Symptom
+Interaction_Check,Can I take Omeprazole and Lithium together?,Omeprazole and Lithium may have Minor interaction.,Omeprazole/Lithium,Drug
+Drug_Dosage,Recommended dose of Amiodarone?,Typical dose for Amiodarone depends on individual condition. Consult doctor.,Amiodarone,Drug
+Lifestyle_Advice,Can I take exercise with my medication?,Avoid taking exercise with certain medications. Consult your doctor.,exercise,Lifestyle
+Interaction_Check,Can I take Ibuprofen and Aspirin together?,Ibuprofen and Aspirin may have Minor interaction.,Ibuprofen/Aspirin,Drug
+Side_Effect,What are side effects of Ibuprofen?,Common side effects of Ibuprofen include mild to moderate reactions.,Ibuprofen,Drug
+Lifestyle_Advice,Can I take grapefruit with my medication?,Avoid taking grapefruit with certain medications. Consult your doctor.,grapefruit,Lifestyle
+Drug_Dosage,Recommended dose of Omeprazole?,Typical dose for Omeprazole depends on individual condition. Consult doctor.,Omeprazole,Drug
+Drug_Dosage,Recommended dose of Digoxin?,Typical dose for Digoxin depends on individual condition. Consult doctor.,Digoxin,Drug
+Interaction_Check,Can I take Aspirin and Levothyroxine together?,Aspirin and Levothyroxine may have Major interaction.,Aspirin/Levothyroxine,Drug
+Drug_Info,What is Aspirin used for?,Aspirin is used for treatment of its respective condition.,Aspirin,Drug
+Lifestyle_Advice,Can I take calcium with my medication?,Avoid taking calcium with certain medications. Consult your doctor.,calcium,Lifestyle
+Lifestyle_Advice,Can I take exercise with my medication?,Avoid taking exercise with certain medications. Consult your doctor.,exercise,Lifestyle
+Side_Effect,What are side effects of Warfarin?,Common side effects of Warfarin include mild to moderate reactions.,Warfarin,Drug
+Drug_Dosage,Recommended dose of Amiodarone?,Typical dose for Amiodarone depends on individual condition. Consult doctor.,Amiodarone,Drug
+Side_Effect,What are side effects of Sildenafil?,Common side effects of Sildenafil include mild to moderate reactions.,Sildenafil,Drug
+Side_Effect,What are side effects of Ibuprofen?,Common side effects of Ibuprofen include mild to moderate reactions.,Ibuprofen,Drug
+Side_Effect,What are side effects of Simvastatin?,Common side effects of Simvastatin include mild to moderate reactions.,Simvastatin,Drug
+Drug_Info,What is Clopidogrel used for?,Clopidogrel is used for treatment of its respective condition.,Clopidogrel,Drug
+Lifestyle_Advice,Can I take alcohol with my medication?,Avoid taking alcohol with certain medications. Consult your doctor.,alcohol,Lifestyle
+Lifestyle_Advice,Can I take grapefruit with my medication?,Avoid taking grapefruit with certain medications. Consult your doctor.,grapefruit,Lifestyle
+Symptom_Advice,"I have palpitations, what should I do?","For palpitations, monitor and consult your doctor if persistent.",palpitations,Symptom
+Symptom_Advice,"I have headache, what should I do?","For headache, monitor and consult your doctor if persistent.",headache,Symptom
+Symptom_Advice,"I have fatigue, what should I do?","For fatigue, monitor and consult your doctor if persistent.",fatigue,Symptom
+Interaction_Check,Can I take Sildenafil and Metformin together?,Sildenafil and Metformin do not have significant interactions.,Sildenafil/Metformin,Drug
+Lifestyle_Advice,Can I take diet with my medication?,Avoid taking diet with certain medications. Consult your doctor.,diet,Lifestyle
+Side_Effect,What are side effects of Prednisone?,Common side effects of Prednisone include mild to moderate reactions.,Prednisone,Drug
+Interaction_Check,Can I take Levothyroxine and Warfarin together?,Levothyroxine and Warfarin do not have significant interactions.,Levothyroxine/Warfarin,Drug
+Symptom_Advice,"I have palpitations, what should I do?","For palpitations, monitor and consult your doctor if persistent.",palpitations,Symptom
+Side_Effect,What are side effects of Omeprazole?,Common side effects of Omeprazole include mild to moderate reactions.,Omeprazole,Drug
+Interaction_Check,Can I take Aspirin and Digoxin together?,Aspirin and Digoxin do not have significant interactions.,Aspirin/Digoxin,Drug
+Side_Effect,What are side effects of Prednisone?,Common side effects of Prednisone include mild to moderate reactions.,Prednisone,Drug
+Side_Effect,What are side effects of Metformin?,Common side effects of Metformin include mild to moderate reactions.,Metformin,Drug
+Side_Effect,What are side effects of Digoxin?,Common side effects of Digoxin include mild to moderate reactions.,Digoxin,Drug
+Drug_Dosage,Recommended dose of Metformin?,Typical dose for Metformin depends on individual condition. Consult doctor.,Metformin,Drug
+Drug_Info,What is Digoxin used for?,Digoxin is used for treatment of its respective condition.,Digoxin,Drug
+Symptom_Advice,"I have nausea, what should I do?","For nausea, monitor and consult your doctor if persistent.",nausea,Symptom
+Drug_Info,What is Lisinopril used for?,Lisinopril is used for treatment of its respective condition.,Lisinopril,Drug
+Side_Effect,What are side effects of Warfarin?,Common side effects of Warfarin include mild to moderate reactions.,Warfarin,Drug
+Drug_Info,What is Lithium used for?,Lithium is used for treatment of its respective condition.,Lithium,Drug
+Drug_Dosage,Recommended dose of Simvastatin?,Typical dose for Simvastatin depends on individual condition. Consult doctor.,Simvastatin,Drug
+Drug_Info,What is Prednisone used for?,Prednisone is used for treatment of its respective condition.,Prednisone,Drug
+Side_Effect,What are side effects of Prednisone?,Common side effects of Prednisone include mild to moderate reactions.,Prednisone,Drug
+Interaction_Check,Can I take Aspirin and Clopidogrel together?,Aspirin and Clopidogrel may have Minor interaction.,Aspirin/Clopidogrel,Drug
+Interaction_Check,Can I take Ibuprofen and Levothyroxine together?,Ibuprofen and Levothyroxine do not have significant interactions.,Ibuprofen/Levothyroxine,Drug
+Drug_Dosage,Recommended dose of Lisinopril?,Typical dose for Lisinopril depends on individual condition. Consult doctor.,Lisinopril,Drug
+Side_Effect,What are side effects of Prednisone?,Common side effects of Prednisone include mild to moderate reactions.,Prednisone,Drug
+Lifestyle_Advice,Can I take calcium with my medication?,Avoid taking calcium with certain medications. Consult your doctor.,calcium,Lifestyle
+Lifestyle_Advice,Can I take diet with my medication?,Avoid taking diet with certain medications. Consult your doctor.,diet,Lifestyle
+Drug_Dosage,Recommended dose of Clopidogrel?,Typical dose for Clopidogrel depends on individual condition. Consult doctor.,Clopidogrel,Drug
+Lifestyle_Advice,Can I take diet with my medication?,Avoid taking diet with certain medications. Consult your doctor.,diet,Lifestyle
+Drug_Dosage,Recommended dose of Levothyroxine?,Typical dose for Levothyroxine depends on individual condition. Consult doctor.,Levothyroxine,Drug
+Drug_Dosage,Recommended dose of Warfarin?,Typical dose for Warfarin depends on individual condition. Consult doctor.,Warfarin,Drug
+Interaction_Check,Can I take Lisinopril and Warfarin together?,Lisinopril and Warfarin may have Minor interaction.,Lisinopril/Warfarin,Drug
+Side_Effect,What are side effects of Lisinopril?,Common side effects of Lisinopril include mild to moderate reactions.,Lisinopril,Drug
+Side_Effect,What are side effects of Lisinopril?,Common side effects of Lisinopril include mild to moderate reactions.,Lisinopril,Drug
+Drug_Info,What is Warfarin used for?,Warfarin is used for treatment of its respective condition.,Warfarin,Drug
+Lifestyle_Advice,Can I take alcohol with my medication?,Avoid taking alcohol with certain medications. Consult your doctor.,alcohol,Lifestyle
+Interaction_Check,Can I take Warfarin and Metformin together?,Warfarin and Metformin do not have significant interactions.,Warfarin/Metformin,Drug
+Drug_Info,What is Levothyroxine used for?,Levothyroxine is used for treatment of its respective condition.,Levothyroxine,Drug
+Interaction_Check,Can I take Ibuprofen and Clopidogrel together?,Ibuprofen and Clopidogrel may have Minor interaction.,Ibuprofen/Clopidogrel,Drug
+Interaction_Check,Can I take Lithium and Omeprazole together?,Lithium and Omeprazole may have Major interaction.,Lithium/Omeprazole,Drug
+Drug_Dosage,Recommended dose of Prednisone?,Typical dose for Prednisone depends on individual condition. Consult doctor.,Prednisone,Drug
+Drug_Dosage,Recommended dose of Lisinopril?,Typical dose for Lisinopril depends on individual condition. Consult doctor.,Lisinopril,Drug
+Drug_Info,What is Warfarin used for?,Warfarin is used for treatment of its respective condition.,Warfarin,Drug
+Lifestyle_Advice,Can I take exercise with my medication?,Avoid taking exercise with certain medications. Consult your doctor.,exercise,Lifestyle
+Symptom_Advice,"I have fatigue, what should I do?","For fatigue, monitor and consult your doctor if persistent.",fatigue,Symptom
+Drug_Dosage,Recommended dose of Sildenafil?,Typical dose for Sildenafil depends on individual condition. Consult doctor.,Sildenafil,Drug
+Lifestyle_Advice,Can I take alcohol with my medication?,Avoid taking alcohol with certain medications. Consult your doctor.,alcohol,Lifestyle
+Lifestyle_Advice,Can I take alcohol with my medication?,Avoid taking alcohol with certain medications. Consult your doctor.,alcohol,Lifestyle
+Drug_Info,What is Amiodarone used for?,Amiodarone is used for treatment of its respective condition.,Amiodarone,Drug
+Lifestyle_Advice,Can I take diet with my medication?,Avoid taking diet with certain medications. Consult your doctor.,diet,Lifestyle
+Drug_Info,What is Lisinopril used for?,Lisinopril is used for treatment of its respective condition.,Lisinopril,Drug
+Interaction_Check,Can I take Lisinopril and Levothyroxine together?,Lisinopril and Levothyroxine may have Moderate interaction.,Lisinopril/Levothyroxine,Drug
+Interaction_Check,Can I take Ibuprofen and Sildenafil together?,Ibuprofen and Sildenafil may have Major interaction.,Ibuprofen/Sildenafil,Drug
+Drug_Dosage,Recommended dose of Prednisone?,Typical dose for Prednisone depends on individual condition. Consult doctor.,Prednisone,Drug
+Side_Effect,What are side effects of Warfarin?,Common side effects of Warfarin include mild to moderate reactions.,Warfarin,Drug
+Drug_Info,What is Clopidogrel used for?,Clopidogrel is used for treatment of its respective condition.,Clopidogrel,Drug
+Side_Effect,What are side effects of Simvastatin?,Common side effects of Simvastatin include mild to moderate reactions.,Simvastatin,Drug
+Drug_Info,What is Warfarin used for?,Warfarin is used for treatment of its respective condition.,Warfarin,Drug
+Interaction_Check,Can I take Aspirin and Amiodarone together?,Aspirin and Amiodarone may have Major interaction.,Aspirin/Amiodarone,Drug
+Drug_Dosage,Recommended dose of Metformin?,Typical dose for Metformin depends on individual condition. Consult doctor.,Metformin,Drug
+Interaction_Check,Can I take Amiodarone and Metformin together?,Amiodarone and Metformin do not have significant interactions.,Amiodarone/Metformin,Drug
+Symptom_Advice,"I have fatigue, what should I do?","For fatigue, monitor and consult your doctor if persistent.",fatigue,Symptom
+Symptom_Advice,"I have fatigue, what should I do?","For fatigue, monitor and consult your doctor if persistent.",fatigue,Symptom
+Lifestyle_Advice,Can I take grapefruit with my medication?,Avoid taking grapefruit with certain medications. Consult your doctor.,grapefruit,Lifestyle
+Lifestyle_Advice,Can I take exercise with my medication?,Avoid taking exercise with certain medications. Consult your doctor.,exercise,Lifestyle
+Interaction_Check,Can I take Lisinopril and Ibuprofen together?,Lisinopril and Ibuprofen may have Major interaction.,Lisinopril/Ibuprofen,Drug
+Side_Effect,What are side effects of Lithium?,Common side effects of Lithium include mild to moderate reactions.,Lithium,Drug
+Side_Effect,What are side effects of Metformin?,Common side effects of Metformin include mild to moderate reactions.,Metformin,Drug
+Lifestyle_Advice,Can I take diet with my medication?,Avoid taking diet with certain medications. Consult your doctor.,diet,Lifestyle
+Drug_Info,What is Metformin used for?,Metformin is used for treatment of its respective condition.,Metformin,Drug
+Side_Effect,What are side effects of Sildenafil?,Common side effects of Sildenafil include mild to moderate reactions.,Sildenafil,Drug
+Side_Effect,What are side effects of Simvastatin?,Common side effects of Simvastatin include mild to moderate reactions.,Simvastatin,Drug
+Side_Effect,What are side effects of Aspirin?,Common side effects of Aspirin include mild to moderate reactions.,Aspirin,Drug
+Drug_Info,What is Levothyroxine used for?,Levothyroxine is used for treatment of its respective condition.,Levothyroxine,Drug
+Drug_Info,What is Simvastatin used for?,Simvastatin is used for treatment of its respective condition.,Simvastatin,Drug
+Interaction_Check,Can I take Warfarin and Omeprazole together?,Warfarin and Omeprazole may have Major interaction.,Warfarin/Omeprazole,Drug
+Drug_Dosage,Recommended dose of Warfarin?,Typical dose for Warfarin depends on individual condition. Consult doctor.,Warfarin,Drug
+Side_Effect,What are side effects of Lisinopril?,Common side effects of Lisinopril include mild to moderate reactions.,Lisinopril,Drug
+Side_Effect,What are side effects of Omeprazole?,Common side effects of Omeprazole include mild to moderate reactions.,Omeprazole,Drug
+Drug_Info,What is Omeprazole used for?,Omeprazole is used for treatment of its respective condition.,Omeprazole,Drug
+Drug_Info,What is Amiodarone used for?,Amiodarone is used for treatment of its respective condition.,Amiodarone,Drug
+Lifestyle_Advice,Can I take grapefruit with my medication?,Avoid taking grapefruit with certain medications. Consult your doctor.,grapefruit,Lifestyle
+Side_Effect,What are side effects of Levothyroxine?,Common side effects of Levothyroxine include mild to moderate reactions.,Levothyroxine,Drug
+Symptom_Advice,"I have dizziness, what should I do?","For dizziness, monitor and consult your doctor if persistent.",dizziness,Symptom
+Interaction_Check,Can I take Clopidogrel and Lithium together?,Clopidogrel and Lithium may have Moderate interaction.,Clopidogrel/Lithium,Drug
+Drug_Dosage,Recommended dose of Aspirin?,Typical dose for Aspirin depends on individual condition. Consult doctor.,Aspirin,Drug
+Lifestyle_Advice,Can I take diet with my medication?,Avoid taking diet with certain medications. Consult your doctor.,diet,Lifestyle
+Drug_Dosage,Recommended dose of Digoxin?,Typical dose for Digoxin depends on individual condition. Consult doctor.,Digoxin,Drug
+Drug_Info,What is Metformin used for?,Metformin is used for treatment of its respective condition.,Metformin,Drug
+Drug_Dosage,Recommended dose of Omeprazole?,Typical dose for Omeprazole depends on individual condition. Consult doctor.,Omeprazole,Drug
+Side_Effect,What are side effects of Warfarin?,Common side effects of Warfarin include mild to moderate reactions.,Warfarin,Drug
+Drug_Info,What is Levothyroxine used for?,Levothyroxine is used for treatment of its respective condition.,Levothyroxine,Drug
+Interaction_Check,Can I take Levothyroxine and Ibuprofen together?,Levothyroxine and Ibuprofen may have Moderate interaction.,Levothyroxine/Ibuprofen,Drug
+Drug_Info,What is Lisinopril used for?,Lisinopril is used for treatment of its respective condition.,Lisinopril,Drug
+Symptom_Advice,"I have dizziness, what should I do?","For dizziness, monitor and consult your doctor if persistent.",dizziness,Symptom
+Interaction_Check,Can I take Sildenafil and Levothyroxine together?,Sildenafil and Levothyroxine do not have significant interactions.,Sildenafil/Levothyroxine,Drug
+Side_Effect,What are side effects of Prednisone?,Common side effects of Prednisone include mild to moderate reactions.,Prednisone,Drug
+Lifestyle_Advice,Can I take grapefruit with my medication?,Avoid taking grapefruit with certain medications. Consult your doctor.,grapefruit,Lifestyle
+Drug_Info,What is Clopidogrel used for?,Clopidogrel is used for treatment of its respective condition.,Clopidogrel,Drug
+Side_Effect,What are side effects of Ibuprofen?,Common side effects of Ibuprofen include mild to moderate reactions.,Ibuprofen,Drug
+Lifestyle_Advice,Can I take alcohol with my medication?,Avoid taking alcohol with certain medications. Consult your doctor.,alcohol,Lifestyle
+Interaction_Check,Can I take Ibuprofen and Warfarin together?,Ibuprofen and Warfarin do not have significant interactions.,Ibuprofen/Warfarin,Drug
+Lifestyle_Advice,Can I take grapefruit with my medication?,Avoid taking grapefruit with certain medications. Consult your doctor.,grapefruit,Lifestyle
+Interaction_Check,Can I take Ibuprofen and Simvastatin together?,Ibuprofen and Simvastatin may have Minor interaction.,Ibuprofen/Simvastatin,Drug
+Symptom_Advice,"I have nausea, what should I do?","For nausea, monitor and consult your doctor if persistent.",nausea,Symptom
+Lifestyle_Advice,Can I take diet with my medication?,Avoid taking diet with certain medications. Consult your doctor.,diet,Lifestyle
+Side_Effect,What are side effects of Sildenafil?,Common side effects of Sildenafil include mild to moderate reactions.,Sildenafil,Drug
+Symptom_Advice,"I have headache, what should I do?","For headache, monitor and consult your doctor if persistent.",headache,Symptom
+Drug_Info,What is Clopidogrel used for?,Clopidogrel is used for treatment of its respective condition.,Clopidogrel,Drug
+Drug_Dosage,Recommended dose of Simvastatin?,Typical dose for Simvastatin depends on individual condition. Consult doctor.,Simvastatin,Drug
+Symptom_Advice,"I have headache, what should I do?","For headache, monitor and consult your doctor if persistent.",headache,Symptom
+Drug_Info,What is Digoxin used for?,Digoxin is used for treatment of its respective condition.,Digoxin,Drug
+Interaction_Check,Can I take Clopidogrel and Ibuprofen together?,Clopidogrel and Ibuprofen may have Moderate interaction.,Clopidogrel/Ibuprofen,Drug
+Side_Effect,What are side effects of Lithium?,Common side effects of Lithium include mild to moderate reactions.,Lithium,Drug
+Drug_Dosage,Recommended dose of Levothyroxine?,Typical dose for Levothyroxine depends on individual condition. Consult doctor.,Levothyroxine,Drug
+Drug_Info,What is Warfarin used for?,Warfarin is used for treatment of its respective condition.,Warfarin,Drug
+Drug_Info,What is Lithium used for?,Lithium is used for treatment of its respective condition.,Lithium,Drug
+Interaction_Check,Can I take Levothyroxine and Metformin together?,Levothyroxine and Metformin do not have significant interactions.,Levothyroxine/Metformin,Drug
+Side_Effect,What are side effects of Levothyroxine?,Common side effects of Levothyroxine include mild to moderate reactions.,Levothyroxine,Drug
+Interaction_Check,Can I take Amiodarone and Aspirin together?,Amiodarone and Aspirin may have Moderate interaction.,Amiodarone/Aspirin,Drug
+Drug_Info,What is Digoxin used for?,Digoxin is used for treatment of its respective condition.,Digoxin,Drug
+Interaction_Check,Can I take Clopidogrel and Lisinopril together?,Clopidogrel and Lisinopril may have Moderate interaction.,Clopidogrel/Lisinopril,Drug
+Side_Effect,What are side effects of Simvastatin?,Common side effects of Simvastatin include mild to moderate reactions.,Simvastatin,Drug
+Drug_Dosage,Recommended dose of Omeprazole?,Typical dose for Omeprazole depends on individual condition. Consult doctor.,Omeprazole,Drug
+Lifestyle_Advice,Can I take calcium with my medication?,Avoid taking calcium with certain medications. Consult your doctor.,calcium,Lifestyle
+Interaction_Check,Can I take Simvastatin and Aspirin together?,Simvastatin and Aspirin do not have significant interactions.,Simvastatin/Aspirin,Drug
+Interaction_Check,Can I take Amiodarone and Metformin together?,Amiodarone and Metformin may have Moderate interaction.,Amiodarone/Metformin,Drug
+Drug_Dosage,Recommended dose of Prednisone?,Typical dose for Prednisone depends on individual condition. Consult doctor.,Prednisone,Drug
+Lifestyle_Advice,Can I take calcium with my medication?,Avoid taking calcium with certain medications. Consult your doctor.,calcium,Lifestyle
+Symptom_Advice,"I have nausea, what should I do?","For nausea, monitor and consult your doctor if persistent.",nausea,Symptom
+Lifestyle_Advice,Can I take alcohol with my medication?,Avoid taking alcohol with certain medications. Consult your doctor.,alcohol,Lifestyle
+Drug_Dosage,Recommended dose of Simvastatin?,Typical dose for Simvastatin depends on individual condition. Consult doctor.,Simvastatin,Drug
+Drug_Info,What is Simvastatin used for?,Simvastatin is used for treatment of its respective condition.,Simvastatin,Drug
+Drug_Dosage,Recommended dose of Lisinopril?,Typical dose for Lisinopril depends on individual condition. Consult doctor.,Lisinopril,Drug
+Interaction_Check,Can I take Simvastatin and Sildenafil together?,Simvastatin and Sildenafil may have Major interaction.,Simvastatin/Sildenafil,Drug
+Interaction_Check,Can I take Metformin and Clopidogrel together?,Metformin and Clopidogrel may have Moderate interaction.,Metformin/Clopidogrel,Drug
+Symptom_Advice,"I have headache, what should I do?","For headache, monitor and consult your doctor if persistent.",headache,Symptom
+Symptom_Advice,"I have dizziness, what should I do?","For dizziness, monitor and consult your doctor if persistent.",dizziness,Symptom
+Lifestyle_Advice,Can I take grapefruit with my medication?,Avoid taking grapefruit with certain medications. Consult your doctor.,grapefruit,Lifestyle
+Drug_Dosage,Recommended dose of Clopidogrel?,Typical dose for Clopidogrel depends on individual condition. Consult doctor.,Clopidogrel,Drug
+Side_Effect,What are side effects of Digoxin?,Common side effects of Digoxin include mild to moderate reactions.,Digoxin,Drug
+Drug_Info,What is Warfarin used for?,Warfarin is used for treatment of its respective condition.,Warfarin,Drug
+Symptom_Advice,"I have nausea, what should I do?","For nausea, monitor and consult your doctor if persistent.",nausea,Symptom
+Side_Effect,What are side effects of Ibuprofen?,Common side effects of Ibuprofen include mild to moderate reactions.,Ibuprofen,Drug
+Drug_Info,What is Warfarin used for?,Warfarin is used for treatment of its respective condition.,Warfarin,Drug
+Side_Effect,What are side effects of Amiodarone?,Common side effects of Amiodarone include mild to moderate reactions.,Amiodarone,Drug
+Symptom_Advice,"I have palpitations, what should I do?","For palpitations, monitor and consult your doctor if persistent.",palpitations,Symptom
+Symptom_Advice,"I have fatigue, what should I do?","For fatigue, monitor and consult your doctor if persistent.",fatigue,Symptom
+Side_Effect,What are side effects of Levothyroxine?,Common side effects of Levothyroxine include mild to moderate reactions.,Levothyroxine,Drug
+Drug_Info,What is Amiodarone used for?,Amiodarone is used for treatment of its respective condition.,Amiodarone,Drug
+Side_Effect,What are side effects of Lisinopril?,Common side effects of Lisinopril include mild to moderate reactions.,Lisinopril,Drug
+Symptom_Advice,"I have headache, what should I do?","For headache, monitor and consult your doctor if persistent.",headache,Symptom
+Lifestyle_Advice,Can I take exercise with my medication?,Avoid taking exercise with certain medications. Consult your doctor.,exercise,Lifestyle
+Drug_Info,What is Levothyroxine used for?,Levothyroxine is used for treatment of its respective condition.,Levothyroxine,Drug
+Side_Effect,What are side effects of Clopidogrel?,Common side effects of Clopidogrel include mild to moderate reactions.,Clopidogrel,Drug
+Lifestyle_Advice,Can I take calcium with my medication?,Avoid taking calcium with certain medications. Consult your doctor.,calcium,Lifestyle
+Symptom_Advice,"I have fatigue, what should I do?","For fatigue, monitor and consult your doctor if persistent.",fatigue,Symptom
+Drug_Info,What is Clopidogrel used for?,Clopidogrel is used for treatment of its respective condition.,Clopidogrel,Drug
+Symptom_Advice,"I have shortness of breath, what should I do?","For shortness of breath, monitor and consult your doctor if persistent.",shortness of breath,Symptom
+Symptom_Advice,"I have palpitations, what should I do?","For palpitations, monitor and consult your doctor if persistent.",palpitations,Symptom
+Drug_Info,What is Lithium used for?,Lithium is used for treatment of its respective condition.,Lithium,Drug
+Symptom_Advice,"I have shortness of breath, what should I do?","For shortness of breath, monitor and consult your doctor if persistent.",shortness of breath,Symptom
+Symptom_Advice,"I have palpitations, what should I do?","For palpitations, monitor and consult your doctor if persistent.",palpitations,Symptom
+Drug_Dosage,Recommended dose of Digoxin?,Typical dose for Digoxin depends on individual condition. Consult doctor.,Digoxin,Drug
+Drug_Dosage,Recommended dose of Lithium?,Typical dose for Lithium depends on individual condition. Consult doctor.,Lithium,Drug
+Symptom_Advice,"I have shortness of breath, what should I do?","For shortness of breath, monitor and consult your doctor if persistent.",shortness of breath,Symptom
+Interaction_Check,Can I take Lisinopril and Amiodarone together?,Lisinopril and Amiodarone may have Moderate interaction.,Lisinopril/Amiodarone,Drug
+Lifestyle_Advice,Can I take calcium with my medication?,Avoid taking calcium with certain medications. Consult your doctor.,calcium,Lifestyle
+Side_Effect,What are side effects of Omeprazole?,Common side effects of Omeprazole include mild to moderate reactions.,Omeprazole,Drug
+Symptom_Advice,"I have fatigue, what should I do?","For fatigue, monitor and consult your doctor if persistent.",fatigue,Symptom
+Side_Effect,What are side effects of Simvastatin?,Common side effects of Simvastatin include mild to moderate reactions.,Simvastatin,Drug
+Drug_Info,What is Ibuprofen used for?,Ibuprofen is used for treatment of its respective condition.,Ibuprofen,Drug
+Symptom_Advice,"I have nausea, what should I do?","For nausea, monitor and consult your doctor if persistent.",nausea,Symptom
+Drug_Dosage,Recommended dose of Prednisone?,Typical dose for Prednisone depends on individual condition. Consult doctor.,Prednisone,Drug
+Side_Effect,What are side effects of Omeprazole?,Common side effects of Omeprazole include mild to moderate reactions.,Omeprazole,Drug
+Lifestyle_Advice,Can I take diet with my medication?,Avoid taking diet with certain medications. Consult your doctor.,diet,Lifestyle
+Drug_Dosage,Recommended dose of Sildenafil?,Typical dose for Sildenafil depends on individual condition. Consult doctor.,Sildenafil,Drug
+Drug_Dosage,Recommended dose of Clopidogrel?,Typical dose for Clopidogrel depends on individual condition. Consult doctor.,Clopidogrel,Drug
+Interaction_Check,Can I take Levothyroxine and Sildenafil together?,Levothyroxine and Sildenafil do not have significant interactions.,Levothyroxine/Sildenafil,Drug
+Lifestyle_Advice,Can I take calcium with my medication?,Avoid taking calcium with certain medications. Consult your doctor.,calcium,Lifestyle
+Lifestyle_Advice,Can I take alcohol with my medication?,Avoid taking alcohol with certain medications. Consult your doctor.,alcohol,Lifestyle
+Symptom_Advice,"I have shortness of breath, what should I do?","For shortness of breath, monitor and consult your doctor if persistent.",shortness of breath,Symptom
+Lifestyle_Advice,Can I take grapefruit with my medication?,Avoid taking grapefruit with certain medications. Consult your doctor.,grapefruit,Lifestyle
+Symptom_Advice,"I have headache, what should I do?","For headache, monitor and consult your doctor if persistent.",headache,Symptom
+Interaction_Check,Can I take Clopidogrel and Ibuprofen together?,Clopidogrel and Ibuprofen may have Major interaction.,Clopidogrel/Ibuprofen,Drug
+Interaction_Check,Can I take Metformin and Simvastatin together?,Metformin and Simvastatin may have Moderate interaction.,Metformin/Simvastatin,Drug
+Side_Effect,What are side effects of Simvastatin?,Common side effects of Simvastatin include mild to moderate reactions.,Simvastatin,Drug
+Drug_Info,What is Sildenafil used for?,Sildenafil is used for treatment of its respective condition.,Sildenafil,Drug
+Drug_Dosage,Recommended dose of Clopidogrel?,Typical dose for Clopidogrel depends on individual condition. Consult doctor.,Clopidogrel,Drug
+Side_Effect,What are side effects of Lisinopril?,Common side effects of Lisinopril include mild to moderate reactions.,Lisinopril,Drug
+Lifestyle_Advice,Can I take exercise with my medication?,Avoid taking exercise with certain medications. Consult your doctor.,exercise,Lifestyle
+Drug_Dosage,Recommended dose of Amiodarone?,Typical dose for Amiodarone depends on individual condition. Consult doctor.,Amiodarone,Drug
+Interaction_Check,Can I take Aspirin and Clopidogrel together?,Aspirin and Clopidogrel may have Major interaction.,Aspirin/Clopidogrel,Drug
+Drug_Dosage,Recommended dose of Lisinopril?,Typical dose for Lisinopril depends on individual condition. Consult doctor.,Lisinopril,Drug
+Interaction_Check,Can I take Prednisone and Lithium together?,Prednisone and Lithium may have Major interaction.,Prednisone/Lithium,Drug
+Side_Effect,What are side effects of Lisinopril?,Common side effects of Lisinopril include mild to moderate reactions.,Lisinopril,Drug
+Drug_Info,What is Sildenafil used for?,Sildenafil is used for treatment of its respective condition.,Sildenafil,Drug
+Interaction_Check,Can I take Prednisone and Sildenafil together?,Prednisone and Sildenafil may have Minor interaction.,Prednisone/Sildenafil,Drug
+Side_Effect,What are side effects of Digoxin?,Common side effects of Digoxin include mild to moderate reactions.,Digoxin,Drug
+Drug_Dosage,Recommended dose of Omeprazole?,Typical dose for Omeprazole depends on individual condition. Consult doctor.,Omeprazole,Drug
+Lifestyle_Advice,Can I take grapefruit with my medication?,Avoid taking grapefruit with certain medications. Consult your doctor.,grapefruit,Lifestyle
+Drug_Dosage,Recommended dose of Simvastatin?,Typical dose for Simvastatin depends on individual condition. Consult doctor.,Simvastatin,Drug
+Side_Effect,What are side effects of Sildenafil?,Common side effects of Sildenafil include mild to moderate reactions.,Sildenafil,Drug
+Interaction_Check,Can I take Lithium and Sildenafil together?,Lithium and Sildenafil may have Major interaction.,Lithium/Sildenafil,Drug
+Lifestyle_Advice,Can I take diet with my medication?,Avoid taking diet with certain medications. Consult your doctor.,diet,Lifestyle
+Side_Effect,What are side effects of Sildenafil?,Common side effects of Sildenafil include mild to moderate reactions.,Sildenafil,Drug
+Lifestyle_Advice,Can I take calcium with my medication?,Avoid taking calcium with certain medications. Consult your doctor.,calcium,Lifestyle
+Symptom_Advice,"I have fatigue, what should I do?","For fatigue, monitor and consult your doctor if persistent.",fatigue,Symptom
+Drug_Info,What is Lithium used for?,Lithium is used for treatment of its respective condition.,Lithium,Drug
+Symptom_Advice,"I have nausea, what should I do?","For nausea, monitor and consult your doctor if persistent.",nausea,Symptom
+Symptom_Advice,"I have dizziness, what should I do?","For dizziness, monitor and consult your doctor if persistent.",dizziness,Symptom
+Symptom_Advice,"I have shortness of breath, what should I do?","For shortness of breath, monitor and consult your doctor if persistent.",shortness of breath,Symptom
+Drug_Info,What is Aspirin used for?,Aspirin is used for treatment of its respective condition.,Aspirin,Drug
+Interaction_Check,Can I take Lisinopril and Amiodarone together?,Lisinopril and Amiodarone may have Minor interaction.,Lisinopril/Amiodarone,Drug
+Interaction_Check,Can I take Warfarin and Amiodarone together?,Warfarin and Amiodarone may have Minor interaction.,Warfarin/Amiodarone,Drug
+Drug_Dosage,Recommended dose of Amiodarone?,Typical dose for Amiodarone depends on individual condition. Consult doctor.,Amiodarone,Drug
+Drug_Info,What is Lisinopril used for?,Lisinopril is used for treatment of its respective condition.,Lisinopril,Drug
+Drug_Dosage,Recommended dose of Amiodarone?,Typical dose for Amiodarone depends on individual condition. Consult doctor.,Amiodarone,Drug
+Side_Effect,What are side effects of Lithium?,Common side effects of Lithium include mild to moderate reactions.,Lithium,Drug
+Drug_Info,What is Simvastatin used for?,Simvastatin is used for treatment of its respective condition.,Simvastatin,Drug
+Side_Effect,What are side effects of Amiodarone?,Common side effects of Amiodarone include mild to moderate reactions.,Amiodarone,Drug
+Drug_Dosage,Recommended dose of Metformin?,Typical dose for Metformin depends on individual condition. Consult doctor.,Metformin,Drug
+Symptom_Advice,"I have dizziness, what should I do?","For dizziness, monitor and consult your doctor if persistent.",dizziness,Symptom
+Drug_Dosage,Recommended dose of Simvastatin?,Typical dose for Simvastatin depends on individual condition. Consult doctor.,Simvastatin,Drug
+Drug_Dosage,Recommended dose of Levothyroxine?,Typical dose for Levothyroxine depends on individual condition. Consult doctor.,Levothyroxine,Drug
+Lifestyle_Advice,Can I take grapefruit with my medication?,Avoid taking grapefruit with certain medications. Consult your doctor.,grapefruit,Lifestyle
+Side_Effect,What are side effects of Lisinopril?,Common side effects of Lisinopril include mild to moderate reactions.,Lisinopril,Drug
+Drug_Dosage,Recommended dose of Lisinopril?,Typical dose for Lisinopril depends on individual condition. Consult doctor.,Lisinopril,Drug
+Symptom_Advice,"I have fatigue, what should I do?","For fatigue, monitor and consult your doctor if persistent.",fatigue,Symptom
+Drug_Dosage,Recommended dose of Metformin?,Typical dose for Metformin depends on individual condition. Consult doctor.,Metformin,Drug
+Drug_Dosage,Recommended dose of Digoxin?,Typical dose for Digoxin depends on individual condition. Consult doctor.,Digoxin,Drug
+Lifestyle_Advice,Can I take exercise with my medication?,Avoid taking exercise with certain medications. Consult your doctor.,exercise,Lifestyle
+Lifestyle_Advice,Can I take calcium with my medication?,Avoid taking calcium with certain medications. Consult your doctor.,calcium,Lifestyle
+Drug_Dosage,Recommended dose of Aspirin?,Typical dose for Aspirin depends on individual condition. Consult doctor.,Aspirin,Drug
+Side_Effect,What are side effects of Levothyroxine?,Common side effects of Levothyroxine include mild to moderate reactions.,Levothyroxine,Drug
+Drug_Info,What is Amiodarone used for?,Amiodarone is used for treatment of its respective condition.,Amiodarone,Drug
+Side_Effect,What are side effects of Omeprazole?,Common side effects of Omeprazole include mild to moderate reactions.,Omeprazole,Drug
+Lifestyle_Advice,Can I take alcohol with my medication?,Avoid taking alcohol with certain medications. Consult your doctor.,alcohol,Lifestyle
+Drug_Info,What is Clopidogrel used for?,Clopidogrel is used for treatment of its respective condition.,Clopidogrel,Drug
+Drug_Dosage,Recommended dose of Aspirin?,Typical dose for Aspirin depends on individual condition. Consult doctor.,Aspirin,Drug
+Drug_Dosage,Recommended dose of Aspirin?,Typical dose for Aspirin depends on individual condition. Consult doctor.,Aspirin,Drug
+Drug_Info,What is Ibuprofen used for?,Ibuprofen is used for treatment of its respective condition.,Ibuprofen,Drug
+Drug_Dosage,Recommended dose of Digoxin?,Typical dose for Digoxin depends on individual condition. Consult doctor.,Digoxin,Drug
+Interaction_Check,Can I take Sildenafil and Digoxin together?,Sildenafil and Digoxin may have Moderate interaction.,Sildenafil/Digoxin,Drug
+Symptom_Advice,"I have fatigue, what should I do?","For fatigue, monitor and consult your doctor if persistent.",fatigue,Symptom
+Symptom_Advice,"I have headache, what should I do?","For headache, monitor and consult your doctor if persistent.",headache,Symptom
+Drug_Dosage,Recommended dose of Metformin?,Typical dose for Metformin depends on individual condition. Consult doctor.,Metformin,Drug
+Lifestyle_Advice,Can I take grapefruit with my medication?,Avoid taking grapefruit with certain medications. Consult your doctor.,grapefruit,Lifestyle
+Drug_Info,What is Digoxin used for?,Digoxin is used for treatment of its respective condition.,Digoxin,Drug
+Interaction_Check,Can I take Clopidogrel and Warfarin together?,Clopidogrel and Warfarin do not have significant interactions.,Clopidogrel/Warfarin,Drug
+Lifestyle_Advice,Can I take alcohol with my medication?,Avoid taking alcohol with certain medications. Consult your doctor.,alcohol,Lifestyle
+Drug_Info,What is Lisinopril used for?,Lisinopril is used for treatment of its respective condition.,Lisinopril,Drug
+Interaction_Check,Can I take Simvastatin and Metformin together?,Simvastatin and Metformin may have Major interaction.,Simvastatin/Metformin,Drug
+Interaction_Check,Can I take Sildenafil and Clopidogrel together?,Sildenafil and Clopidogrel may have Major interaction.,Sildenafil/Clopidogrel,Drug
+Drug_Dosage,Recommended dose of Lithium?,Typical dose for Lithium depends on individual condition. Consult doctor.,Lithium,Drug
+Symptom_Advice,"I have dizziness, what should I do?","For dizziness, monitor and consult your doctor if persistent.",dizziness,Symptom
+Interaction_Check,Can I take Omeprazole and Simvastatin together?,Omeprazole and Simvastatin do not have significant interactions.,Omeprazole/Simvastatin,Drug
+Lifestyle_Advice,Can I take alcohol with my medication?,Avoid taking alcohol with certain medications. Consult your doctor.,alcohol,Lifestyle
+Interaction_Check,Can I take Ibuprofen and Warfarin together?,Ibuprofen and Warfarin may have Moderate interaction.,Ibuprofen/Warfarin,Drug
+Side_Effect,What are side effects of Clopidogrel?,Common side effects of Clopidogrel include mild to moderate reactions.,Clopidogrel,Drug
+Drug_Dosage,Recommended dose of Amiodarone?,Typical dose for Amiodarone depends on individual condition. Consult doctor.,Amiodarone,Drug
+Lifestyle_Advice,Can I take calcium with my medication?,Avoid taking calcium with certain medications. Consult your doctor.,calcium,Lifestyle
+Drug_Info,What is Omeprazole used for?,Omeprazole is used for treatment of its respective condition.,Omeprazole,Drug
+Lifestyle_Advice,Can I take calcium with my medication?,Avoid taking calcium with certain medications. Consult your doctor.,calcium,Lifestyle
+Drug_Info,What is Lithium used for?,Lithium is used for treatment of its respective condition.,Lithium,Drug
+Symptom_Advice,"I have palpitations, what should I do?","For palpitations, monitor and consult your doctor if persistent.",palpitations,Symptom
+Side_Effect,What are side effects of Prednisone?,Common side effects of Prednisone include mild to moderate reactions.,Prednisone,Drug
+Drug_Info,What is Prednisone used for?,Prednisone is used for treatment of its respective condition.,Prednisone,Drug
+Side_Effect,What are side effects of Prednisone?,Common side effects of Prednisone include mild to moderate reactions.,Prednisone,Drug
+Drug_Info,What is Digoxin used for?,Digoxin is used for treatment of its respective condition.,Digoxin,Drug
+Side_Effect,What are side effects of Amiodarone?,Common side effects of Amiodarone include mild to moderate reactions.,Amiodarone,Drug
+Lifestyle_Advice,Can I take diet with my medication?,Avoid taking diet with certain medications. Consult your doctor.,diet,Lifestyle
+Drug_Info,What is Levothyroxine used for?,Levothyroxine is used for treatment of its respective condition.,Levothyroxine,Drug
+Lifestyle_Advice,Can I take diet with my medication?,Avoid taking diet with certain medications. Consult your doctor.,diet,Lifestyle
+Drug_Info,What is Simvastatin used for?,Simvastatin is used for treatment of its respective condition.,Simvastatin,Drug
+Drug_Dosage,Recommended dose of Simvastatin?,Typical dose for Simvastatin depends on individual condition. Consult doctor.,Simvastatin,Drug
+Drug_Dosage,Recommended dose of Warfarin?,Typical dose for Warfarin depends on individual condition. Consult doctor.,Warfarin,Drug
+Drug_Dosage,Recommended dose of Digoxin?,Typical dose for Digoxin depends on individual condition. Consult doctor.,Digoxin,Drug
+Lifestyle_Advice,Can I take exercise with my medication?,Avoid taking exercise with certain medications. Consult your doctor.,exercise,Lifestyle
+Lifestyle_Advice,Can I take calcium with my medication?,Avoid taking calcium with certain medications. Consult your doctor.,calcium,Lifestyle
+Drug_Dosage,Recommended dose of Aspirin?,Typical dose for Aspirin depends on individual condition. Consult doctor.,Aspirin,Drug
+Lifestyle_Advice,Can I take grapefruit with my medication?,Avoid taking grapefruit with certain medications. Consult your doctor.,grapefruit,Lifestyle
+Lifestyle_Advice,Can I take diet with my medication?,Avoid taking diet with certain medications. Consult your doctor.,diet,Lifestyle
+Side_Effect,What are side effects of Prednisone?,Common side effects of Prednisone include mild to moderate reactions.,Prednisone,Drug
+Side_Effect,What are side effects of Prednisone?,Common side effects of Prednisone include mild to moderate reactions.,Prednisone,Drug
+Drug_Dosage,Recommended dose of Sildenafil?,Typical dose for Sildenafil depends on individual condition. Consult doctor.,Sildenafil,Drug
+Drug_Dosage,Recommended dose of Simvastatin?,Typical dose for Simvastatin depends on individual condition. Consult doctor.,Simvastatin,Drug
+Lifestyle_Advice,Can I take grapefruit with my medication?,Avoid taking grapefruit with certain medications. Consult your doctor.,grapefruit,Lifestyle
+Symptom_Advice,"I have dizziness, what should I do?","For dizziness, monitor and consult your doctor if persistent.",dizziness,Symptom
+Interaction_Check,Can I take Simvastatin and Warfarin together?,Simvastatin and Warfarin may have Moderate interaction.,Simvastatin/Warfarin,Drug
+Interaction_Check,Can I take Prednisone and Sildenafil together?,Prednisone and Sildenafil may have Minor interaction.,Prednisone/Sildenafil,Drug
+Drug_Dosage,Recommended dose of Digoxin?,Typical dose for Digoxin depends on individual condition. Consult doctor.,Digoxin,Drug
+Drug_Info,What is Sildenafil used for?,Sildenafil is used for treatment of its respective condition.,Sildenafil,Drug
+Symptom_Advice,"I have nausea, what should I do?","For nausea, monitor and consult your doctor if persistent.",nausea,Symptom
+Drug_Dosage,Recommended dose of Lisinopril?,Typical dose for Lisinopril depends on individual condition. Consult doctor.,Lisinopril,Drug
+Symptom_Advice,"I have dizziness, what should I do?","For dizziness, monitor and consult your doctor if persistent.",dizziness,Symptom
+Symptom_Advice,"I have dizziness, what should I do?","For dizziness, monitor and consult your doctor if persistent.",dizziness,Symptom
+Side_Effect,What are side effects of Lithium?,Common side effects of Lithium include mild to moderate reactions.,Lithium,Drug
+Symptom_Advice,"I have shortness of breath, what should I do?","For shortness of breath, monitor and consult your doctor if persistent.",shortness of breath,Symptom
+Drug_Info,What is Levothyroxine used for?,Levothyroxine is used for treatment of its respective condition.,Levothyroxine,Drug
+Interaction_Check,Can I take Warfarin and Lisinopril together?,Warfarin and Lisinopril do not have significant interactions.,Warfarin/Lisinopril,Drug
+Drug_Dosage,Recommended dose of Levothyroxine?,Typical dose for Levothyroxine depends on individual condition. Consult doctor.,Levothyroxine,Drug
+Interaction_Check,Can I take Lithium and Sildenafil together?,Lithium and Sildenafil may have Moderate interaction.,Lithium/Sildenafil,Drug
+Drug_Dosage,Recommended dose of Prednisone?,Typical dose for Prednisone depends on individual condition. Consult doctor.,Prednisone,Drug
+Drug_Info,What is Warfarin used for?,Warfarin is used for treatment of its respective condition.,Warfarin,Drug
+Symptom_Advice,"I have nausea, what should I do?","For nausea, monitor and consult your doctor if persistent.",nausea,Symptom
+Drug_Dosage,Recommended dose of Lithium?,Typical dose for Lithium depends on individual condition. Consult doctor.,Lithium,Drug
+Interaction_Check,Can I take Ibuprofen and Clopidogrel together?,Ibuprofen and Clopidogrel may have Moderate interaction.,Ibuprofen/Clopidogrel,Drug
+Side_Effect,What are side effects of Levothyroxine?,Common side effects of Levothyroxine include mild to moderate reactions.,Levothyroxine,Drug
+Symptom_Advice,"I have fatigue, what should I do?","For fatigue, monitor and consult your doctor if persistent.",fatigue,Symptom
+Lifestyle_Advice,Can I take grapefruit with my medication?,Avoid taking grapefruit with certain medications. Consult your doctor.,grapefruit,Lifestyle
+Symptom_Advice,"I have dizziness, what should I do?","For dizziness, monitor and consult your doctor if persistent.",dizziness,Symptom
+Lifestyle_Advice,Can I take exercise with my medication?,Avoid taking exercise with certain medications. Consult your doctor.,exercise,Lifestyle
+Symptom_Advice,"I have dizziness, what should I do?","For dizziness, monitor and consult your doctor if persistent.",dizziness,Symptom
+Symptom_Advice,"I have nausea, what should I do?","For nausea, monitor and consult your doctor if persistent.",nausea,Symptom
+Drug_Info,What is Lithium used for?,Lithium is used for treatment of its respective condition.,Lithium,Drug
+Interaction_Check,Can I take Digoxin and Warfarin together?,Digoxin and Warfarin do not have significant interactions.,Digoxin/Warfarin,Drug
+Lifestyle_Advice,Can I take calcium with my medication?,Avoid taking calcium with certain medications. Consult your doctor.,calcium,Lifestyle
+Interaction_Check,Can I take Lisinopril and Lithium together?,Lisinopril and Lithium may have Minor interaction.,Lisinopril/Lithium,Drug
+Side_Effect,What are side effects of Prednisone?,Common side effects of Prednisone include mild to moderate reactions.,Prednisone,Drug
+Side_Effect,What are side effects of Omeprazole?,Common side effects of Omeprazole include mild to moderate reactions.,Omeprazole,Drug
+Symptom_Advice,"I have headache, what should I do?","For headache, monitor and consult your doctor if persistent.",headache,Symptom
+Interaction_Check,Can I take Ibuprofen and Lisinopril together?,Ibuprofen and Lisinopril may have Moderate interaction.,Ibuprofen/Lisinopril,Drug
+Drug_Info,What is Lithium used for?,Lithium is used for treatment of its respective condition.,Lithium,Drug
+Side_Effect,What are side effects of Aspirin?,Common side effects of Aspirin include mild to moderate reactions.,Aspirin,Drug
+Symptom_Advice,"I have headache, what should I do?","For headache, monitor and consult your doctor if persistent.",headache,Symptom
+Drug_Info,What is Levothyroxine used for?,Levothyroxine is used for treatment of its respective condition.,Levothyroxine,Drug
+Symptom_Advice,"I have palpitations, what should I do?","For palpitations, monitor and consult your doctor if persistent.",palpitations,Symptom
+Interaction_Check,Can I take Clopidogrel and Prednisone together?,Clopidogrel and Prednisone may have Major interaction.,Clopidogrel/Prednisone,Drug
+Side_Effect,What are side effects of Ibuprofen?,Common side effects of Ibuprofen include mild to moderate reactions.,Ibuprofen,Drug
+Drug_Dosage,Recommended dose of Sildenafil?,Typical dose for Sildenafil depends on individual condition. Consult doctor.,Sildenafil,Drug
+Drug_Dosage,Recommended dose of Digoxin?,Typical dose for Digoxin depends on individual condition. Consult doctor.,Digoxin,Drug
+Interaction_Check,Can I take Metformin and Ibuprofen together?,Metformin and Ibuprofen do not have significant interactions.,Metformin/Ibuprofen,Drug
+Drug_Dosage,Recommended dose of Warfarin?,Typical dose for Warfarin depends on individual condition. Consult doctor.,Warfarin,Drug
+Drug_Info,What is Amiodarone used for?,Amiodarone is used for treatment of its respective condition.,Amiodarone,Drug
+Drug_Dosage,Recommended dose of Warfarin?,Typical dose for Warfarin depends on individual condition. Consult doctor.,Warfarin,Drug
+Side_Effect,What are side effects of Clopidogrel?,Common side effects of Clopidogrel include mild to moderate reactions.,Clopidogrel,Drug
+Lifestyle_Advice,Can I take alcohol with my medication?,Avoid taking alcohol with certain medications. Consult your doctor.,alcohol,Lifestyle
+Interaction_Check,Can I take Aspirin and Prednisone together?,Aspirin and Prednisone may have Moderate interaction.,Aspirin/Prednisone,Drug
+Drug_Info,What is Lisinopril used for?,Lisinopril is used for treatment of its respective condition.,Lisinopril,Drug
+Drug_Info,What is Levothyroxine used for?,Levothyroxine is used for treatment of its respective condition.,Levothyroxine,Drug
+Drug_Dosage,Recommended dose of Omeprazole?,Typical dose for Omeprazole depends on individual condition. Consult doctor.,Omeprazole,Drug
+Side_Effect,What are side effects of Prednisone?,Common side effects of Prednisone include mild to moderate reactions.,Prednisone,Drug
+Side_Effect,What are side effects of Lisinopril?,Common side effects of Lisinopril include mild to moderate reactions.,Lisinopril,Drug
+Side_Effect,What are side effects of Amiodarone?,Common side effects of Amiodarone include mild to moderate reactions.,Amiodarone,Drug
+Drug_Dosage,Recommended dose of Sildenafil?,Typical dose for Sildenafil depends on individual condition. Consult doctor.,Sildenafil,Drug
+Symptom_Advice,"I have shortness of breath, what should I do?","For shortness of breath, monitor and consult your doctor if persistent.",shortness of breath,Symptom
+Drug_Dosage,Recommended dose of Ibuprofen?,Typical dose for Ibuprofen depends on individual condition. Consult doctor.,Ibuprofen,Drug
+Side_Effect,What are side effects of Omeprazole?,Common side effects of Omeprazole include mild to moderate reactions.,Omeprazole,Drug
+Drug_Info,What is Omeprazole used for?,Omeprazole is used for treatment of its respective condition.,Omeprazole,Drug
+Lifestyle_Advice,Can I take alcohol with my medication?,Avoid taking alcohol with certain medications. Consult your doctor.,alcohol,Lifestyle
+Interaction_Check,Can I take Clopidogrel and Lisinopril together?,Clopidogrel and Lisinopril may have Major interaction.,Clopidogrel/Lisinopril,Drug
+Interaction_Check,Can I take Lisinopril and Aspirin together?,Lisinopril and Aspirin may have Major interaction.,Lisinopril/Aspirin,Drug
+Drug_Info,What is Amiodarone used for?,Amiodarone is used for treatment of its respective condition.,Amiodarone,Drug
+Drug_Dosage,Recommended dose of Lithium?,Typical dose for Lithium depends on individual condition. Consult doctor.,Lithium,Drug
+Side_Effect,What are side effects of Sildenafil?,Common side effects of Sildenafil include mild to moderate reactions.,Sildenafil,Drug
+Symptom_Advice,"I have headache, what should I do?","For headache, monitor and consult your doctor if persistent.",headache,Symptom
+Interaction_Check,Can I take Ibuprofen and Lithium together?,Ibuprofen and Lithium may have Moderate interaction.,Ibuprofen/Lithium,Drug
+Drug_Info,What is Clopidogrel used for?,Clopidogrel is used for treatment of its respective condition.,Clopidogrel,Drug
+Interaction_Check,Can I take Ibuprofen and Prednisone together?,Ibuprofen and Prednisone do not have significant interactions.,Ibuprofen/Prednisone,Drug
+Side_Effect,What are side effects of Clopidogrel?,Common side effects of Clopidogrel include mild to moderate reactions.,Clopidogrel,Drug
+Interaction_Check,Can I take Amiodarone and Warfarin together?,Amiodarone and Warfarin may have Minor interaction.,Amiodarone/Warfarin,Drug
+Interaction_Check,Can I take Ibuprofen and Aspirin together?,Ibuprofen and Aspirin may have Major interaction.,Ibuprofen/Aspirin,Drug
+Symptom_Advice,"I have shortness of breath, what should I do?","For shortness of breath, monitor and consult your doctor if persistent.",shortness of breath,Symptom
+Lifestyle_Advice,Can I take grapefruit with my medication?,Avoid taking grapefruit with certain medications. Consult your doctor.,grapefruit,Lifestyle
+Symptom_Advice,"I have fatigue, what should I do?","For fatigue, monitor and consult your doctor if persistent.",fatigue,Symptom
+Drug_Info,What is Sildenafil used for?,Sildenafil is used for treatment of its respective condition.,Sildenafil,Drug
+Lifestyle_Advice,Can I take diet with my medication?,Avoid taking diet with certain medications. Consult your doctor.,diet,Lifestyle
+Lifestyle_Advice,Can I take exercise with my medication?,Avoid taking exercise with certain medications. Consult your doctor.,exercise,Lifestyle
+Symptom_Advice,"I have shortness of breath, what should I do?","For shortness of breath, monitor and consult your doctor if persistent.",shortness of breath,Symptom
+Side_Effect,What are side effects of Sildenafil?,Common side effects of Sildenafil include mild to moderate reactions.,Sildenafil,Drug
+Drug_Dosage,Recommended dose of Warfarin?,Typical dose for Warfarin depends on individual condition. Consult doctor.,Warfarin,Drug
+Side_Effect,What are side effects of Metformin?,Common side effects of Metformin include mild to moderate reactions.,Metformin,Drug
+Drug_Dosage,Recommended dose of Lithium?,Typical dose for Lithium depends on individual condition. Consult doctor.,Lithium,Drug
+Symptom_Advice,"I have shortness of breath, what should I do?","For shortness of breath, monitor and consult your doctor if persistent.",shortness of breath,Symptom
+Symptom_Advice,"I have headache, what should I do?","For headache, monitor and consult your doctor if persistent.",headache,Symptom
+Drug_Info,What is Lisinopril used for?,Lisinopril is used for treatment of its respective condition.,Lisinopril,Drug
+Lifestyle_Advice,Can I take grapefruit with my medication?,Avoid taking grapefruit with certain medications. Consult your doctor.,grapefruit,Lifestyle
+Side_Effect,What are side effects of Metformin?,Common side effects of Metformin include mild to moderate reactions.,Metformin,Drug
+Lifestyle_Advice,Can I take diet with my medication?,Avoid taking diet with certain medications. Consult your doctor.,diet,Lifestyle
+Side_Effect,What are side effects of Metformin?,Common side effects of Metformin include mild to moderate reactions.,Metformin,Drug
+Interaction_Check,Can I take Sildenafil and Levothyroxine together?,Sildenafil and Levothyroxine may have Moderate interaction.,Sildenafil/Levothyroxine,Drug
+Interaction_Check,Can I take Omeprazole and Amiodarone together?,Omeprazole and Amiodarone may have Moderate interaction.,Omeprazole/Amiodarone,Drug
+Drug_Info,What is Sildenafil used for?,Sildenafil is used for treatment of its respective condition.,Sildenafil,Drug
+Symptom_Advice,"I have fatigue, what should I do?","For fatigue, monitor and consult your doctor if persistent.",fatigue,Symptom
+Symptom_Advice,"I have dizziness, what should I do?","For dizziness, monitor and consult your doctor if persistent.",dizziness,Symptom
+Lifestyle_Advice,Can I take alcohol with my medication?,Avoid taking alcohol with certain medications. Consult your doctor.,alcohol,Lifestyle
+Interaction_Check,Can I take Digoxin and Amiodarone together?,Digoxin and Amiodarone may have Moderate interaction.,Digoxin/Amiodarone,Drug
+Lifestyle_Advice,Can I take exercise with my medication?,Avoid taking exercise with certain medications. Consult your doctor.,exercise,Lifestyle
+Side_Effect,What are side effects of Metformin?,Common side effects of Metformin include mild to moderate reactions.,Metformin,Drug
+Drug_Dosage,Recommended dose of Warfarin?,Typical dose for Warfarin depends on individual condition. Consult doctor.,Warfarin,Drug
+Symptom_Advice,"I have dizziness, what should I do?","For dizziness, monitor and consult your doctor if persistent.",dizziness,Symptom
+Symptom_Advice,"I have headache, what should I do?","For headache, monitor and consult your doctor if persistent.",headache,Symptom
+Drug_Dosage,Recommended dose of Simvastatin?,Typical dose for Simvastatin depends on individual condition. Consult doctor.,Simvastatin,Drug
+Side_Effect,What are side effects of Simvastatin?,Common side effects of Simvastatin include mild to moderate reactions.,Simvastatin,Drug
+Drug_Info,What is Clopidogrel used for?,Clopidogrel is used for treatment of its respective condition.,Clopidogrel,Drug
+Side_Effect,What are side effects of Sildenafil?,Common side effects of Sildenafil include mild to moderate reactions.,Sildenafil,Drug
+Drug_Dosage,Recommended dose of Metformin?,Typical dose for Metformin depends on individual condition. Consult doctor.,Metformin,Drug
+Interaction_Check,Can I take Levothyroxine and Digoxin together?,Levothyroxine and Digoxin may have Moderate interaction.,Levothyroxine/Digoxin,Drug
+Lifestyle_Advice,Can I take exercise with my medication?,Avoid taking exercise with certain medications. Consult your doctor.,exercise,Lifestyle
+Drug_Info,What is Lisinopril used for?,Lisinopril is used for treatment of its respective condition.,Lisinopril,Drug
+Symptom_Advice,"I have shortness of breath, what should I do?","For shortness of breath, monitor and consult your doctor if persistent.",shortness of breath,Symptom
+Interaction_Check,Can I take Ibuprofen and Sildenafil together?,Ibuprofen and Sildenafil do not have significant interactions.,Ibuprofen/Sildenafil,Drug
+Drug_Dosage,Recommended dose of Warfarin?,Typical dose for Warfarin depends on individual condition. Consult doctor.,Warfarin,Drug
+Drug_Info,What is Clopidogrel used for?,Clopidogrel is used for treatment of its respective condition.,Clopidogrel,Drug
+Side_Effect,What are side effects of Prednisone?,Common side effects of Prednisone include mild to moderate reactions.,Prednisone,Drug
+Interaction_Check,Can I take Lithium and Aspirin together?,Lithium and Aspirin may have Major interaction.,Lithium/Aspirin,Drug
+Side_Effect,What are side effects of Amiodarone?,Common side effects of Amiodarone include mild to moderate reactions.,Amiodarone,Drug
+Drug_Info,What is Lisinopril used for?,Lisinopril is used for treatment of its respective condition.,Lisinopril,Drug
+Drug_Info,What is Sildenafil used for?,Sildenafil is used for treatment of its respective condition.,Sildenafil,Drug
+Drug_Info,What is Clopidogrel used for?,Clopidogrel is used for treatment of its respective condition.,Clopidogrel,Drug
+Interaction_Check,Can I take Sildenafil and Lithium together?,Sildenafil and Lithium may have Minor interaction.,Sildenafil/Lithium,Drug
+Symptom_Advice,"I have fatigue, what should I do?","For fatigue, monitor and consult your doctor if persistent.",fatigue,Symptom
+Drug_Dosage,Recommended dose of Sildenafil?,Typical dose for Sildenafil depends on individual condition. Consult doctor.,Sildenafil,Drug
+Interaction_Check,Can I take Sildenafil and Levothyroxine together?,Sildenafil and Levothyroxine may have Major interaction.,Sildenafil/Levothyroxine,Drug
+Side_Effect,What are side effects of Levothyroxine?,Common side effects of Levothyroxine include mild to moderate reactions.,Levothyroxine,Drug
+Lifestyle_Advice,Can I take calcium with my medication?,Avoid taking calcium with certain medications. Consult your doctor.,calcium,Lifestyle
+Drug_Info,What is Ibuprofen used for?,Ibuprofen is used for treatment of its respective condition.,Ibuprofen,Drug
+Drug_Dosage,Recommended dose of Digoxin?,Typical dose for Digoxin depends on individual condition. Consult doctor.,Digoxin,Drug
+Side_Effect,What are side effects of Ibuprofen?,Common side effects of Ibuprofen include mild to moderate reactions.,Ibuprofen,Drug
+Drug_Info,What is Ibuprofen used for?,Ibuprofen is used for treatment of its respective condition.,Ibuprofen,Drug
+Lifestyle_Advice,Can I take diet with my medication?,Avoid taking diet with certain medications. Consult your doctor.,diet,Lifestyle
+Side_Effect,What are side effects of Omeprazole?,Common side effects of Omeprazole include mild to moderate reactions.,Omeprazole,Drug
+Lifestyle_Advice,Can I take exercise with my medication?,Avoid taking exercise with certain medications. Consult your doctor.,exercise,Lifestyle
+Interaction_Check,Can I take Sildenafil and Levothyroxine together?,Sildenafil and Levothyroxine may have Moderate interaction.,Sildenafil/Levothyroxine,Drug
+Side_Effect,What are side effects of Prednisone?,Common side effects of Prednisone include mild to moderate reactions.,Prednisone,Drug
+Side_Effect,What are side effects of Amiodarone?,Common side effects of Amiodarone include mild to moderate reactions.,Amiodarone,Drug
+Drug_Dosage,Recommended dose of Digoxin?,Typical dose for Digoxin depends on individual condition. Consult doctor.,Digoxin,Drug
+Interaction_Check,Can I take Lithium and Lisinopril together?,Lithium and Lisinopril may have Major interaction.,Lithium/Lisinopril,Drug
+Drug_Dosage,Recommended dose of Metformin?,Typical dose for Metformin depends on individual condition. Consult doctor.,Metformin,Drug
+Symptom_Advice,"I have palpitations, what should I do?","For palpitations, monitor and consult your doctor if persistent.",palpitations,Symptom
+Drug_Dosage,Recommended dose of Lithium?,Typical dose for Lithium depends on individual condition. Consult doctor.,Lithium,Drug
+Drug_Dosage,Recommended dose of Amiodarone?,Typical dose for Amiodarone depends on individual condition. Consult doctor.,Amiodarone,Drug
+Lifestyle_Advice,Can I take calcium with my medication?,Avoid taking calcium with certain medications. Consult your doctor.,calcium,Lifestyle
+Drug_Dosage,Recommended dose of Metformin?,Typical dose for Metformin depends on individual condition. Consult doctor.,Metformin,Drug
+Interaction_Check,Can I take Levothyroxine and Omeprazole together?,Levothyroxine and Omeprazole may have Major interaction.,Levothyroxine/Omeprazole,Drug
+Drug_Dosage,Recommended dose of Warfarin?,Typical dose for Warfarin depends on individual condition. Consult doctor.,Warfarin,Drug
+Side_Effect,What are side effects of Sildenafil?,Common side effects of Sildenafil include mild to moderate reactions.,Sildenafil,Drug
+Drug_Info,What is Lithium used for?,Lithium is used for treatment of its respective condition.,Lithium,Drug
+Interaction_Check,Can I take Amiodarone and Clopidogrel together?,Amiodarone and Clopidogrel do not have significant interactions.,Amiodarone/Clopidogrel,Drug
+Drug_Info,What is Sildenafil used for?,Sildenafil is used for treatment of its respective condition.,Sildenafil,Drug
+Symptom_Advice,"I have dizziness, what should I do?","For dizziness, monitor and consult your doctor if persistent.",dizziness,Symptom
+Side_Effect,What are side effects of Lithium?,Common side effects of Lithium include mild to moderate reactions.,Lithium,Drug
+Drug_Dosage,Recommended dose of Clopidogrel?,Typical dose for Clopidogrel depends on individual condition. Consult doctor.,Clopidogrel,Drug
+Drug_Info,What is Simvastatin used for?,Simvastatin is used for treatment of its respective condition.,Simvastatin,Drug
+Symptom_Advice,"I have palpitations, what should I do?","For palpitations, monitor and consult your doctor if persistent.",palpitations,Symptom
+Side_Effect,What are side effects of Amiodarone?,Common side effects of Amiodarone include mild to moderate reactions.,Amiodarone,Drug
+Symptom_Advice,"I have palpitations, what should I do?","For palpitations, monitor and consult your doctor if persistent.",palpitations,Symptom
+Lifestyle_Advice,Can I take exercise with my medication?,Avoid taking exercise with certain medications. Consult your doctor.,exercise,Lifestyle
+Side_Effect,What are side effects of Metformin?,Common side effects of Metformin include mild to moderate reactions.,Metformin,Drug
+Side_Effect,What are side effects of Warfarin?,Common side effects of Warfarin include mild to moderate reactions.,Warfarin,Drug
+Interaction_Check,Can I take Clopidogrel and Simvastatin together?,Clopidogrel and Simvastatin do not have significant interactions.,Clopidogrel/Simvastatin,Drug
+Interaction_Check,Can I take Lithium and Warfarin together?,Lithium and Warfarin may have Major interaction.,Lithium/Warfarin,Drug
+Lifestyle_Advice,Can I take alcohol with my medication?,Avoid taking alcohol with certain medications. Consult your doctor.,alcohol,Lifestyle
+Drug_Dosage,Recommended dose of Aspirin?,Typical dose for Aspirin depends on individual condition. Consult doctor.,Aspirin,Drug
+Lifestyle_Advice,Can I take diet with my medication?,Avoid taking diet with certain medications. Consult your doctor.,diet,Lifestyle
+Drug_Info,What is Metformin used for?,Metformin is used for treatment of its respective condition.,Metformin,Drug
+Symptom_Advice,"I have headache, what should I do?","For headache, monitor and consult your doctor if persistent.",headache,Symptom
+Symptom_Advice,"I have dizziness, what should I do?","For dizziness, monitor and consult your doctor if persistent.",dizziness,Symptom
+Symptom_Advice,"I have fatigue, what should I do?","For fatigue, monitor and consult your doctor if persistent.",fatigue,Symptom
+Interaction_Check,Can I take Lisinopril and Levothyroxine together?,Lisinopril and Levothyroxine may have Minor interaction.,Lisinopril/Levothyroxine,Drug
+Interaction_Check,Can I take Aspirin and Simvastatin together?,Aspirin and Simvastatin may have Moderate interaction.,Aspirin/Simvastatin,Drug
+Side_Effect,What are side effects of Clopidogrel?,Common side effects of Clopidogrel include mild to moderate reactions.,Clopidogrel,Drug
+Interaction_Check,Can I take Sildenafil and Omeprazole together?,Sildenafil and Omeprazole may have Moderate interaction.,Sildenafil/Omeprazole,Drug
+Lifestyle_Advice,Can I take diet with my medication?,Avoid taking diet with certain medications. Consult your doctor.,diet,Lifestyle
+Drug_Dosage,Recommended dose of Ibuprofen?,Typical dose for Ibuprofen depends on individual condition. Consult doctor.,Ibuprofen,Drug
+Lifestyle_Advice,Can I take alcohol with my medication?,Avoid taking alcohol with certain medications. Consult your doctor.,alcohol,Lifestyle
+Drug_Dosage,Recommended dose of Ibuprofen?,Typical dose for Ibuprofen depends on individual condition. Consult doctor.,Ibuprofen,Drug
+Lifestyle_Advice,Can I take grapefruit with my medication?,Avoid taking grapefruit with certain medications. Consult your doctor.,grapefruit,Lifestyle
+Interaction_Check,Can I take Warfarin and Sildenafil together?,Warfarin and Sildenafil do not have significant interactions.,Warfarin/Sildenafil,Drug
+Side_Effect,What are side effects of Ibuprofen?,Common side effects of Ibuprofen include mild to moderate reactions.,Ibuprofen,Drug
+Lifestyle_Advice,Can I take exercise with my medication?,Avoid taking exercise with certain medications. Consult your doctor.,exercise,Lifestyle
+Lifestyle_Advice,Can I take diet with my medication?,Avoid taking diet with certain medications. Consult your doctor.,diet,Lifestyle
+Drug_Dosage,Recommended dose of Simvastatin?,Typical dose for Simvastatin depends on individual condition. Consult doctor.,Simvastatin,Drug
+Symptom_Advice,"I have nausea, what should I do?","For nausea, monitor and consult your doctor if persistent.",nausea,Symptom
+Drug_Dosage,Recommended dose of Simvastatin?,Typical dose for Simvastatin depends on individual condition. Consult doctor.,Simvastatin,Drug
+Drug_Dosage,Recommended dose of Warfarin?,Typical dose for Warfarin depends on individual condition. Consult doctor.,Warfarin,Drug
+Interaction_Check,Can I take Amiodarone and Omeprazole together?,Amiodarone and Omeprazole may have Moderate interaction.,Amiodarone/Omeprazole,Drug
+Lifestyle_Advice,Can I take diet with my medication?,Avoid taking diet with certain medications. Consult your doctor.,diet,Lifestyle
+Drug_Info,What is Simvastatin used for?,Simvastatin is used for treatment of its respective condition.,Simvastatin,Drug
+Lifestyle_Advice,Can I take exercise with my medication?,Avoid taking exercise with certain medications. Consult your doctor.,exercise,Lifestyle
+Symptom_Advice,"I have headache, what should I do?","For headache, monitor and consult your doctor if persistent.",headache,Symptom
+Side_Effect,What are side effects of Simvastatin?,Common side effects of Simvastatin include mild to moderate reactions.,Simvastatin,Drug
+Lifestyle_Advice,Can I take alcohol with my medication?,Avoid taking alcohol with certain medications. Consult your doctor.,alcohol,Lifestyle
+Side_Effect,What are side effects of Lithium?,Common side effects of Lithium include mild to moderate reactions.,Lithium,Drug
+Drug_Dosage,Recommended dose of Simvastatin?,Typical dose for Simvastatin depends on individual condition. Consult doctor.,Simvastatin,Drug
+Symptom_Advice,"I have nausea, what should I do?","For nausea, monitor and consult your doctor if persistent.",nausea,Symptom
+Side_Effect,What are side effects of Prednisone?,Common side effects of Prednisone include mild to moderate reactions.,Prednisone,Drug
+Symptom_Advice,"I have nausea, what should I do?","For nausea, monitor and consult your doctor if persistent.",nausea,Symptom
+Lifestyle_Advice,Can I take calcium with my medication?,Avoid taking calcium with certain medications. Consult your doctor.,calcium,Lifestyle
+Side_Effect,What are side effects of Ibuprofen?,Common side effects of Ibuprofen include mild to moderate reactions.,Ibuprofen,Drug
+Lifestyle_Advice,Can I take calcium with my medication?,Avoid taking calcium with certain medications. Consult your doctor.,calcium,Lifestyle
+Lifestyle_Advice,Can I take alcohol with my medication?,Avoid taking alcohol with certain medications. Consult your doctor.,alcohol,Lifestyle
+Lifestyle_Advice,Can I take alcohol with my medication?,Avoid taking alcohol with certain medications. Consult your doctor.,alcohol,Lifestyle
+Symptom_Advice,"I have fatigue, what should I do?","For fatigue, monitor and consult your doctor if persistent.",fatigue,Symptom
+Drug_Info,What is Omeprazole used for?,Omeprazole is used for treatment of its respective condition.,Omeprazole,Drug
+Symptom_Advice,"I have palpitations, what should I do?","For palpitations, monitor and consult your doctor if persistent.",palpitations,Symptom
+Interaction_Check,Can I take Warfarin and Ibuprofen together?,Warfarin and Ibuprofen may have Moderate interaction.,Warfarin/Ibuprofen,Drug
+Interaction_Check,Can I take Lisinopril and Aspirin together?,Lisinopril and Aspirin do not have significant interactions.,Lisinopril/Aspirin,Drug
+Symptom_Advice,"I have shortness of breath, what should I do?","For shortness of breath, monitor and consult your doctor if persistent.",shortness of breath,Symptom
+Side_Effect,What are side effects of Ibuprofen?,Common side effects of Ibuprofen include mild to moderate reactions.,Ibuprofen,Drug
+Interaction_Check,Can I take Ibuprofen and Sildenafil together?,Ibuprofen and Sildenafil do not have significant interactions.,Ibuprofen/Sildenafil,Drug
+Symptom_Advice,"I have palpitations, what should I do?","For palpitations, monitor and consult your doctor if persistent.",palpitations,Symptom
+Symptom_Advice,"I have headache, what should I do?","For headache, monitor and consult your doctor if persistent.",headache,Symptom
+Drug_Dosage,Recommended dose of Warfarin?,Typical dose for Warfarin depends on individual condition. Consult doctor.,Warfarin,Drug
+Interaction_Check,Can I take Prednisone and Lisinopril together?,Prednisone and Lisinopril do not have significant interactions.,Prednisone/Lisinopril,Drug
+Lifestyle_Advice,Can I take exercise with my medication?,Avoid taking exercise with certain medications. Consult your doctor.,exercise,Lifestyle
+Side_Effect,What are side effects of Digoxin?,Common side effects of Digoxin include mild to moderate reactions.,Digoxin,Drug
+Drug_Info,What is Prednisone used for?,Prednisone is used for treatment of its respective condition.,Prednisone,Drug
+Drug_Dosage,Recommended dose of Metformin?,Typical dose for Metformin depends on individual condition. Consult doctor.,Metformin,Drug
+Symptom_Advice,"I have shortness of breath, what should I do?","For shortness of breath, monitor and consult your doctor if persistent.",shortness of breath,Symptom
+Drug_Info,What is Sildenafil used for?,Sildenafil is used for treatment of its respective condition.,Sildenafil,Drug
+Symptom_Advice,"I have palpitations, what should I do?","For palpitations, monitor and consult your doctor if persistent.",palpitations,Symptom
+Lifestyle_Advice,Can I take diet with my medication?,Avoid taking diet with certain medications. Consult your doctor.,diet,Lifestyle
+Side_Effect,What are side effects of Amiodarone?,Common side effects of Amiodarone include mild to moderate reactions.,Amiodarone,Drug
+Lifestyle_Advice,Can I take diet with my medication?,Avoid taking diet with certain medications. Consult your doctor.,diet,Lifestyle
+Drug_Info,What is Clopidogrel used for?,Clopidogrel is used for treatment of its respective condition.,Clopidogrel,Drug
+Interaction_Check,Can I take Sildenafil and Metformin together?,Sildenafil and Metformin may have Minor interaction.,Sildenafil/Metformin,Drug
+Symptom_Advice,"I have shortness of breath, what should I do?","For shortness of breath, monitor and consult your doctor if persistent.",shortness of breath,Symptom
+Interaction_Check,Can I take Clopidogrel and Warfarin together?,Clopidogrel and Warfarin may have Moderate interaction.,Clopidogrel/Warfarin,Drug
+Lifestyle_Advice,Can I take diet with my medication?,Avoid taking diet with certain medications. Consult your doctor.,diet,Lifestyle
+Lifestyle_Advice,Can I take exercise with my medication?,Avoid taking exercise with certain medications. Consult your doctor.,exercise,Lifestyle
+Drug_Info,What is Aspirin used for?,Aspirin is used for treatment of its respective condition.,Aspirin,Drug
+Drug_Info,What is Metformin used for?,Metformin is used for treatment of its respective condition.,Metformin,Drug
+Symptom_Advice,"I have fatigue, what should I do?","For fatigue, monitor and consult your doctor if persistent.",fatigue,Symptom
+Drug_Info,What is Warfarin used for?,Warfarin is used for treatment of its respective condition.,Warfarin,Drug
+Interaction_Check,Can I take Levothyroxine and Aspirin together?,Levothyroxine and Aspirin may have Moderate interaction.,Levothyroxine/Aspirin,Drug
+Lifestyle_Advice,Can I take grapefruit with my medication?,Avoid taking grapefruit with certain medications. Consult your doctor.,grapefruit,Lifestyle
+Drug_Dosage,Recommended dose of Omeprazole?,Typical dose for Omeprazole depends on individual condition. Consult doctor.,Omeprazole,Drug
+Lifestyle_Advice,Can I take calcium with my medication?,Avoid taking calcium with certain medications. Consult your doctor.,calcium,Lifestyle
+Drug_Dosage,Recommended dose of Clopidogrel?,Typical dose for Clopidogrel depends on individual condition. Consult doctor.,Clopidogrel,Drug
+Drug_Info,What is Simvastatin used for?,Simvastatin is used for treatment of its respective condition.,Simvastatin,Drug
+Drug_Dosage,Recommended dose of Omeprazole?,Typical dose for Omeprazole depends on individual condition. Consult doctor.,Omeprazole,Drug
+Drug_Dosage,Recommended dose of Ibuprofen?,Typical dose for Ibuprofen depends on individual condition. Consult doctor.,Ibuprofen,Drug
+Drug_Info,What is Lithium used for?,Lithium is used for treatment of its respective condition.,Lithium,Drug
+Symptom_Advice,"I have nausea, what should I do?","For nausea, monitor and consult your doctor if persistent.",nausea,Symptom
+Drug_Dosage,Recommended dose of Sildenafil?,Typical dose for Sildenafil depends on individual condition. Consult doctor.,Sildenafil,Drug
+Interaction_Check,Can I take Simvastatin and Digoxin together?,Simvastatin and Digoxin may have Minor interaction.,Simvastatin/Digoxin,Drug
+Symptom_Advice,"I have shortness of breath, what should I do?","For shortness of breath, monitor and consult your doctor if persistent.",shortness of breath,Symptom
+Lifestyle_Advice,Can I take diet with my medication?,Avoid taking diet with certain medications. Consult your doctor.,diet,Lifestyle
+Drug_Info,What is Amiodarone used for?,Amiodarone is used for treatment of its respective condition.,Amiodarone,Drug
+Symptom_Advice,"I have nausea, what should I do?","For nausea, monitor and consult your doctor if persistent.",nausea,Symptom
+Drug_Info,What is Simvastatin used for?,Simvastatin is used for treatment of its respective condition.,Simvastatin,Drug
+Drug_Dosage,Recommended dose of Warfarin?,Typical dose for Warfarin depends on individual condition. Consult doctor.,Warfarin,Drug
+Lifestyle_Advice,Can I take calcium with my medication?,Avoid taking calcium with certain medications. Consult your doctor.,calcium,Lifestyle
+Lifestyle_Advice,Can I take grapefruit with my medication?,Avoid taking grapefruit with certain medications. Consult your doctor.,grapefruit,Lifestyle
+Drug_Info,What is Metformin used for?,Metformin is used for treatment of its respective condition.,Metformin,Drug
+Symptom_Advice,"I have nausea, what should I do?","For nausea, monitor and consult your doctor if persistent.",nausea,Symptom
+Interaction_Check,Can I take Prednisone and Omeprazole together?,Prednisone and Omeprazole may have Minor interaction.,Prednisone/Omeprazole,Drug
+Interaction_Check,Can I take Omeprazole and Lisinopril together?,Omeprazole and Lisinopril do not have significant interactions.,Omeprazole/Lisinopril,Drug
+Interaction_Check,Can I take Digoxin and Prednisone together?,Digoxin and Prednisone may have Minor interaction.,Digoxin/Prednisone,Drug
+Drug_Info,What is Ibuprofen used for?,Ibuprofen is used for treatment of its respective condition.,Ibuprofen,Drug
+Interaction_Check,Can I take Aspirin and Levothyroxine together?,Aspirin and Levothyroxine may have Major interaction.,Aspirin/Levothyroxine,Drug
+Drug_Info,What is Clopidogrel used for?,Clopidogrel is used for treatment of its respective condition.,Clopidogrel,Drug
+Drug_Info,What is Aspirin used for?,Aspirin is used for treatment of its respective condition.,Aspirin,Drug
+Drug_Info,What is Digoxin used for?,Digoxin is used for treatment of its respective condition.,Digoxin,Drug
+Interaction_Check,Can I take Omeprazole and Digoxin together?,Omeprazole and Digoxin may have Moderate interaction.,Omeprazole/Digoxin,Drug
+Drug_Info,What is Aspirin used for?,Aspirin is used for treatment of its respective condition.,Aspirin,Drug
+Lifestyle_Advice,Can I take exercise with my medication?,Avoid taking exercise with certain medications. Consult your doctor.,exercise,Lifestyle
+Side_Effect,What are side effects of Warfarin?,Common side effects of Warfarin include mild to moderate reactions.,Warfarin,Drug
+Lifestyle_Advice,Can I take alcohol with my medication?,Avoid taking alcohol with certain medications. Consult your doctor.,alcohol,Lifestyle
+Drug_Dosage,Recommended dose of Sildenafil?,Typical dose for Sildenafil depends on individual condition. Consult doctor.,Sildenafil,Drug
+Symptom_Advice,"I have shortness of breath, what should I do?","For shortness of breath, monitor and consult your doctor if persistent.",shortness of breath,Symptom
+Side_Effect,What are side effects of Warfarin?,Common side effects of Warfarin include mild to moderate reactions.,Warfarin,Drug
+Drug_Dosage,Recommended dose of Levothyroxine?,Typical dose for Levothyroxine depends on individual condition. Consult doctor.,Levothyroxine,Drug
+Interaction_Check,Can I take Omeprazole and Metformin together?,Omeprazole and Metformin do not have significant interactions.,Omeprazole/Metformin,Drug
+Lifestyle_Advice,Can I take grapefruit with my medication?,Avoid taking grapefruit with certain medications. Consult your doctor.,grapefruit,Lifestyle
+Symptom_Advice,"I have fatigue, what should I do?","For fatigue, monitor and consult your doctor if persistent.",fatigue,Symptom
+Lifestyle_Advice,Can I take alcohol with my medication?,Avoid taking alcohol with certain medications. Consult your doctor.,alcohol,Lifestyle
+Drug_Info,What is Sildenafil used for?,Sildenafil is used for treatment of its respective condition.,Sildenafil,Drug
+Drug_Dosage,Recommended dose of Amiodarone?,Typical dose for Amiodarone depends on individual condition. Consult doctor.,Amiodarone,Drug
+Lifestyle_Advice,Can I take alcohol with my medication?,Avoid taking alcohol with certain medications. Consult your doctor.,alcohol,Lifestyle
+Drug_Dosage,Recommended dose of Lithium?,Typical dose for Lithium depends on individual condition. Consult doctor.,Lithium,Drug
+Drug_Dosage,Recommended dose of Warfarin?,Typical dose for Warfarin depends on individual condition. Consult doctor.,Warfarin,Drug
+Drug_Info,What is Digoxin used for?,Digoxin is used for treatment of its respective condition.,Digoxin,Drug
+Side_Effect,What are side effects of Aspirin?,Common side effects of Aspirin include mild to moderate reactions.,Aspirin,Drug
+Drug_Info,What is Aspirin used for?,Aspirin is used for treatment of its respective condition.,Aspirin,Drug
+Symptom_Advice,"I have shortness of breath, what should I do?","For shortness of breath, monitor and consult your doctor if persistent.",shortness of breath,Symptom
+Lifestyle_Advice,Can I take grapefruit with my medication?,Avoid taking grapefruit with certain medications. Consult your doctor.,grapefruit,Lifestyle
+Side_Effect,What are side effects of Lithium?,Common side effects of Lithium include mild to moderate reactions.,Lithium,Drug
+Symptom_Advice,"I have fatigue, what should I do?","For fatigue, monitor and consult your doctor if persistent.",fatigue,Symptom
+Side_Effect,What are side effects of Levothyroxine?,Common side effects of Levothyroxine include mild to moderate reactions.,Levothyroxine,Drug
+Symptom_Advice,"I have fatigue, what should I do?","For fatigue, monitor and consult your doctor if persistent.",fatigue,Symptom
+Side_Effect,What are side effects of Omeprazole?,Common side effects of Omeprazole include mild to moderate reactions.,Omeprazole,Drug
+Drug_Dosage,Recommended dose of Warfarin?,Typical dose for Warfarin depends on individual condition. Consult doctor.,Warfarin,Drug
+Lifestyle_Advice,Can I take alcohol with my medication?,Avoid taking alcohol with certain medications. Consult your doctor.,alcohol,Lifestyle
+Lifestyle_Advice,Can I take grapefruit with my medication?,Avoid taking grapefruit with certain medications. Consult your doctor.,grapefruit,Lifestyle
+Lifestyle_Advice,Can I take calcium with my medication?,Avoid taking calcium with certain medications. Consult your doctor.,calcium,Lifestyle
+Drug_Dosage,Recommended dose of Sildenafil?,Typical dose for Sildenafil depends on individual condition. Consult doctor.,Sildenafil,Drug
+Interaction_Check,Can I take Amiodarone and Digoxin together?,Amiodarone and Digoxin do not have significant interactions.,Amiodarone/Digoxin,Drug
+Drug_Dosage,Recommended dose of Amiodarone?,Typical dose for Amiodarone depends on individual condition. Consult doctor.,Amiodarone,Drug
+Lifestyle_Advice,Can I take alcohol with my medication?,Avoid taking alcohol with certain medications. Consult your doctor.,alcohol,Lifestyle
+Symptom_Advice,"I have fatigue, what should I do?","For fatigue, monitor and consult your doctor if persistent.",fatigue,Symptom
+Symptom_Advice,"I have palpitations, what should I do?","For palpitations, monitor and consult your doctor if persistent.",palpitations,Symptom
+Symptom_Advice,"I have dizziness, what should I do?","For dizziness, monitor and consult your doctor if persistent.",dizziness,Symptom
+Interaction_Check,Can I take Clopidogrel and Sildenafil together?,Clopidogrel and Sildenafil may have Major interaction.,Clopidogrel/Sildenafil,Drug
+Drug_Info,What is Amiodarone used for?,Amiodarone is used for treatment of its respective condition.,Amiodarone,Drug
+Drug_Info,What is Lithium used for?,Lithium is used for treatment of its respective condition.,Lithium,Drug
+Lifestyle_Advice,Can I take diet with my medication?,Avoid taking diet with certain medications. Consult your doctor.,diet,Lifestyle
+Interaction_Check,Can I take Levothyroxine and Metformin together?,Levothyroxine and Metformin may have Minor interaction.,Levothyroxine/Metformin,Drug
+Side_Effect,What are side effects of Digoxin?,Common side effects of Digoxin include mild to moderate reactions.,Digoxin,Drug
+Lifestyle_Advice,Can I take alcohol with my medication?,Avoid taking alcohol with certain medications. Consult your doctor.,alcohol,Lifestyle
+Drug_Dosage,Recommended dose of Digoxin?,Typical dose for Digoxin depends on individual condition. Consult doctor.,Digoxin,Drug
+Lifestyle_Advice,Can I take exercise with my medication?,Avoid taking exercise with certain medications. Consult your doctor.,exercise,Lifestyle
+Lifestyle_Advice,Can I take alcohol with my medication?,Avoid taking alcohol with certain medications. Consult your doctor.,alcohol,Lifestyle
+Symptom_Advice,"I have shortness of breath, what should I do?","For shortness of breath, monitor and consult your doctor if persistent.",shortness of breath,Symptom
+Symptom_Advice,"I have dizziness, what should I do?","For dizziness, monitor and consult your doctor if persistent.",dizziness,Symptom
+Drug_Info,What is Omeprazole used for?,Omeprazole is used for treatment of its respective condition.,Omeprazole,Drug
+Side_Effect,What are side effects of Lisinopril?,Common side effects of Lisinopril include mild to moderate reactions.,Lisinopril,Drug
+Interaction_Check,Can I take Clopidogrel and Sildenafil together?,Clopidogrel and Sildenafil may have Major interaction.,Clopidogrel/Sildenafil,Drug
+Symptom_Advice,"I have shortness of breath, what should I do?","For shortness of breath, monitor and consult your doctor if persistent.",shortness of breath,Symptom
+Symptom_Advice,"I have headache, what should I do?","For headache, monitor and consult your doctor if persistent.",headache,Symptom
+Symptom_Advice,"I have shortness of breath, what should I do?","For shortness of breath, monitor and consult your doctor if persistent.",shortness of breath,Symptom
+Interaction_Check,Can I take Prednisone and Amiodarone together?,Prednisone and Amiodarone do not have significant interactions.,Prednisone/Amiodarone,Drug
+Side_Effect,What are side effects of Omeprazole?,Common side effects of Omeprazole include mild to moderate reactions.,Omeprazole,Drug
+Lifestyle_Advice,Can I take grapefruit with my medication?,Avoid taking grapefruit with certain medications. Consult your doctor.,grapefruit,Lifestyle
+Drug_Info,What is Omeprazole used for?,Omeprazole is used for treatment of its respective condition.,Omeprazole,Drug
+Lifestyle_Advice,Can I take diet with my medication?,Avoid taking diet with certain medications. Consult your doctor.,diet,Lifestyle
+Drug_Info,What is Aspirin used for?,Aspirin is used for treatment of its respective condition.,Aspirin,Drug
+Symptom_Advice,"I have palpitations, what should I do?","For palpitations, monitor and consult your doctor if persistent.",palpitations,Symptom
+Symptom_Advice,"I have dizziness, what should I do?","For dizziness, monitor and consult your doctor if persistent.",dizziness,Symptom
+Symptom_Advice,"I have headache, what should I do?","For headache, monitor and consult your doctor if persistent.",headache,Symptom
+Interaction_Check,Can I take Simvastatin and Aspirin together?,Simvastatin and Aspirin may have Moderate interaction.,Simvastatin/Aspirin,Drug
+Drug_Info,What is Aspirin used for?,Aspirin is used for treatment of its respective condition.,Aspirin,Drug
+Lifestyle_Advice,Can I take alcohol with my medication?,Avoid taking alcohol with certain medications. Consult your doctor.,alcohol,Lifestyle
+Drug_Info,What is Lithium used for?,Lithium is used for treatment of its respective condition.,Lithium,Drug
+Side_Effect,What are side effects of Lisinopril?,Common side effects of Lisinopril include mild to moderate reactions.,Lisinopril,Drug
+Drug_Dosage,Recommended dose of Amiodarone?,Typical dose for Amiodarone depends on individual condition. Consult doctor.,Amiodarone,Drug
+Drug_Dosage,Recommended dose of Digoxin?,Typical dose for Digoxin depends on individual condition. Consult doctor.,Digoxin,Drug
+Interaction_Check,Can I take Digoxin and Ibuprofen together?,Digoxin and Ibuprofen do not have significant interactions.,Digoxin/Ibuprofen,Drug
+Side_Effect,What are side effects of Omeprazole?,Common side effects of Omeprazole include mild to moderate reactions.,Omeprazole,Drug
+Drug_Info,What is Metformin used for?,Metformin is used for treatment of its respective condition.,Metformin,Drug
+Interaction_Check,Can I take Aspirin and Prednisone together?,Aspirin and Prednisone may have Minor interaction.,Aspirin/Prednisone,Drug
+Drug_Info,What is Ibuprofen used for?,Ibuprofen is used for treatment of its respective condition.,Ibuprofen,Drug
+Drug_Dosage,Recommended dose of Clopidogrel?,Typical dose for Clopidogrel depends on individual condition. Consult doctor.,Clopidogrel,Drug
+Drug_Dosage,Recommended dose of Sildenafil?,Typical dose for Sildenafil depends on individual condition. Consult doctor.,Sildenafil,Drug
+Side_Effect,What are side effects of Sildenafil?,Common side effects of Sildenafil include mild to moderate reactions.,Sildenafil,Drug
+Drug_Dosage,Recommended dose of Ibuprofen?,Typical dose for Ibuprofen depends on individual condition. Consult doctor.,Ibuprofen,Drug
+Interaction_Check,Can I take Prednisone and Levothyroxine together?,Prednisone and Levothyroxine may have Moderate interaction.,Prednisone/Levothyroxine,Drug
+Drug_Info,What is Ibuprofen used for?,Ibuprofen is used for treatment of its respective condition.,Ibuprofen,Drug
+Lifestyle_Advice,Can I take grapefruit with my medication?,Avoid taking grapefruit with certain medications. Consult your doctor.,grapefruit,Lifestyle
+Drug_Dosage,Recommended dose of Levothyroxine?,Typical dose for Levothyroxine depends on individual condition. Consult doctor.,Levothyroxine,Drug
+Lifestyle_Advice,Can I take diet with my medication?,Avoid taking diet with certain medications. Consult your doctor.,diet,Lifestyle
+Drug_Info,What is Lisinopril used for?,Lisinopril is used for treatment of its respective condition.,Lisinopril,Drug
+Drug_Dosage,Recommended dose of Omeprazole?,Typical dose for Omeprazole depends on individual condition. Consult doctor.,Omeprazole,Drug
+Drug_Info,What is Metformin used for?,Metformin is used for treatment of its respective condition.,Metformin,Drug
+Interaction_Check,Can I take Ibuprofen and Lisinopril together?,Ibuprofen and Lisinopril do not have significant interactions.,Ibuprofen/Lisinopril,Drug
+Symptom_Advice,"I have dizziness, what should I do?","For dizziness, monitor and consult your doctor if persistent.",dizziness,Symptom
+Symptom_Advice,"I have headache, what should I do?","For headache, monitor and consult your doctor if persistent.",headache,Symptom
+Drug_Info,What is Sildenafil used for?,Sildenafil is used for treatment of its respective condition.,Sildenafil,Drug
+Lifestyle_Advice,Can I take exercise with my medication?,Avoid taking exercise with certain medications. Consult your doctor.,exercise,Lifestyle
+Interaction_Check,Can I take Aspirin and Amiodarone together?,Aspirin and Amiodarone may have Major interaction.,Aspirin/Amiodarone,Drug
+Side_Effect,What are side effects of Levothyroxine?,Common side effects of Levothyroxine include mild to moderate reactions.,Levothyroxine,Drug
+Lifestyle_Advice,Can I take diet with my medication?,Avoid taking diet with certain medications. Consult your doctor.,diet,Lifestyle
+Drug_Info,What is Amiodarone used for?,Amiodarone is used for treatment of its respective condition.,Amiodarone,Drug
+Lifestyle_Advice,Can I take alcohol with my medication?,Avoid taking alcohol with certain medications. Consult your doctor.,alcohol,Lifestyle
+Drug_Dosage,Recommended dose of Metformin?,Typical dose for Metformin depends on individual condition. Consult doctor.,Metformin,Drug
+Drug_Dosage,Recommended dose of Warfarin?,Typical dose for Warfarin depends on individual condition. Consult doctor.,Warfarin,Drug
+Symptom_Advice,"I have shortness of breath, what should I do?","For shortness of breath, monitor and consult your doctor if persistent.",shortness of breath,Symptom
+Drug_Dosage,Recommended dose of Omeprazole?,Typical dose for Omeprazole depends on individual condition. Consult doctor.,Omeprazole,Drug
+Drug_Dosage,Recommended dose of Lithium?,Typical dose for Lithium depends on individual condition. Consult doctor.,Lithium,Drug
+Lifestyle_Advice,Can I take exercise with my medication?,Avoid taking exercise with certain medications. Consult your doctor.,exercise,Lifestyle
+Symptom_Advice,"I have headache, what should I do?","For headache, monitor and consult your doctor if persistent.",headache,Symptom
+Drug_Dosage,Recommended dose of Metformin?,Typical dose for Metformin depends on individual condition. Consult doctor.,Metformin,Drug
+Symptom_Advice,"I have nausea, what should I do?","For nausea, monitor and consult your doctor if persistent.",nausea,Symptom
+Side_Effect,What are side effects of Sildenafil?,Common side effects of Sildenafil include mild to moderate reactions.,Sildenafil,Drug
+Lifestyle_Advice,Can I take diet with my medication?,Avoid taking diet with certain medications. Consult your doctor.,diet,Lifestyle
+Drug_Info,What is Amiodarone used for?,Amiodarone is used for treatment of its respective condition.,Amiodarone,Drug
+Drug_Info,What is Lisinopril used for?,Lisinopril is used for treatment of its respective condition.,Lisinopril,Drug
+Drug_Dosage,Recommended dose of Omeprazole?,Typical dose for Omeprazole depends on individual condition. Consult doctor.,Omeprazole,Drug
+Drug_Dosage,Recommended dose of Levothyroxine?,Typical dose for Levothyroxine depends on individual condition. Consult doctor.,Levothyroxine,Drug
+Drug_Info,What is Amiodarone used for?,Amiodarone is used for treatment of its respective condition.,Amiodarone,Drug
+Symptom_Advice,"I have palpitations, what should I do?","For palpitations, monitor and consult your doctor if persistent.",palpitations,Symptom
+Symptom_Advice,"I have nausea, what should I do?","For nausea, monitor and consult your doctor if persistent.",nausea,Symptom
+Symptom_Advice,"I have nausea, what should I do?","For nausea, monitor and consult your doctor if persistent.",nausea,Symptom
+Drug_Info,What is Levothyroxine used for?,Levothyroxine is used for treatment of its respective condition.,Levothyroxine,Drug
+Lifestyle_Advice,Can I take alcohol with my medication?,Avoid taking alcohol with certain medications. Consult your doctor.,alcohol,Lifestyle
+Side_Effect,What are side effects of Levothyroxine?,Common side effects of Levothyroxine include mild to moderate reactions.,Levothyroxine,Drug
+Interaction_Check,Can I take Prednisone and Digoxin together?,Prednisone and Digoxin may have Minor interaction.,Prednisone/Digoxin,Drug
+Interaction_Check,Can I take Lisinopril and Warfarin together?,Lisinopril and Warfarin may have Major interaction.,Lisinopril/Warfarin,Drug
+Interaction_Check,Can I take Omeprazole and Aspirin together?,Omeprazole and Aspirin do not have significant interactions.,Omeprazole/Aspirin,Drug
+Lifestyle_Advice,Can I take alcohol with my medication?,Avoid taking alcohol with certain medications. Consult your doctor.,alcohol,Lifestyle
+Interaction_Check,Can I take Prednisone and Clopidogrel together?,Prednisone and Clopidogrel may have Minor interaction.,Prednisone/Clopidogrel,Drug
+Side_Effect,What are side effects of Sildenafil?,Common side effects of Sildenafil include mild to moderate reactions.,Sildenafil,Drug
+Lifestyle_Advice,Can I take grapefruit with my medication?,Avoid taking grapefruit with certain medications. Consult your doctor.,grapefruit,Lifestyle
+Lifestyle_Advice,Can I take grapefruit with my medication?,Avoid taking grapefruit with certain medications. Consult your doctor.,grapefruit,Lifestyle
+Symptom_Advice,"I have palpitations, what should I do?","For palpitations, monitor and consult your doctor if persistent.",palpitations,Symptom
+Symptom_Advice,"I have nausea, what should I do?","For nausea, monitor and consult your doctor if persistent.",nausea,Symptom
+Drug_Dosage,Recommended dose of Warfarin?,Typical dose for Warfarin depends on individual condition. Consult doctor.,Warfarin,Drug
+Drug_Dosage,Recommended dose of Sildenafil?,Typical dose for Sildenafil depends on individual condition. Consult doctor.,Sildenafil,Drug
+Lifestyle_Advice,Can I take diet with my medication?,Avoid taking diet with certain medications. Consult your doctor.,diet,Lifestyle
+Symptom_Advice,"I have shortness of breath, what should I do?","For shortness of breath, monitor and consult your doctor if persistent.",shortness of breath,Symptom
+Drug_Info,What is Digoxin used for?,Digoxin is used for treatment of its respective condition.,Digoxin,Drug
+Side_Effect,What are side effects of Warfarin?,Common side effects of Warfarin include mild to moderate reactions.,Warfarin,Drug
+Symptom_Advice,"I have fatigue, what should I do?","For fatigue, monitor and consult your doctor if persistent.",fatigue,Symptom
+Drug_Dosage,Recommended dose of Metformin?,Typical dose for Metformin depends on individual condition. Consult doctor.,Metformin,Drug
+Drug_Info,What is Digoxin used for?,Digoxin is used for treatment of its respective condition.,Digoxin,Drug
+Symptom_Advice,"I have headache, what should I do?","For headache, monitor and consult your doctor if persistent.",headache,Symptom
+Lifestyle_Advice,Can I take alcohol with my medication?,Avoid taking alcohol with certain medications. Consult your doctor.,alcohol,Lifestyle
+Side_Effect,What are side effects of Omeprazole?,Common side effects of Omeprazole include mild to moderate reactions.,Omeprazole,Drug
+Side_Effect,What are side effects of Amiodarone?,Common side effects of Amiodarone include mild to moderate reactions.,Amiodarone,Drug
+Drug_Dosage,Recommended dose of Omeprazole?,Typical dose for Omeprazole depends on individual condition. Consult doctor.,Omeprazole,Drug
+Side_Effect,What are side effects of Prednisone?,Common side effects of Prednisone include mild to moderate reactions.,Prednisone,Drug
+Lifestyle_Advice,Can I take alcohol with my medication?,Avoid taking alcohol with certain medications. Consult your doctor.,alcohol,Lifestyle
+Drug_Dosage,Recommended dose of Prednisone?,Typical dose for Prednisone depends on individual condition. Consult doctor.,Prednisone,Drug
+Side_Effect,What are side effects of Clopidogrel?,Common side effects of Clopidogrel include mild to moderate reactions.,Clopidogrel,Drug
+Interaction_Check,Can I take Digoxin and Omeprazole together?,Digoxin and Omeprazole may have Major interaction.,Digoxin/Omeprazole,Drug
+Drug_Info,What is Sildenafil used for?,Sildenafil is used for treatment of its respective condition.,Sildenafil,Drug
+Drug_Info,What is Prednisone used for?,Prednisone is used for treatment of its respective condition.,Prednisone,Drug
+Symptom_Advice,"I have palpitations, what should I do?","For palpitations, monitor and consult your doctor if persistent.",palpitations,Symptom
+Drug_Info,What is Levothyroxine used for?,Levothyroxine is used for treatment of its respective condition.,Levothyroxine,Drug
+Lifestyle_Advice,Can I take calcium with my medication?,Avoid taking calcium with certain medications. Consult your doctor.,calcium,Lifestyle
+Drug_Info,What is Lisinopril used for?,Lisinopril is used for treatment of its respective condition.,Lisinopril,Drug
+Lifestyle_Advice,Can I take exercise with my medication?,Avoid taking exercise with certain medications. Consult your doctor.,exercise,Lifestyle
+Drug_Dosage,Recommended dose of Levothyroxine?,Typical dose for Levothyroxine depends on individual condition. Consult doctor.,Levothyroxine,Drug
+Side_Effect,What are side effects of Omeprazole?,Common side effects of Omeprazole include mild to moderate reactions.,Omeprazole,Drug
+Interaction_Check,Can I take Digoxin and Simvastatin together?,Digoxin and Simvastatin do not have significant interactions.,Digoxin/Simvastatin,Drug
+Drug_Dosage,Recommended dose of Amiodarone?,Typical dose for Amiodarone depends on individual condition. Consult doctor.,Amiodarone,Drug
+Symptom_Advice,"I have palpitations, what should I do?","For palpitations, monitor and consult your doctor if persistent.",palpitations,Symptom
+Side_Effect,What are side effects of Metformin?,Common side effects of Metformin include mild to moderate reactions.,Metformin,Drug
+Lifestyle_Advice,Can I take diet with my medication?,Avoid taking diet with certain medications. Consult your doctor.,diet,Lifestyle
+Drug_Info,What is Digoxin used for?,Digoxin is used for treatment of its respective condition.,Digoxin,Drug
+Drug_Info,What is Levothyroxine used for?,Levothyroxine is used for treatment of its respective condition.,Levothyroxine,Drug
+Lifestyle_Advice,Can I take exercise with my medication?,Avoid taking exercise with certain medications. Consult your doctor.,exercise,Lifestyle
+Symptom_Advice,"I have dizziness, what should I do?","For dizziness, monitor and consult your doctor if persistent.",dizziness,Symptom
+Lifestyle_Advice,Can I take grapefruit with my medication?,Avoid taking grapefruit with certain medications. Consult your doctor.,grapefruit,Lifestyle
+Interaction_Check,Can I take Digoxin and Warfarin together?,Digoxin and Warfarin may have Major interaction.,Digoxin/Warfarin,Drug
+Symptom_Advice,"I have dizziness, what should I do?","For dizziness, monitor and consult your doctor if persistent.",dizziness,Symptom
+Lifestyle_Advice,Can I take exercise with my medication?,Avoid taking exercise with certain medications. Consult your doctor.,exercise,Lifestyle
+Interaction_Check,Can I take Omeprazole and Lithium together?,Omeprazole and Lithium do not have significant interactions.,Omeprazole/Lithium,Drug
+Symptom_Advice,"I have shortness of breath, what should I do?","For shortness of breath, monitor and consult your doctor if persistent.",shortness of breath,Symptom
+Drug_Dosage,Recommended dose of Clopidogrel?,Typical dose for Clopidogrel depends on individual condition. Consult doctor.,Clopidogrel,Drug
+Symptom_Advice,"I have nausea, what should I do?","For nausea, monitor and consult your doctor if persistent.",nausea,Symptom
+Lifestyle_Advice,Can I take grapefruit with my medication?,Avoid taking grapefruit with certain medications. Consult your doctor.,grapefruit,Lifestyle
+Drug_Info,What is Clopidogrel used for?,Clopidogrel is used for treatment of its respective condition.,Clopidogrel,Drug
+Lifestyle_Advice,Can I take exercise with my medication?,Avoid taking exercise with certain medications. Consult your doctor.,exercise,Lifestyle
+Side_Effect,What are side effects of Digoxin?,Common side effects of Digoxin include mild to moderate reactions.,Digoxin,Drug
+Drug_Info,What is Digoxin used for?,Digoxin is used for treatment of its respective condition.,Digoxin,Drug
+Symptom_Advice,"I have nausea, what should I do?","For nausea, monitor and consult your doctor if persistent.",nausea,Symptom
+Interaction_Check,Can I take Digoxin and Prednisone together?,Digoxin and Prednisone may have Major interaction.,Digoxin/Prednisone,Drug
+Interaction_Check,Can I take Aspirin and Warfarin together?,Aspirin and Warfarin may have Major interaction.,Aspirin/Warfarin,Drug
+Side_Effect,What are side effects of Prednisone?,Common side effects of Prednisone include mild to moderate reactions.,Prednisone,Drug
+Side_Effect,What are side effects of Simvastatin?,Common side effects of Simvastatin include mild to moderate reactions.,Simvastatin,Drug
+Lifestyle_Advice,Can I take grapefruit with my medication?,Avoid taking grapefruit with certain medications. Consult your doctor.,grapefruit,Lifestyle
+Drug_Info,What is Clopidogrel used for?,Clopidogrel is used for treatment of its respective condition.,Clopidogrel,Drug
+Symptom_Advice,"I have shortness of breath, what should I do?","For shortness of breath, monitor and consult your doctor if persistent.",shortness of breath,Symptom
+Interaction_Check,Can I take Omeprazole and Amiodarone together?,Omeprazole and Amiodarone may have Major interaction.,Omeprazole/Amiodarone,Drug
+Lifestyle_Advice,Can I take grapefruit with my medication?,Avoid taking grapefruit with certain medications. Consult your doctor.,grapefruit,Lifestyle
+Interaction_Check,Can I take Lithium and Sildenafil together?,Lithium and Sildenafil may have Moderate interaction.,Lithium/Sildenafil,Drug
+Lifestyle_Advice,Can I take calcium with my medication?,Avoid taking calcium with certain medications. Consult your doctor.,calcium,Lifestyle
+Drug_Dosage,Recommended dose of Omeprazole?,Typical dose for Omeprazole depends on individual condition. Consult doctor.,Omeprazole,Drug
+Symptom_Advice,"I have palpitations, what should I do?","For palpitations, monitor and consult your doctor if persistent.",palpitations,Symptom
+Drug_Dosage,Recommended dose of Lisinopril?,Typical dose for Lisinopril depends on individual condition. Consult doctor.,Lisinopril,Drug
+Side_Effect,What are side effects of Lisinopril?,Common side effects of Lisinopril include mild to moderate reactions.,Lisinopril,Drug
+Symptom_Advice,"I have fatigue, what should I do?","For fatigue, monitor and consult your doctor if persistent.",fatigue,Symptom
+Interaction_Check,Can I take Digoxin and Clopidogrel together?,Digoxin and Clopidogrel do not have significant interactions.,Digoxin/Clopidogrel,Drug
+Drug_Dosage,Recommended dose of Sildenafil?,Typical dose for Sildenafil depends on individual condition. Consult doctor.,Sildenafil,Drug
+Symptom_Advice,"I have fatigue, what should I do?","For fatigue, monitor and consult your doctor if persistent.",fatigue,Symptom
+Side_Effect,What are side effects of Levothyroxine?,Common side effects of Levothyroxine include mild to moderate reactions.,Levothyroxine,Drug
+Drug_Dosage,Recommended dose of Aspirin?,Typical dose for Aspirin depends on individual condition. Consult doctor.,Aspirin,Drug
+Interaction_Check,Can I take Prednisone and Omeprazole together?,Prednisone and Omeprazole may have Moderate interaction.,Prednisone/Omeprazole,Drug
+Drug_Info,What is Clopidogrel used for?,Clopidogrel is used for treatment of its respective condition.,Clopidogrel,Drug
+Drug_Dosage,Recommended dose of Simvastatin?,Typical dose for Simvastatin depends on individual condition. Consult doctor.,Simvastatin,Drug
+Symptom_Advice,"I have shortness of breath, what should I do?","For shortness of breath, monitor and consult your doctor if persistent.",shortness of breath,Symptom
+Drug_Info,What is Lithium used for?,Lithium is used for treatment of its respective condition.,Lithium,Drug
+Side_Effect,What are side effects of Simvastatin?,Common side effects of Simvastatin include mild to moderate reactions.,Simvastatin,Drug
+Drug_Info,What is Ibuprofen used for?,Ibuprofen is used for treatment of its respective condition.,Ibuprofen,Drug
+Drug_Info,What is Prednisone used for?,Prednisone is used for treatment of its respective condition.,Prednisone,Drug
+Interaction_Check,Can I take Ibuprofen and Sildenafil together?,Ibuprofen and Sildenafil do not have significant interactions.,Ibuprofen/Sildenafil,Drug
+Interaction_Check,Can I take Simvastatin and Amiodarone together?,Simvastatin and Amiodarone may have Major interaction.,Simvastatin/Amiodarone,Drug
+Drug_Dosage,Recommended dose of Digoxin?,Typical dose for Digoxin depends on individual condition. Consult doctor.,Digoxin,Drug
+Drug_Info,What is Amiodarone used for?,Amiodarone is used for treatment of its respective condition.,Amiodarone,Drug
+Drug_Info,What is Amiodarone used for?,Amiodarone is used for treatment of its respective condition.,Amiodarone,Drug
+Side_Effect,What are side effects of Digoxin?,Common side effects of Digoxin include mild to moderate reactions.,Digoxin,Drug
+Interaction_Check,Can I take Amiodarone and Warfarin together?,Amiodarone and Warfarin may have Major interaction.,Amiodarone/Warfarin,Drug
+Symptom_Advice,"I have headache, what should I do?","For headache, monitor and consult your doctor if persistent.",headache,Symptom
+Lifestyle_Advice,Can I take diet with my medication?,Avoid taking diet with certain medications. Consult your doctor.,diet,Lifestyle
+Interaction_Check,Can I take Aspirin and Metformin together?,Aspirin and Metformin may have Moderate interaction.,Aspirin/Metformin,Drug
+Lifestyle_Advice,Can I take calcium with my medication?,Avoid taking calcium with certain medications. Consult your doctor.,calcium,Lifestyle
+Lifestyle_Advice,Can I take exercise with my medication?,Avoid taking exercise with certain medications. Consult your doctor.,exercise,Lifestyle
+Drug_Dosage,Recommended dose of Omeprazole?,Typical dose for Omeprazole depends on individual condition. Consult doctor.,Omeprazole,Drug
+Drug_Info,What is Warfarin used for?,Warfarin is used for treatment of its respective condition.,Warfarin,Drug
+Drug_Info,What is Ibuprofen used for?,Ibuprofen is used for treatment of its respective condition.,Ibuprofen,Drug
+Interaction_Check,Can I take Simvastatin and Aspirin together?,Simvastatin and Aspirin may have Minor interaction.,Simvastatin/Aspirin,Drug
+Side_Effect,What are side effects of Levothyroxine?,Common side effects of Levothyroxine include mild to moderate reactions.,Levothyroxine,Drug
+Drug_Dosage,Recommended dose of Warfarin?,Typical dose for Warfarin depends on individual condition. Consult doctor.,Warfarin,Drug
+Symptom_Advice,"I have nausea, what should I do?","For nausea, monitor and consult your doctor if persistent.",nausea,Symptom
+Symptom_Advice,"I have headache, what should I do?","For headache, monitor and consult your doctor if persistent.",headache,Symptom
+Drug_Info,What is Lisinopril used for?,Lisinopril is used for treatment of its respective condition.,Lisinopril,Drug
+Drug_Dosage,Recommended dose of Clopidogrel?,Typical dose for Clopidogrel depends on individual condition. Consult doctor.,Clopidogrel,Drug
+Side_Effect,What are side effects of Sildenafil?,Common side effects of Sildenafil include mild to moderate reactions.,Sildenafil,Drug
+Drug_Info,What is Warfarin used for?,Warfarin is used for treatment of its respective condition.,Warfarin,Drug
+Drug_Dosage,Recommended dose of Omeprazole?,Typical dose for Omeprazole depends on individual condition. Consult doctor.,Omeprazole,Drug
+Side_Effect,What are side effects of Metformin?,Common side effects of Metformin include mild to moderate reactions.,Metformin,Drug
+Lifestyle_Advice,Can I take grapefruit with my medication?,Avoid taking grapefruit with certain medications. Consult your doctor.,grapefruit,Lifestyle
+Side_Effect,What are side effects of Lisinopril?,Common side effects of Lisinopril include mild to moderate reactions.,Lisinopril,Drug
+Lifestyle_Advice,Can I take calcium with my medication?,Avoid taking calcium with certain medications. Consult your doctor.,calcium,Lifestyle
+Symptom_Advice,"I have fatigue, what should I do?","For fatigue, monitor and consult your doctor if persistent.",fatigue,Symptom
+Drug_Info,What is Omeprazole used for?,Omeprazole is used for treatment of its respective condition.,Omeprazole,Drug
+Symptom_Advice,"I have nausea, what should I do?","For nausea, monitor and consult your doctor if persistent.",nausea,Symptom
+Side_Effect,What are side effects of Amiodarone?,Common side effects of Amiodarone include mild to moderate reactions.,Amiodarone,Drug
+Interaction_Check,Can I take Clopidogrel and Simvastatin together?,Clopidogrel and Simvastatin may have Moderate interaction.,Clopidogrel/Simvastatin,Drug
+Drug_Info,What is Levothyroxine used for?,Levothyroxine is used for treatment of its respective condition.,Levothyroxine,Drug
+Side_Effect,What are side effects of Levothyroxine?,Common side effects of Levothyroxine include mild to moderate reactions.,Levothyroxine,Drug
+Side_Effect,What are side effects of Levothyroxine?,Common side effects of Levothyroxine include mild to moderate reactions.,Levothyroxine,Drug
+Drug_Info,What is Amiodarone used for?,Amiodarone is used for treatment of its respective condition.,Amiodarone,Drug
+Drug_Dosage,Recommended dose of Metformin?,Typical dose for Metformin depends on individual condition. Consult doctor.,Metformin,Drug
+Lifestyle_Advice,Can I take exercise with my medication?,Avoid taking exercise with certain medications. Consult your doctor.,exercise,Lifestyle
+Symptom_Advice,"I have dizziness, what should I do?","For dizziness, monitor and consult your doctor if persistent.",dizziness,Symptom
+Lifestyle_Advice,Can I take alcohol with my medication?,Avoid taking alcohol with certain medications. Consult your doctor.,alcohol,Lifestyle
+Symptom_Advice,"I have headache, what should I do?","For headache, monitor and consult your doctor if persistent.",headache,Symptom
+Symptom_Advice,"I have nausea, what should I do?","For nausea, monitor and consult your doctor if persistent.",nausea,Symptom
+Lifestyle_Advice,Can I take alcohol with my medication?,Avoid taking alcohol with certain medications. Consult your doctor.,alcohol,Lifestyle
+Side_Effect,What are side effects of Lithium?,Common side effects of Lithium include mild to moderate reactions.,Lithium,Drug
+Symptom_Advice,"I have nausea, what should I do?","For nausea, monitor and consult your doctor if persistent.",nausea,Symptom
+Drug_Info,What is Digoxin used for?,Digoxin is used for treatment of its respective condition.,Digoxin,Drug
+Side_Effect,What are side effects of Digoxin?,Common side effects of Digoxin include mild to moderate reactions.,Digoxin,Drug
+Lifestyle_Advice,Can I take calcium with my medication?,Avoid taking calcium with certain medications. Consult your doctor.,calcium,Lifestyle
+Lifestyle_Advice,Can I take exercise with my medication?,Avoid taking exercise with certain medications. Consult your doctor.,exercise,Lifestyle
+Lifestyle_Advice,Can I take exercise with my medication?,Avoid taking exercise with certain medications. Consult your doctor.,exercise,Lifestyle
+Lifestyle_Advice,Can I take calcium with my medication?,Avoid taking calcium with certain medications. Consult your doctor.,calcium,Lifestyle
+Interaction_Check,Can I take Warfarin and Lithium together?,Warfarin and Lithium do not have significant interactions.,Warfarin/Lithium,Drug
+Drug_Dosage,Recommended dose of Metformin?,Typical dose for Metformin depends on individual condition. Consult doctor.,Metformin,Drug
+Symptom_Advice,"I have nausea, what should I do?","For nausea, monitor and consult your doctor if persistent.",nausea,Symptom
+Drug_Info,What is Prednisone used for?,Prednisone is used for treatment of its respective condition.,Prednisone,Drug
+Interaction_Check,Can I take Metformin and Digoxin together?,Metformin and Digoxin do not have significant interactions.,Metformin/Digoxin,Drug
+Side_Effect,What are side effects of Amiodarone?,Common side effects of Amiodarone include mild to moderate reactions.,Amiodarone,Drug
+Side_Effect,What are side effects of Sildenafil?,Common side effects of Sildenafil include mild to moderate reactions.,Sildenafil,Drug
+Symptom_Advice,"I have headache, what should I do?","For headache, monitor and consult your doctor if persistent.",headache,Symptom
+Lifestyle_Advice,Can I take calcium with my medication?,Avoid taking calcium with certain medications. Consult your doctor.,calcium,Lifestyle
+Symptom_Advice,"I have dizziness, what should I do?","For dizziness, monitor and consult your doctor if persistent.",dizziness,Symptom
+Drug_Info,What is Simvastatin used for?,Simvastatin is used for treatment of its respective condition.,Simvastatin,Drug
+Lifestyle_Advice,Can I take diet with my medication?,Avoid taking diet with certain medications. Consult your doctor.,diet,Lifestyle
+Symptom_Advice,"I have headache, what should I do?","For headache, monitor and consult your doctor if persistent.",headache,Symptom
+Symptom_Advice,"I have fatigue, what should I do?","For fatigue, monitor and consult your doctor if persistent.",fatigue,Symptom
+Drug_Dosage,Recommended dose of Lithium?,Typical dose for Lithium depends on individual condition. Consult doctor.,Lithium,Drug
+Drug_Dosage,Recommended dose of Amiodarone?,Typical dose for Amiodarone depends on individual condition. Consult doctor.,Amiodarone,Drug
+Symptom_Advice,"I have nausea, what should I do?","For nausea, monitor and consult your doctor if persistent.",nausea,Symptom
+Drug_Dosage,Recommended dose of Lithium?,Typical dose for Lithium depends on individual condition. Consult doctor.,Lithium,Drug
+Drug_Dosage,Recommended dose of Digoxin?,Typical dose for Digoxin depends on individual condition. Consult doctor.,Digoxin,Drug
+Side_Effect,What are side effects of Ibuprofen?,Common side effects of Ibuprofen include mild to moderate reactions.,Ibuprofen,Drug
+Drug_Info,What is Lithium used for?,Lithium is used for treatment of its respective condition.,Lithium,Drug
+Drug_Dosage,Recommended dose of Warfarin?,Typical dose for Warfarin depends on individual condition. Consult doctor.,Warfarin,Drug
+Drug_Dosage,Recommended dose of Omeprazole?,Typical dose for Omeprazole depends on individual condition. Consult doctor.,Omeprazole,Drug
+Interaction_Check,Can I take Levothyroxine and Ibuprofen together?,Levothyroxine and Ibuprofen may have Major interaction.,Levothyroxine/Ibuprofen,Drug
+Symptom_Advice,"I have palpitations, what should I do?","For palpitations, monitor and consult your doctor if persistent.",palpitations,Symptom
+Symptom_Advice,"I have dizziness, what should I do?","For dizziness, monitor and consult your doctor if persistent.",dizziness,Symptom
+Drug_Dosage,Recommended dose of Omeprazole?,Typical dose for Omeprazole depends on individual condition. Consult doctor.,Omeprazole,Drug
+Lifestyle_Advice,Can I take exercise with my medication?,Avoid taking exercise with certain medications. Consult your doctor.,exercise,Lifestyle
+Interaction_Check,Can I take Lithium and Sildenafil together?,Lithium and Sildenafil may have Major interaction.,Lithium/Sildenafil,Drug
+Lifestyle_Advice,Can I take diet with my medication?,Avoid taking diet with certain medications. Consult your doctor.,diet,Lifestyle
+Side_Effect,What are side effects of Amiodarone?,Common side effects of Amiodarone include mild to moderate reactions.,Amiodarone,Drug
+Symptom_Advice,"I have palpitations, what should I do?","For palpitations, monitor and consult your doctor if persistent.",palpitations,Symptom
+Drug_Info,What is Warfarin used for?,Warfarin is used for treatment of its respective condition.,Warfarin,Drug
+Lifestyle_Advice,Can I take exercise with my medication?,Avoid taking exercise with certain medications. Consult your doctor.,exercise,Lifestyle
+Symptom_Advice,"I have shortness of breath, what should I do?","For shortness of breath, monitor and consult your doctor if persistent.",shortness of breath,Symptom
+Lifestyle_Advice,Can I take calcium with my medication?,Avoid taking calcium with certain medications. Consult your doctor.,calcium,Lifestyle
+Drug_Info,What is Aspirin used for?,Aspirin is used for treatment of its respective condition.,Aspirin,Drug
+Side_Effect,What are side effects of Clopidogrel?,Common side effects of Clopidogrel include mild to moderate reactions.,Clopidogrel,Drug
+Drug_Dosage,Recommended dose of Metformin?,Typical dose for Metformin depends on individual condition. Consult doctor.,Metformin,Drug
+Interaction_Check,Can I take Warfarin and Lisinopril together?,Warfarin and Lisinopril do not have significant interactions.,Warfarin/Lisinopril,Drug
+Symptom_Advice,"I have dizziness, what should I do?","For dizziness, monitor and consult your doctor if persistent.",dizziness,Symptom
+Drug_Dosage,Recommended dose of Omeprazole?,Typical dose for Omeprazole depends on individual condition. Consult doctor.,Omeprazole,Drug
+Drug_Info,What is Omeprazole used for?,Omeprazole is used for treatment of its respective condition.,Omeprazole,Drug
+Interaction_Check,Can I take Clopidogrel and Sildenafil together?,Clopidogrel and Sildenafil do not have significant interactions.,Clopidogrel/Sildenafil,Drug
+Symptom_Advice,"I have fatigue, what should I do?","For fatigue, monitor and consult your doctor if persistent.",fatigue,Symptom
+Drug_Info,What is Omeprazole used for?,Omeprazole is used for treatment of its respective condition.,Omeprazole,Drug
+Interaction_Check,Can I take Levothyroxine and Digoxin together?,Levothyroxine and Digoxin may have Minor interaction.,Levothyroxine/Digoxin,Drug
+Symptom_Advice,"I have nausea, what should I do?","For nausea, monitor and consult your doctor if persistent.",nausea,Symptom
+Drug_Info,What is Metformin used for?,Metformin is used for treatment of its respective condition.,Metformin,Drug
+Lifestyle_Advice,Can I take calcium with my medication?,Avoid taking calcium with certain medications. Consult your doctor.,calcium,Lifestyle
+Drug_Dosage,Recommended dose of Levothyroxine?,Typical dose for Levothyroxine depends on individual condition. Consult doctor.,Levothyroxine,Drug
+Drug_Dosage,Recommended dose of Levothyroxine?,Typical dose for Levothyroxine depends on individual condition. Consult doctor.,Levothyroxine,Drug
+Drug_Info,What is Ibuprofen used for?,Ibuprofen is used for treatment of its respective condition.,Ibuprofen,Drug
+Symptom_Advice,"I have palpitations, what should I do?","For palpitations, monitor and consult your doctor if persistent.",palpitations,Symptom
+Drug_Dosage,Recommended dose of Lisinopril?,Typical dose for Lisinopril depends on individual condition. Consult doctor.,Lisinopril,Drug
+Side_Effect,What are side effects of Ibuprofen?,Common side effects of Ibuprofen include mild to moderate reactions.,Ibuprofen,Drug
+Lifestyle_Advice,Can I take exercise with my medication?,Avoid taking exercise with certain medications. Consult your doctor.,exercise,Lifestyle
+Interaction_Check,Can I take Warfarin and Aspirin together?,Warfarin and Aspirin do not have significant interactions.,Warfarin/Aspirin,Drug
+Drug_Dosage,Recommended dose of Aspirin?,Typical dose for Aspirin depends on individual condition. Consult doctor.,Aspirin,Drug
+Lifestyle_Advice,Can I take exercise with my medication?,Avoid taking exercise with certain medications. Consult your doctor.,exercise,Lifestyle
+Drug_Info,What is Prednisone used for?,Prednisone is used for treatment of its respective condition.,Prednisone,Drug
+Lifestyle_Advice,Can I take diet with my medication?,Avoid taking diet with certain medications. Consult your doctor.,diet,Lifestyle
+Lifestyle_Advice,Can I take diet with my medication?,Avoid taking diet with certain medications. Consult your doctor.,diet,Lifestyle
+Lifestyle_Advice,Can I take alcohol with my medication?,Avoid taking alcohol with certain medications. Consult your doctor.,alcohol,Lifestyle
+Side_Effect,What are side effects of Levothyroxine?,Common side effects of Levothyroxine include mild to moderate reactions.,Levothyroxine,Drug
+Symptom_Advice,"I have dizziness, what should I do?","For dizziness, monitor and consult your doctor if persistent.",dizziness,Symptom
+Interaction_Check,Can I take Lithium and Simvastatin together?,Lithium and Simvastatin do not have significant interactions.,Lithium/Simvastatin,Drug
+Lifestyle_Advice,Can I take calcium with my medication?,Avoid taking calcium with certain medications. Consult your doctor.,calcium,Lifestyle
+Symptom_Advice,"I have shortness of breath, what should I do?","For shortness of breath, monitor and consult your doctor if persistent.",shortness of breath,Symptom
+Interaction_Check,Can I take Warfarin and Lisinopril together?,Warfarin and Lisinopril do not have significant interactions.,Warfarin/Lisinopril,Drug
+Interaction_Check,Can I take Prednisone and Sildenafil together?,Prednisone and Sildenafil may have Minor interaction.,Prednisone/Sildenafil,Drug
+Side_Effect,What are side effects of Digoxin?,Common side effects of Digoxin include mild to moderate reactions.,Digoxin,Drug
+Drug_Dosage,Recommended dose of Prednisone?,Typical dose for Prednisone depends on individual condition. Consult doctor.,Prednisone,Drug
+Side_Effect,What are side effects of Aspirin?,Common side effects of Aspirin include mild to moderate reactions.,Aspirin,Drug
+Side_Effect,What are side effects of Warfarin?,Common side effects of Warfarin include mild to moderate reactions.,Warfarin,Drug
+Drug_Info,What is Ibuprofen used for?,Ibuprofen is used for treatment of its respective condition.,Ibuprofen,Drug
+Drug_Dosage,Recommended dose of Lithium?,Typical dose for Lithium depends on individual condition. Consult doctor.,Lithium,Drug
+Lifestyle_Advice,Can I take exercise with my medication?,Avoid taking exercise with certain medications. Consult your doctor.,exercise,Lifestyle
+Side_Effect,What are side effects of Amiodarone?,Common side effects of Amiodarone include mild to moderate reactions.,Amiodarone,Drug
+Drug_Dosage,Recommended dose of Simvastatin?,Typical dose for Simvastatin depends on individual condition. Consult doctor.,Simvastatin,Drug
+Side_Effect,What are side effects of Warfarin?,Common side effects of Warfarin include mild to moderate reactions.,Warfarin,Drug
+Interaction_Check,Can I take Digoxin and Clopidogrel together?,Digoxin and Clopidogrel may have Moderate interaction.,Digoxin/Clopidogrel,Drug
+Lifestyle_Advice,Can I take grapefruit with my medication?,Avoid taking grapefruit with certain medications. Consult your doctor.,grapefruit,Lifestyle
+Symptom_Advice,"I have nausea, what should I do?","For nausea, monitor and consult your doctor if persistent.",nausea,Symptom
+Side_Effect,What are side effects of Clopidogrel?,Common side effects of Clopidogrel include mild to moderate reactions.,Clopidogrel,Drug
+Side_Effect,What are side effects of Aspirin?,Common side effects of Aspirin include mild to moderate reactions.,Aspirin,Drug
+Interaction_Check,Can I take Amiodarone and Levothyroxine together?,Amiodarone and Levothyroxine do not have significant interactions.,Amiodarone/Levothyroxine,Drug
+Drug_Info,What is Simvastatin used for?,Simvastatin is used for treatment of its respective condition.,Simvastatin,Drug
+Drug_Info,What is Levothyroxine used for?,Levothyroxine is used for treatment of its respective condition.,Levothyroxine,Drug
+Interaction_Check,Can I take Ibuprofen and Aspirin together?,Ibuprofen and Aspirin may have Minor interaction.,Ibuprofen/Aspirin,Drug
+Interaction_Check,Can I take Digoxin and Levothyroxine together?,Digoxin and Levothyroxine do not have significant interactions.,Digoxin/Levothyroxine,Drug
+Drug_Info,What is Ibuprofen used for?,Ibuprofen is used for treatment of its respective condition.,Ibuprofen,Drug
+Interaction_Check,Can I take Clopidogrel and Levothyroxine together?,Clopidogrel and Levothyroxine may have Minor interaction.,Clopidogrel/Levothyroxine,Drug
+Symptom_Advice,"I have shortness of breath, what should I do?","For shortness of breath, monitor and consult your doctor if persistent.",shortness of breath,Symptom
+Side_Effect,What are side effects of Warfarin?,Common side effects of Warfarin include mild to moderate reactions.,Warfarin,Drug
+Side_Effect,What are side effects of Clopidogrel?,Common side effects of Clopidogrel include mild to moderate reactions.,Clopidogrel,Drug
+Interaction_Check,Can I take Omeprazole and Simvastatin together?,Omeprazole and Simvastatin may have Minor interaction.,Omeprazole/Simvastatin,Drug
+Side_Effect,What are side effects of Lithium?,Common side effects of Lithium include mild to moderate reactions.,Lithium,Drug
+Side_Effect,What are side effects of Digoxin?,Common side effects of Digoxin include mild to moderate reactions.,Digoxin,Drug
+Side_Effect,What are side effects of Metformin?,Common side effects of Metformin include mild to moderate reactions.,Metformin,Drug
+Drug_Info,What is Warfarin used for?,Warfarin is used for treatment of its respective condition.,Warfarin,Drug
+Drug_Info,What is Clopidogrel used for?,Clopidogrel is used for treatment of its respective condition.,Clopidogrel,Drug
+Side_Effect,What are side effects of Ibuprofen?,Common side effects of Ibuprofen include mild to moderate reactions.,Ibuprofen,Drug
+Lifestyle_Advice,Can I take calcium with my medication?,Avoid taking calcium with certain medications. Consult your doctor.,calcium,Lifestyle
+Side_Effect,What are side effects of Amiodarone?,Common side effects of Amiodarone include mild to moderate reactions.,Amiodarone,Drug
+Side_Effect,What are side effects of Clopidogrel?,Common side effects of Clopidogrel include mild to moderate reactions.,Clopidogrel,Drug
+Drug_Info,What is Sildenafil used for?,Sildenafil is used for treatment of its respective condition.,Sildenafil,Drug
+Lifestyle_Advice,Can I take grapefruit with my medication?,Avoid taking grapefruit with certain medications. Consult your doctor.,grapefruit,Lifestyle
+Symptom_Advice,"I have palpitations, what should I do?","For palpitations, monitor and consult your doctor if persistent.",palpitations,Symptom
+Symptom_Advice,"I have fatigue, what should I do?","For fatigue, monitor and consult your doctor if persistent.",fatigue,Symptom
+Interaction_Check,Can I take Prednisone and Simvastatin together?,Prednisone and Simvastatin may have Moderate interaction.,Prednisone/Simvastatin,Drug
+Drug_Dosage,Recommended dose of Warfarin?,Typical dose for Warfarin depends on individual condition. Consult doctor.,Warfarin,Drug
+Lifestyle_Advice,Can I take alcohol with my medication?,Avoid taking alcohol with certain medications. Consult your doctor.,alcohol,Lifestyle
+Interaction_Check,Can I take Sildenafil and Amiodarone together?,Sildenafil and Amiodarone may have Major interaction.,Sildenafil/Amiodarone,Drug
+Symptom_Advice,"I have shortness of breath, what should I do?","For shortness of breath, monitor and consult your doctor if persistent.",shortness of breath,Symptom
+Interaction_Check,Can I take Digoxin and Lithium together?,Digoxin and Lithium may have Moderate interaction.,Digoxin/Lithium,Drug
+Drug_Dosage,Recommended dose of Aspirin?,Typical dose for Aspirin depends on individual condition. Consult doctor.,Aspirin,Drug
+Symptom_Advice,"I have shortness of breath, what should I do?","For shortness of breath, monitor and consult your doctor if persistent.",shortness of breath,Symptom
+Side_Effect,What are side effects of Warfarin?,Common side effects of Warfarin include mild to moderate reactions.,Warfarin,Drug
+Symptom_Advice,"I have nausea, what should I do?","For nausea, monitor and consult your doctor if persistent.",nausea,Symptom
+Drug_Dosage,Recommended dose of Warfarin?,Typical dose for Warfarin depends on individual condition. Consult doctor.,Warfarin,Drug
+Symptom_Advice,"I have fatigue, what should I do?","For fatigue, monitor and consult your doctor if persistent.",fatigue,Symptom
+Interaction_Check,Can I take Aspirin and Warfarin together?,Aspirin and Warfarin may have Moderate interaction.,Aspirin/Warfarin,Drug
+Side_Effect,What are side effects of Amiodarone?,Common side effects of Amiodarone include mild to moderate reactions.,Amiodarone,Drug
+Interaction_Check,Can I take Simvastatin and Aspirin together?,Simvastatin and Aspirin do not have significant interactions.,Simvastatin/Aspirin,Drug
+Side_Effect,What are side effects of Lithium?,Common side effects of Lithium include mild to moderate reactions.,Lithium,Drug
+Symptom_Advice,"I have nausea, what should I do?","For nausea, monitor and consult your doctor if persistent.",nausea,Symptom
+Interaction_Check,Can I take Sildenafil and Levothyroxine together?,Sildenafil and Levothyroxine may have Moderate interaction.,Sildenafil/Levothyroxine,Drug
+Drug_Dosage,Recommended dose of Metformin?,Typical dose for Metformin depends on individual condition. Consult doctor.,Metformin,Drug
+Drug_Info,What is Amiodarone used for?,Amiodarone is used for treatment of its respective condition.,Amiodarone,Drug
+Side_Effect,What are side effects of Sildenafil?,Common side effects of Sildenafil include mild to moderate reactions.,Sildenafil,Drug
+Interaction_Check,Can I take Lisinopril and Omeprazole together?,Lisinopril and Omeprazole may have Major interaction.,Lisinopril/Omeprazole,Drug
+Symptom_Advice,"I have fatigue, what should I do?","For fatigue, monitor and consult your doctor if persistent.",fatigue,Symptom
+Side_Effect,What are side effects of Simvastatin?,Common side effects of Simvastatin include mild to moderate reactions.,Simvastatin,Drug
+Lifestyle_Advice,Can I take exercise with my medication?,Avoid taking exercise with certain medications. Consult your doctor.,exercise,Lifestyle
+Symptom_Advice,"I have shortness of breath, what should I do?","For shortness of breath, monitor and consult your doctor if persistent.",shortness of breath,Symptom
+Drug_Info,What is Simvastatin used for?,Simvastatin is used for treatment of its respective condition.,Simvastatin,Drug
+Drug_Info,What is Amiodarone used for?,Amiodarone is used for treatment of its respective condition.,Amiodarone,Drug
+Interaction_Check,Can I take Ibuprofen and Lithium together?,Ibuprofen and Lithium may have Moderate interaction.,Ibuprofen/Lithium,Drug
+Symptom_Advice,"I have headache, what should I do?","For headache, monitor and consult your doctor if persistent.",headache,Symptom
+Drug_Dosage,Recommended dose of Metformin?,Typical dose for Metformin depends on individual condition. Consult doctor.,Metformin,Drug
+Side_Effect,What are side effects of Levothyroxine?,Common side effects of Levothyroxine include mild to moderate reactions.,Levothyroxine,Drug
+Interaction_Check,Can I take Digoxin and Levothyroxine together?,Digoxin and Levothyroxine may have Moderate interaction.,Digoxin/Levothyroxine,Drug
+Side_Effect,What are side effects of Sildenafil?,Common side effects of Sildenafil include mild to moderate reactions.,Sildenafil,Drug
+Side_Effect,What are side effects of Ibuprofen?,Common side effects of Ibuprofen include mild to moderate reactions.,Ibuprofen,Drug
+Side_Effect,What are side effects of Clopidogrel?,Common side effects of Clopidogrel include mild to moderate reactions.,Clopidogrel,Drug
+Side_Effect,What are side effects of Warfarin?,Common side effects of Warfarin include mild to moderate reactions.,Warfarin,Drug
+Interaction_Check,Can I take Warfarin and Amiodarone together?,Warfarin and Amiodarone may have Moderate interaction.,Warfarin/Amiodarone,Drug
+Side_Effect,What are side effects of Digoxin?,Common side effects of Digoxin include mild to moderate reactions.,Digoxin,Drug
+Interaction_Check,Can I take Lisinopril and Omeprazole together?,Lisinopril and Omeprazole may have Minor interaction.,Lisinopril/Omeprazole,Drug
+Drug_Info,What is Metformin used for?,Metformin is used for treatment of its respective condition.,Metformin,Drug
+Drug_Info,What is Aspirin used for?,Aspirin is used for treatment of its respective condition.,Aspirin,Drug
+Lifestyle_Advice,Can I take diet with my medication?,Avoid taking diet with certain medications. Consult your doctor.,diet,Lifestyle
+Drug_Dosage,Recommended dose of Levothyroxine?,Typical dose for Levothyroxine depends on individual condition. Consult doctor.,Levothyroxine,Drug
+Drug_Dosage,Recommended dose of Aspirin?,Typical dose for Aspirin depends on individual condition. Consult doctor.,Aspirin,Drug
+Side_Effect,What are side effects of Levothyroxine?,Common side effects of Levothyroxine include mild to moderate reactions.,Levothyroxine,Drug
+Interaction_Check,Can I take Digoxin and Omeprazole together?,Digoxin and Omeprazole may have Moderate interaction.,Digoxin/Omeprazole,Drug
+Side_Effect,What are side effects of Lithium?,Common side effects of Lithium include mild to moderate reactions.,Lithium,Drug
+Symptom_Advice,"I have shortness of breath, what should I do?","For shortness of breath, monitor and consult your doctor if persistent.",shortness of breath,Symptom
+Symptom_Advice,"I have shortness of breath, what should I do?","For shortness of breath, monitor and consult your doctor if persistent.",shortness of breath,Symptom
+Side_Effect,What are side effects of Levothyroxine?,Common side effects of Levothyroxine include mild to moderate reactions.,Levothyroxine,Drug
+Drug_Dosage,Recommended dose of Lithium?,Typical dose for Lithium depends on individual condition. Consult doctor.,Lithium,Drug
+Side_Effect,What are side effects of Ibuprofen?,Common side effects of Ibuprofen include mild to moderate reactions.,Ibuprofen,Drug
+Drug_Dosage,Recommended dose of Simvastatin?,Typical dose for Simvastatin depends on individual condition. Consult doctor.,Simvastatin,Drug
+Drug_Info,What is Digoxin used for?,Digoxin is used for treatment of its respective condition.,Digoxin,Drug
+Symptom_Advice,"I have palpitations, what should I do?","For palpitations, monitor and consult your doctor if persistent.",palpitations,Symptom
+Drug_Info,What is Amiodarone used for?,Amiodarone is used for treatment of its respective condition.,Amiodarone,Drug
+Side_Effect,What are side effects of Ibuprofen?,Common side effects of Ibuprofen include mild to moderate reactions.,Ibuprofen,Drug
+Lifestyle_Advice,Can I take alcohol with my medication?,Avoid taking alcohol with certain medications. Consult your doctor.,alcohol,Lifestyle
+Side_Effect,What are side effects of Sildenafil?,Common side effects of Sildenafil include mild to moderate reactions.,Sildenafil,Drug
+Symptom_Advice,"I have palpitations, what should I do?","For palpitations, monitor and consult your doctor if persistent.",palpitations,Symptom
+Side_Effect,What are side effects of Omeprazole?,Common side effects of Omeprazole include mild to moderate reactions.,Omeprazole,Drug
+Interaction_Check,Can I take Lithium and Metformin together?,Lithium and Metformin may have Major interaction.,Lithium/Metformin,Drug
+Side_Effect,What are side effects of Clopidogrel?,Common side effects of Clopidogrel include mild to moderate reactions.,Clopidogrel,Drug
+Lifestyle_Advice,Can I take grapefruit with my medication?,Avoid taking grapefruit with certain medications. Consult your doctor.,grapefruit,Lifestyle
+Drug_Dosage,Recommended dose of Aspirin?,Typical dose for Aspirin depends on individual condition. Consult doctor.,Aspirin,Drug
+Lifestyle_Advice,Can I take calcium with my medication?,Avoid taking calcium with certain medications. Consult your doctor.,calcium,Lifestyle
+Drug_Info,What is Omeprazole used for?,Omeprazole is used for treatment of its respective condition.,Omeprazole,Drug
+Lifestyle_Advice,Can I take alcohol with my medication?,Avoid taking alcohol with certain medications. Consult your doctor.,alcohol,Lifestyle
+Interaction_Check,Can I take Metformin and Sildenafil together?,Metformin and Sildenafil may have Major interaction.,Metformin/Sildenafil,Drug
+Drug_Dosage,Recommended dose of Lithium?,Typical dose for Lithium depends on individual condition. Consult doctor.,Lithium,Drug
+Interaction_Check,Can I take Amiodarone and Levothyroxine together?,Amiodarone and Levothyroxine do not have significant interactions.,Amiodarone/Levothyroxine,Drug
+Drug_Dosage,Recommended dose of Simvastatin?,Typical dose for Simvastatin depends on individual condition. Consult doctor.,Simvastatin,Drug
+Lifestyle_Advice,Can I take alcohol with my medication?,Avoid taking alcohol with certain medications. Consult your doctor.,alcohol,Lifestyle
+Lifestyle_Advice,Can I take calcium with my medication?,Avoid taking calcium with certain medications. Consult your doctor.,calcium,Lifestyle
+Side_Effect,What are side effects of Lisinopril?,Common side effects of Lisinopril include mild to moderate reactions.,Lisinopril,Drug
+Side_Effect,What are side effects of Digoxin?,Common side effects of Digoxin include mild to moderate reactions.,Digoxin,Drug
+Lifestyle_Advice,Can I take exercise with my medication?,Avoid taking exercise with certain medications. Consult your doctor.,exercise,Lifestyle
+Side_Effect,What are side effects of Amiodarone?,Common side effects of Amiodarone include mild to moderate reactions.,Amiodarone,Drug
+Symptom_Advice,"I have nausea, what should I do?","For nausea, monitor and consult your doctor if persistent.",nausea,Symptom
+Drug_Dosage,Recommended dose of Levothyroxine?,Typical dose for Levothyroxine depends on individual condition. Consult doctor.,Levothyroxine,Drug
+Symptom_Advice,"I have shortness of breath, what should I do?","For shortness of breath, monitor and consult your doctor if persistent.",shortness of breath,Symptom
+Symptom_Advice,"I have palpitations, what should I do?","For palpitations, monitor and consult your doctor if persistent.",palpitations,Symptom
+Lifestyle_Advice,Can I take diet with my medication?,Avoid taking diet with certain medications. Consult your doctor.,diet,Lifestyle
+Side_Effect,What are side effects of Sildenafil?,Common side effects of Sildenafil include mild to moderate reactions.,Sildenafil,Drug
+Interaction_Check,Can I take Lisinopril and Ibuprofen together?,Lisinopril and Ibuprofen may have Major interaction.,Lisinopril/Ibuprofen,Drug
+Symptom_Advice,"I have dizziness, what should I do?","For dizziness, monitor and consult your doctor if persistent.",dizziness,Symptom
+Lifestyle_Advice,Can I take calcium with my medication?,Avoid taking calcium with certain medications. Consult your doctor.,calcium,Lifestyle
+Lifestyle_Advice,Can I take exercise with my medication?,Avoid taking exercise with certain medications. Consult your doctor.,exercise,Lifestyle
+Symptom_Advice,"I have fatigue, what should I do?","For fatigue, monitor and consult your doctor if persistent.",fatigue,Symptom
+Symptom_Advice,"I have shortness of breath, what should I do?","For shortness of breath, monitor and consult your doctor if persistent.",shortness of breath,Symptom
+Lifestyle_Advice,Can I take diet with my medication?,Avoid taking diet with certain medications. Consult your doctor.,diet,Lifestyle
+Symptom_Advice,"I have headache, what should I do?","For headache, monitor and consult your doctor if persistent.",headache,Symptom
+Side_Effect,What are side effects of Clopidogrel?,Common side effects of Clopidogrel include mild to moderate reactions.,Clopidogrel,Drug
+Side_Effect,What are side effects of Amiodarone?,Common side effects of Amiodarone include mild to moderate reactions.,Amiodarone,Drug
+Drug_Dosage,Recommended dose of Simvastatin?,Typical dose for Simvastatin depends on individual condition. Consult doctor.,Simvastatin,Drug
+Symptom_Advice,"I have nausea, what should I do?","For nausea, monitor and consult your doctor if persistent.",nausea,Symptom
+Symptom_Advice,"I have headache, what should I do?","For headache, monitor and consult your doctor if persistent.",headache,Symptom
+Symptom_Advice,"I have palpitations, what should I do?","For palpitations, monitor and consult your doctor if persistent.",palpitations,Symptom
+Drug_Info,What is Digoxin used for?,Digoxin is used for treatment of its respective condition.,Digoxin,Drug
+Drug_Dosage,Recommended dose of Clopidogrel?,Typical dose for Clopidogrel depends on individual condition. Consult doctor.,Clopidogrel,Drug
+Symptom_Advice,"I have palpitations, what should I do?","For palpitations, monitor and consult your doctor if persistent.",palpitations,Symptom
+Drug_Dosage,Recommended dose of Lisinopril?,Typical dose for Lisinopril depends on individual condition. Consult doctor.,Lisinopril,Drug
+Interaction_Check,Can I take Simvastatin and Levothyroxine together?,Simvastatin and Levothyroxine may have Minor interaction.,Simvastatin/Levothyroxine,Drug
+Lifestyle_Advice,Can I take diet with my medication?,Avoid taking diet with certain medications. Consult your doctor.,diet,Lifestyle
+Interaction_Check,Can I take Warfarin and Omeprazole together?,Warfarin and Omeprazole do not have significant interactions.,Warfarin/Omeprazole,Drug
+Interaction_Check,Can I take Lisinopril and Metformin together?,Lisinopril and Metformin may have Minor interaction.,Lisinopril/Metformin,Drug
+Interaction_Check,Can I take Clopidogrel and Lisinopril together?,Clopidogrel and Lisinopril may have Moderate interaction.,Clopidogrel/Lisinopril,Drug
+Symptom_Advice,"I have palpitations, what should I do?","For palpitations, monitor and consult your doctor if persistent.",palpitations,Symptom
+Drug_Dosage,Recommended dose of Warfarin?,Typical dose for Warfarin depends on individual condition. Consult doctor.,Warfarin,Drug
+Lifestyle_Advice,Can I take calcium with my medication?,Avoid taking calcium with certain medications. Consult your doctor.,calcium,Lifestyle
+Drug_Info,What is Levothyroxine used for?,Levothyroxine is used for treatment of its respective condition.,Levothyroxine,Drug
+Interaction_Check,Can I take Amiodarone and Clopidogrel together?,Amiodarone and Clopidogrel do not have significant interactions.,Amiodarone/Clopidogrel,Drug
+Drug_Dosage,Recommended dose of Sildenafil?,Typical dose for Sildenafil depends on individual condition. Consult doctor.,Sildenafil,Drug
+Lifestyle_Advice,Can I take calcium with my medication?,Avoid taking calcium with certain medications. Consult your doctor.,calcium,Lifestyle
+Symptom_Advice,"I have dizziness, what should I do?","For dizziness, monitor and consult your doctor if persistent.",dizziness,Symptom
+Symptom_Advice,"I have palpitations, what should I do?","For palpitations, monitor and consult your doctor if persistent.",palpitations,Symptom
+Drug_Info,What is Prednisone used for?,Prednisone is used for treatment of its respective condition.,Prednisone,Drug
+Drug_Info,What is Clopidogrel used for?,Clopidogrel is used for treatment of its respective condition.,Clopidogrel,Drug
+Side_Effect,What are side effects of Lisinopril?,Common side effects of Lisinopril include mild to moderate reactions.,Lisinopril,Drug
+Side_Effect,What are side effects of Lithium?,Common side effects of Lithium include mild to moderate reactions.,Lithium,Drug
+Lifestyle_Advice,Can I take alcohol with my medication?,Avoid taking alcohol with certain medications. Consult your doctor.,alcohol,Lifestyle
+Interaction_Check,Can I take Amiodarone and Aspirin together?,Amiodarone and Aspirin do not have significant interactions.,Amiodarone/Aspirin,Drug
+Drug_Info,What is Simvastatin used for?,Simvastatin is used for treatment of its respective condition.,Simvastatin,Drug
+Drug_Dosage,Recommended dose of Prednisone?,Typical dose for Prednisone depends on individual condition. Consult doctor.,Prednisone,Drug
+Drug_Dosage,Recommended dose of Aspirin?,Typical dose for Aspirin depends on individual condition. Consult doctor.,Aspirin,Drug
+Lifestyle_Advice,Can I take diet with my medication?,Avoid taking diet with certain medications. Consult your doctor.,diet,Lifestyle
+Drug_Info,What is Metformin used for?,Metformin is used for treatment of its respective condition.,Metformin,Drug
+Symptom_Advice,"I have shortness of breath, what should I do?","For shortness of breath, monitor and consult your doctor if persistent.",shortness of breath,Symptom
+Side_Effect,What are side effects of Warfarin?,Common side effects of Warfarin include mild to moderate reactions.,Warfarin,Drug
+Symptom_Advice,"I have dizziness, what should I do?","For dizziness, monitor and consult your doctor if persistent.",dizziness,Symptom
+Drug_Dosage,Recommended dose of Clopidogrel?,Typical dose for Clopidogrel depends on individual condition. Consult doctor.,Clopidogrel,Drug
+Side_Effect,What are side effects of Levothyroxine?,Common side effects of Levothyroxine include mild to moderate reactions.,Levothyroxine,Drug
+Drug_Dosage,Recommended dose of Aspirin?,Typical dose for Aspirin depends on individual condition. Consult doctor.,Aspirin,Drug
+Side_Effect,What are side effects of Sildenafil?,Common side effects of Sildenafil include mild to moderate reactions.,Sildenafil,Drug
+Symptom_Advice,"I have nausea, what should I do?","For nausea, monitor and consult your doctor if persistent.",nausea,Symptom
+Drug_Info,What is Digoxin used for?,Digoxin is used for treatment of its respective condition.,Digoxin,Drug
+Interaction_Check,Can I take Lithium and Sildenafil together?,Lithium and Sildenafil may have Minor interaction.,Lithium/Sildenafil,Drug
+Interaction_Check,Can I take Metformin and Lithium together?,Metformin and Lithium may have Moderate interaction.,Metformin/Lithium,Drug
+Side_Effect,What are side effects of Clopidogrel?,Common side effects of Clopidogrel include mild to moderate reactions.,Clopidogrel,Drug
+Interaction_Check,Can I take Aspirin and Omeprazole together?,Aspirin and Omeprazole do not have significant interactions.,Aspirin/Omeprazole,Drug
+Drug_Dosage,Recommended dose of Simvastatin?,Typical dose for Simvastatin depends on individual condition. Consult doctor.,Simvastatin,Drug
+Drug_Dosage,Recommended dose of Levothyroxine?,Typical dose for Levothyroxine depends on individual condition. Consult doctor.,Levothyroxine,Drug
+Symptom_Advice,"I have headache, what should I do?","For headache, monitor and consult your doctor if persistent.",headache,Symptom
+Drug_Dosage,Recommended dose of Clopidogrel?,Typical dose for Clopidogrel depends on individual condition. Consult doctor.,Clopidogrel,Drug
+Drug_Info,What is Aspirin used for?,Aspirin is used for treatment of its respective condition.,Aspirin,Drug
+Interaction_Check,Can I take Sildenafil and Digoxin together?,Sildenafil and Digoxin do not have significant interactions.,Sildenafil/Digoxin,Drug
+Drug_Info,What is Ibuprofen used for?,Ibuprofen is used for treatment of its respective condition.,Ibuprofen,Drug
+Drug_Dosage,Recommended dose of Lisinopril?,Typical dose for Lisinopril depends on individual condition. Consult doctor.,Lisinopril,Drug
+Drug_Dosage,Recommended dose of Prednisone?,Typical dose for Prednisone depends on individual condition. Consult doctor.,Prednisone,Drug
+Symptom_Advice,"I have dizziness, what should I do?","For dizziness, monitor and consult your doctor if persistent.",dizziness,Symptom
+Symptom_Advice,"I have shortness of breath, what should I do?","For shortness of breath, monitor and consult your doctor if persistent.",shortness of breath,Symptom
+Lifestyle_Advice,Can I take grapefruit with my medication?,Avoid taking grapefruit with certain medications. Consult your doctor.,grapefruit,Lifestyle
+Drug_Info,What is Ibuprofen used for?,Ibuprofen is used for treatment of its respective condition.,Ibuprofen,Drug
+Lifestyle_Advice,Can I take diet with my medication?,Avoid taking diet with certain medications. Consult your doctor.,diet,Lifestyle
+Lifestyle_Advice,Can I take calcium with my medication?,Avoid taking calcium with certain medications. Consult your doctor.,calcium,Lifestyle
+Drug_Info,What is Clopidogrel used for?,Clopidogrel is used for treatment of its respective condition.,Clopidogrel,Drug
+Drug_Info,What is Sildenafil used for?,Sildenafil is used for treatment of its respective condition.,Sildenafil,Drug
+Symptom_Advice,"I have nausea, what should I do?","For nausea, monitor and consult your doctor if persistent.",nausea,Symptom
+Drug_Dosage,Recommended dose of Clopidogrel?,Typical dose for Clopidogrel depends on individual condition. Consult doctor.,Clopidogrel,Drug
+Side_Effect,What are side effects of Lithium?,Common side effects of Lithium include mild to moderate reactions.,Lithium,Drug
+Symptom_Advice,"I have palpitations, what should I do?","For palpitations, monitor and consult your doctor if persistent.",palpitations,Symptom
+Drug_Info,What is Clopidogrel used for?,Clopidogrel is used for treatment of its respective condition.,Clopidogrel,Drug
+Symptom_Advice,"I have dizziness, what should I do?","For dizziness, monitor and consult your doctor if persistent.",dizziness,Symptom
+Side_Effect,What are side effects of Lisinopril?,Common side effects of Lisinopril include mild to moderate reactions.,Lisinopril,Drug
+Interaction_Check,Can I take Aspirin and Sildenafil together?,Aspirin and Sildenafil may have Minor interaction.,Aspirin/Sildenafil,Drug
+Side_Effect,What are side effects of Digoxin?,Common side effects of Digoxin include mild to moderate reactions.,Digoxin,Drug
+Drug_Dosage,Recommended dose of Lithium?,Typical dose for Lithium depends on individual condition. Consult doctor.,Lithium,Drug
+Side_Effect,What are side effects of Sildenafil?,Common side effects of Sildenafil include mild to moderate reactions.,Sildenafil,Drug
+Side_Effect,What are side effects of Prednisone?,Common side effects of Prednisone include mild to moderate reactions.,Prednisone,Drug
+Lifestyle_Advice,Can I take calcium with my medication?,Avoid taking calcium with certain medications. Consult your doctor.,calcium,Lifestyle
+Interaction_Check,Can I take Clopidogrel and Prednisone together?,Clopidogrel and Prednisone may have Major interaction.,Clopidogrel/Prednisone,Drug
+Side_Effect,What are side effects of Sildenafil?,Common side effects of Sildenafil include mild to moderate reactions.,Sildenafil,Drug
+Side_Effect,What are side effects of Lithium?,Common side effects of Lithium include mild to moderate reactions.,Lithium,Drug
+Symptom_Advice,"I have headache, what should I do?","For headache, monitor and consult your doctor if persistent.",headache,Symptom
+Side_Effect,What are side effects of Warfarin?,Common side effects of Warfarin include mild to moderate reactions.,Warfarin,Drug
+Drug_Info,What is Simvastatin used for?,Simvastatin is used for treatment of its respective condition.,Simvastatin,Drug
+Side_Effect,What are side effects of Levothyroxine?,Common side effects of Levothyroxine include mild to moderate reactions.,Levothyroxine,Drug
+Interaction_Check,Can I take Omeprazole and Levothyroxine together?,Omeprazole and Levothyroxine may have Moderate interaction.,Omeprazole/Levothyroxine,Drug
+Side_Effect,What are side effects of Sildenafil?,Common side effects of Sildenafil include mild to moderate reactions.,Sildenafil,Drug
+Drug_Info,What is Clopidogrel used for?,Clopidogrel is used for treatment of its respective condition.,Clopidogrel,Drug
+Interaction_Check,Can I take Lithium and Omeprazole together?,Lithium and Omeprazole may have Minor interaction.,Lithium/Omeprazole,Drug
+Drug_Dosage,Recommended dose of Prednisone?,Typical dose for Prednisone depends on individual condition. Consult doctor.,Prednisone,Drug
+Drug_Info,What is Sildenafil used for?,Sildenafil is used for treatment of its respective condition.,Sildenafil,Drug
+Interaction_Check,Can I take Levothyroxine and Amiodarone together?,Levothyroxine and Amiodarone may have Major interaction.,Levothyroxine/Amiodarone,Drug
+Side_Effect,What are side effects of Sildenafil?,Common side effects of Sildenafil include mild to moderate reactions.,Sildenafil,Drug
+Lifestyle_Advice,Can I take diet with my medication?,Avoid taking diet with certain medications. Consult your doctor.,diet,Lifestyle
+Lifestyle_Advice,Can I take alcohol with my medication?,Avoid taking alcohol with certain medications. Consult your doctor.,alcohol,Lifestyle
+Drug_Dosage,Recommended dose of Ibuprofen?,Typical dose for Ibuprofen depends on individual condition. Consult doctor.,Ibuprofen,Drug
+Drug_Info,What is Lithium used for?,Lithium is used for treatment of its respective condition.,Lithium,Drug
+Interaction_Check,Can I take Omeprazole and Warfarin together?,Omeprazole and Warfarin may have Moderate interaction.,Omeprazole/Warfarin,Drug
+Lifestyle_Advice,Can I take alcohol with my medication?,Avoid taking alcohol with certain medications. Consult your doctor.,alcohol,Lifestyle
+Side_Effect,What are side effects of Metformin?,Common side effects of Metformin include mild to moderate reactions.,Metformin,Drug
+Drug_Info,What is Sildenafil used for?,Sildenafil is used for treatment of its respective condition.,Sildenafil,Drug
+Drug_Info,What is Ibuprofen used for?,Ibuprofen is used for treatment of its respective condition.,Ibuprofen,Drug
+Drug_Dosage,Recommended dose of Aspirin?,Typical dose for Aspirin depends on individual condition. Consult doctor.,Aspirin,Drug
+Interaction_Check,Can I take Prednisone and Clopidogrel together?,Prednisone and Clopidogrel do not have significant interactions.,Prednisone/Clopidogrel,Drug
+Lifestyle_Advice,Can I take exercise with my medication?,Avoid taking exercise with certain medications. Consult your doctor.,exercise,Lifestyle
+Symptom_Advice,"I have fatigue, what should I do?","For fatigue, monitor and consult your doctor if persistent.",fatigue,Symptom
+Drug_Dosage,Recommended dose of Simvastatin?,Typical dose for Simvastatin depends on individual condition. Consult doctor.,Simvastatin,Drug
+Drug_Dosage,Recommended dose of Amiodarone?,Typical dose for Amiodarone depends on individual condition. Consult doctor.,Amiodarone,Drug
+Drug_Info,What is Clopidogrel used for?,Clopidogrel is used for treatment of its respective condition.,Clopidogrel,Drug
+Lifestyle_Advice,Can I take grapefruit with my medication?,Avoid taking grapefruit with certain medications. Consult your doctor.,grapefruit,Lifestyle
+Interaction_Check,Can I take Clopidogrel and Digoxin together?,Clopidogrel and Digoxin may have Minor interaction.,Clopidogrel/Digoxin,Drug
+Drug_Dosage,Recommended dose of Levothyroxine?,Typical dose for Levothyroxine depends on individual condition. Consult doctor.,Levothyroxine,Drug
+Interaction_Check,Can I take Lithium and Lisinopril together?,Lithium and Lisinopril do not have significant interactions.,Lithium/Lisinopril,Drug
+Drug_Info,What is Ibuprofen used for?,Ibuprofen is used for treatment of its respective condition.,Ibuprofen,Drug
+Drug_Dosage,Recommended dose of Clopidogrel?,Typical dose for Clopidogrel depends on individual condition. Consult doctor.,Clopidogrel,Drug
+Lifestyle_Advice,Can I take grapefruit with my medication?,Avoid taking grapefruit with certain medications. Consult your doctor.,grapefruit,Lifestyle

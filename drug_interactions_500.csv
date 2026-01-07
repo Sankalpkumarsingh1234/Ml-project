@@ -1,0 +1,501 @@
+Drug1,Drug2,Interaction
+Ibuprofen,Amiodarone,Reduced absorption
+Lisinopril,Contrast Dye,Enhanced sedation
+Metformin,Omeprazole,Increased serum levels
+Digoxin,Metformin,Enhanced sedation
+Warfarin,Lisinopril,Increased digoxin toxicity
+Levothyroxine,Metformin,Risk of arrhythmia
+Amiodarone,Digoxin,Enhanced sedation
+Insulin,Paracetamol,Reduced effectiveness
+Simvastatin,Atorvastatin,Increased serum levels
+Digoxin,Insulin,Increased digoxin toxicity
+Hydrochlorothiazide,Ciprofloxacin,Increased serum levels
+Contrast Dye,Losartan,Reduced absorption
+Ibuprofen,Paracetamol,Increased risk of lactic acidosis
+Digoxin,Prednisone,Increased digoxin toxicity
+Furosemide,Insulin,Increased serum levels
+Losartan,Atorvastatin,Increased digoxin toxicity
+Ibuprofen,Metformin,Increased digoxin toxicity
+Hydrochlorothiazide,Insulin,Enhanced sedation
+Digoxin,Atorvastatin,Increased serum levels
+Paracetamol,Prednisone,Risk of arrhythmia
+Contrast Dye,Omeprazole,Increased serum levels
+Digoxin,Ibuprofen,Risk of arrhythmia
+Clarithromycin,Warfarin,Reduced absorption
+Ibuprofen,Clarithromycin,Risk of arrhythmia
+Atorvastatin,Simvastatin,Increased serum levels
+Simvastatin,Levothyroxine,Increased serum levels
+Hydrochlorothiazide,Omeprazole,Reduced antihypertensive effect
+Clarithromycin,Losartan,Increased digoxin toxicity
+Amiodarone,Metformin,Increased digoxin toxicity
+Levothyroxine,Paracetamol,Increased bleeding risk
+Digoxin,Atorvastatin,Enhanced sedation
+Ciprofloxacin,Metformin,Risk of arrhythmia
+Lisinopril,Atorvastatin,Reduced absorption
+Simvastatin,Digoxin,Risk of arrhythmia
+Simvastatin,Amiodarone,Increased digoxin toxicity
+Ibuprofen,Warfarin,Risk of arrhythmia
+Warfarin,Levothyroxine,Reduced effectiveness
+Paracetamol,Prednisone,Risk of arrhythmia
+Losartan,Hydrochlorothiazide,Risk of arrhythmia
+Amiodarone,Lisinopril,Enhanced sedation
+Amiodarone,Prednisone,Increased risk of lactic acidosis
+Omeprazole,Aspirin,Risk of arrhythmia
+Hydrochlorothiazide,Losartan,Increased bleeding risk
+Levothyroxine,Ciprofloxacin,Enhanced sedation
+Hydrochlorothiazide,Amiodarone,Reduced antihypertensive effect
+Atorvastatin,Contrast Dye,Reduced absorption
+Omeprazole,Metformin,Reduced antihypertensive effect
+Furosemide,Ibuprofen,Reduced absorption
+Insulin,Contrast Dye,Reduced absorption
+Ciprofloxacin,Amiodarone,Risk of arrhythmia
+Omeprazole,Levothyroxine,Reduced antihypertensive effect
+Prednisone,Furosemide,Risk of arrhythmia
+Hydrochlorothiazide,Simvastatin,Increased bleeding risk
+Levothyroxine,Atorvastatin,Increased digoxin toxicity
+Simvastatin,Paracetamol,Increased serum levels
+Prednisone,Lisinopril,Increased risk of myopathy
+Digoxin,Lisinopril,Risk of arrhythmia
+Warfarin,Paracetamol,Increased risk of myopathy
+Lisinopril,Furosemide,Increased bleeding risk
+Aspirin,Metformin,Reduced absorption
+Furosemide,Insulin,Increased risk of myopathy
+Lisinopril,Digoxin,Increased bleeding risk
+Atorvastatin,Insulin,Risk of arrhythmia
+Atorvastatin,Warfarin,Reduced absorption
+Hydrochlorothiazide,Warfarin,Reduced absorption
+Contrast Dye,Digoxin,Reduced effectiveness
+Levothyroxine,Omeprazole,Risk of arrhythmia
+Metformin,Hydrochlorothiazide,Reduced antihypertensive effect
+Metformin,Ciprofloxacin,Increased serum levels
+Lisinopril,Contrast Dye,Increased risk of lactic acidosis
+Lisinopril,Clarithromycin,Enhanced sedation
+Ibuprofen,Ciprofloxacin,Reduced effectiveness
+Paracetamol,Metformin,Increased risk of lactic acidosis
+Lisinopril,Levothyroxine,Increased risk of lactic acidosis
+Amiodarone,Digoxin,Increased digoxin toxicity
+Insulin,Amiodarone,Reduced absorption
+Losartan,Insulin,Reduced absorption
+Paracetamol,Amiodarone,Increased serum levels
+Aspirin,Warfarin,Enhanced sedation
+Digoxin,Ciprofloxacin,Reduced antihypertensive effect
+Omeprazole,Lisinopril,Increased serum levels
+Furosemide,Hydrochlorothiazide,Increased serum levels
+Lisinopril,Insulin,Increased digoxin toxicity
+Simvastatin,Aspirin,Enhanced sedation
+Clarithromycin,Metformin,Enhanced sedation
+Insulin,Simvastatin,Reduced antihypertensive effect
+Atorvastatin,Contrast Dye,Increased risk of myopathy
+Digoxin,Simvastatin,Increased risk of lactic acidosis
+Amiodarone,Aspirin,Increased digoxin toxicity
+Furosemide,Omeprazole,Increased risk of myopathy
+Levothyroxine,Warfarin,Increased risk of lactic acidosis
+Digoxin,Hydrochlorothiazide,Increased risk of lactic acidosis
+Paracetamol,Clarithromycin,Increased risk of lactic acidosis
+Amiodarone,Lisinopril,Increased digoxin toxicity
+Simvastatin,Ibuprofen,Increased digoxin toxicity
+Amiodarone,Warfarin,Increased serum levels
+Metformin,Amiodarone,Increased digoxin toxicity
+Omeprazole,Atorvastatin,Risk of arrhythmia
+Insulin,Contrast Dye,Increased serum levels
+Atorvastatin,Simvastatin,Increased risk of lactic acidosis
+Clarithromycin,Ciprofloxacin,Reduced antihypertensive effect
+Omeprazole,Warfarin,Reduced antihypertensive effect
+Paracetamol,Metformin,Risk of arrhythmia
+Clarithromycin,Simvastatin,Reduced effectiveness
+Metformin,Aspirin,Reduced antihypertensive effect
+Omeprazole,Levothyroxine,Increased serum levels
+Furosemide,Ciprofloxacin,Reduced absorption
+Atorvastatin,Amiodarone,Risk of arrhythmia
+Losartan,Ibuprofen,Reduced absorption
+Levothyroxine,Lisinopril,Reduced absorption
+Ibuprofen,Prednisone,Reduced absorption
+Amiodarone,Losartan,Enhanced sedation
+Contrast Dye,Digoxin,Risk of arrhythmia
+Atorvastatin,Metformin,Reduced antihypertensive effect
+Warfarin,Paracetamol,Risk of arrhythmia
+Levothyroxine,Lisinopril,Reduced effectiveness
+Hydrochlorothiazide,Furosemide,Risk of arrhythmia
+Atorvastatin,Simvastatin,Reduced absorption
+Amiodarone,Ibuprofen,Increased digoxin toxicity
+Losartan,Insulin,Enhanced sedation
+Lisinopril,Amiodarone,Increased bleeding risk
+Clarithromycin,Ibuprofen,Increased risk of lactic acidosis
+Atorvastatin,Prednisone,Increased digoxin toxicity
+Digoxin,Losartan,Reduced antihypertensive effect
+Paracetamol,Lisinopril,Reduced antihypertensive effect
+Lisinopril,Metformin,Reduced effectiveness
+Warfarin,Insulin,Reduced effectiveness
+Omeprazole,Levothyroxine,Increased bleeding risk
+Furosemide,Simvastatin,Reduced absorption
+Insulin,Warfarin,Enhanced sedation
+Levothyroxine,Ibuprofen,Increased risk of myopathy
+Simvastatin,Omeprazole,Risk of arrhythmia
+Omeprazole,Simvastatin,Increased serum levels
+Paracetamol,Metformin,Increased risk of lactic acidosis
+Aspirin,Hydrochlorothiazide,Increased digoxin toxicity
+Paracetamol,Hydrochlorothiazide,Increased risk of myopathy
+Furosemide,Digoxin,Increased risk of lactic acidosis
+Losartan,Contrast Dye,Increased risk of myopathy
+Aspirin,Insulin,Increased risk of myopathy
+Lisinopril,Prednisone,Increased risk of lactic acidosis
+Metformin,Levothyroxine,Reduced effectiveness
+Ciprofloxacin,Aspirin,Enhanced sedation
+Losartan,Furosemide,Increased risk of lactic acidosis
+Insulin,Simvastatin,Reduced antihypertensive effect
+Metformin,Contrast Dye,Reduced absorption
+Metformin,Insulin,Increased digoxin toxicity
+Omeprazole,Contrast Dye,Increased risk of lactic acidosis
+Atorvastatin,Ciprofloxacin,Increased bleeding risk
+Ciprofloxacin,Warfarin,Increased risk of myopathy
+Warfarin,Prednisone,Enhanced sedation
+Contrast Dye,Digoxin,Increased risk of myopathy
+Atorvastatin,Digoxin,Reduced effectiveness
+Lisinopril,Warfarin,Increased bleeding risk
+Clarithromycin,Losartan,Increased digoxin toxicity
+Paracetamol,Aspirin,Enhanced sedation
+Aspirin,Ibuprofen,Risk of arrhythmia
+Lisinopril,Levothyroxine,Increased digoxin toxicity
+Furosemide,Simvastatin,Increased serum levels
+Omeprazole,Ibuprofen,Increased serum levels
+Contrast Dye,Paracetamol,Reduced effectiveness
+Paracetamol,Atorvastatin,Increased bleeding risk
+Hydrochlorothiazide,Ciprofloxacin,Reduced absorption
+Warfarin,Atorvastatin,Risk of arrhythmia
+Ibuprofen,Hydrochlorothiazide,Increased digoxin toxicity
+Contrast Dye,Paracetamol,Increased risk of lactic acidosis
+Losartan,Simvastatin,Increased risk of myopathy
+Hydrochlorothiazide,Omeprazole,Increased digoxin toxicity
+Aspirin,Prednisone,Increased bleeding risk
+Digoxin,Losartan,Risk of arrhythmia
+Metformin,Prednisone,Increased risk of myopathy
+Amiodarone,Simvastatin,Risk of arrhythmia
+Metformin,Amiodarone,Increased risk of myopathy
+Hydrochlorothiazide,Amiodarone,Reduced absorption
+Warfarin,Losartan,Increased risk of lactic acidosis
+Metformin,Furosemide,Risk of arrhythmia
+Ciprofloxacin,Clarithromycin,Increased digoxin toxicity
+Clarithromycin,Ibuprofen,Reduced effectiveness
+Losartan,Hydrochlorothiazide,Risk of arrhythmia
+Paracetamol,Prednisone,Increased risk of lactic acidosis
+Atorvastatin,Paracetamol,Reduced absorption
+Ciprofloxacin,Contrast Dye,Increased risk of lactic acidosis
+Lisinopril,Clarithromycin,Risk of arrhythmia
+Aspirin,Levothyroxine,Reduced antihypertensive effect
+Amiodarone,Simvastatin,Reduced absorption
+Aspirin,Omeprazole,Increased serum levels
+Prednisone,Lisinopril,Reduced antihypertensive effect
+Insulin,Aspirin,Risk of arrhythmia
+Losartan,Hydrochlorothiazide,Increased bleeding risk
+Atorvastatin,Ibuprofen,Risk of arrhythmia
+Lisinopril,Warfarin,Increased risk of myopathy
+Clarithromycin,Contrast Dye,Reduced absorption
+Insulin,Ibuprofen,Reduced antihypertensive effect
+Hydrochlorothiazide,Levothyroxine,Increased serum levels
+Paracetamol,Amiodarone,Risk of arrhythmia
+Prednisone,Atorvastatin,Increased bleeding risk
+Clarithromycin,Amiodarone,Increased serum levels
+Insulin,Warfarin,Increased risk of myopathy
+Aspirin,Omeprazole,Increased digoxin toxicity
+Atorvastatin,Simvastatin,Enhanced sedation
+Contrast Dye,Omeprazole,Increased risk of myopathy
+Ibuprofen,Insulin,Increased serum levels
+Amiodarone,Levothyroxine,Increased digoxin toxicity
+Simvastatin,Lisinopril,Reduced effectiveness
+Warfarin,Paracetamol,Reduced antihypertensive effect
+Aspirin,Metformin,Risk of arrhythmia
+Clarithromycin,Omeprazole,Reduced effectiveness
+Furosemide,Insulin,Reduced absorption
+Clarithromycin,Hydrochlorothiazide,Reduced antihypertensive effect
+Atorvastatin,Insulin,Increased serum levels
+Metformin,Digoxin,Risk of arrhythmia
+Lisinopril,Paracetamol,Increased risk of myopathy
+Ibuprofen,Insulin,Reduced effectiveness
+Paracetamol,Digoxin,Increased risk of myopathy
+Amiodarone,Atorvastatin,Enhanced sedation
+Prednisone,Hydrochlorothiazide,Reduced effectiveness
+Simvastatin,Atorvastatin,Increased risk of myopathy
+Simvastatin,Losartan,Enhanced sedation
+Clarithromycin,Prednisone,Increased risk of lactic acidosis
+Lisinopril,Furosemide,Reduced effectiveness
+Contrast Dye,Ciprofloxacin,Enhanced sedation
+Digoxin,Prednisone,Increased serum levels
+Aspirin,Losartan,Increased risk of lactic acidosis
+Aspirin,Amiodarone,Increased risk of lactic acidosis
+Contrast Dye,Furosemide,Increased bleeding risk
+Omeprazole,Lisinopril,Increased serum levels
+Prednisone,Atorvastatin,Increased digoxin toxicity
+Paracetamol,Levothyroxine,Increased serum levels
+Simvastatin,Clarithromycin,Increased digoxin toxicity
+Contrast Dye,Warfarin,Increased risk of myopathy
+Insulin,Metformin,Increased digoxin toxicity
+Hydrochlorothiazide,Ibuprofen,Increased bleeding risk
+Aspirin,Atorvastatin,Increased serum levels
+Metformin,Aspirin,Increased serum levels
+Paracetamol,Lisinopril,Increased risk of lactic acidosis
+Amiodarone,Prednisone,Increased bleeding risk
+Levothyroxine,Paracetamol,Increased bleeding risk
+Ciprofloxacin,Clarithromycin,Reduced absorption
+Levothyroxine,Hydrochlorothiazide,Increased risk of lactic acidosis
+Ibuprofen,Levothyroxine,Reduced effectiveness
+Prednisone,Hydrochlorothiazide,Risk of arrhythmia
+Simvastatin,Metformin,Increased risk of lactic acidosis
+Insulin,Paracetamol,Reduced effectiveness
+Simvastatin,Metformin,Increased bleeding risk
+Ibuprofen,Warfarin,Increased digoxin toxicity
+Warfarin,Contrast Dye,Reduced absorption
+Atorvastatin,Prednisone,Increased risk of lactic acidosis
+Contrast Dye,Digoxin,Risk of arrhythmia
+Omeprazole,Levothyroxine,Increased serum levels
+Omeprazole,Atorvastatin,Increased risk of myopathy
+Insulin,Hydrochlorothiazide,Increased serum levels
+Digoxin,Contrast Dye,Reduced effectiveness
+Omeprazole,Losartan,Reduced effectiveness
+Metformin,Hydrochlorothiazide,Reduced absorption
+Atorvastatin,Simvastatin,Increased risk of myopathy
+Atorvastatin,Furosemide,Increased risk of lactic acidosis
+Lisinopril,Simvastatin,Increased digoxin toxicity
+Atorvastatin,Levothyroxine,Increased serum levels
+Furosemide,Omeprazole,Increased digoxin toxicity
+Contrast Dye,Levothyroxine,Enhanced sedation
+Furosemide,Prednisone,Increased bleeding risk
+Hydrochlorothiazide,Digoxin,Increased risk of myopathy
+Metformin,Ciprofloxacin,Reduced effectiveness
+Metformin,Warfarin,Risk of arrhythmia
+Lisinopril,Insulin,Risk of arrhythmia
+Furosemide,Paracetamol,Increased digoxin toxicity
+Digoxin,Clarithromycin,Increased digoxin toxicity
+Aspirin,Ibuprofen,Reduced effectiveness
+Metformin,Paracetamol,Reduced antihypertensive effect
+Lisinopril,Digoxin,Enhanced sedation
+Paracetamol,Lisinopril,Increased bleeding risk
+Insulin,Atorvastatin,Increased risk of lactic acidosis
+Lisinopril,Omeprazole,Reduced antihypertensive effect
+Digoxin,Aspirin,Reduced effectiveness
+Simvastatin,Prednisone,Increased serum levels
+Ibuprofen,Hydrochlorothiazide,Enhanced sedation
+Losartan,Clarithromycin,Increased bleeding risk
+Atorvastatin,Metformin,Reduced antihypertensive effect
+Omeprazole,Lisinopril,Reduced effectiveness
+Digoxin,Levothyroxine,Increased digoxin toxicity
+Insulin,Digoxin,Risk of arrhythmia
+Metformin,Hydrochlorothiazide,Increased risk of myopathy
+Digoxin,Ciprofloxacin,Increased digoxin toxicity
+Lisinopril,Clarithromycin,Increased risk of lactic acidosis
+Ciprofloxacin,Lisinopril,Increased bleeding risk
+Warfarin,Digoxin,Increased risk of myopathy
+Hydrochlorothiazide,Simvastatin,Increased bleeding risk
+Ciprofloxacin,Metformin,Increased bleeding risk
+Metformin,Clarithromycin,Risk of arrhythmia
+Lisinopril,Hydrochlorothiazide,Enhanced sedation
+Insulin,Metformin,Reduced antihypertensive effect
+Simvastatin,Levothyroxine,Reduced effectiveness
+Contrast Dye,Atorvastatin,Reduced effectiveness
+Simvastatin,Aspirin,Increased digoxin toxicity
+Digoxin,Insulin,Enhanced sedation
+Losartan,Contrast Dye,Increased serum levels
+Insulin,Contrast Dye,Reduced absorption
+Hydrochlorothiazide,Metformin,Increased digoxin toxicity
+Levothyroxine,Warfarin,Increased bleeding risk
+Amiodarone,Ibuprofen,Reduced antihypertensive effect
+Contrast Dye,Omeprazole,Reduced effectiveness
+Prednisone,Lisinopril,Risk of arrhythmia
+Furosemide,Aspirin,Increased risk of lactic acidosis
+Insulin,Amiodarone,Risk of arrhythmia
+Contrast Dye,Hydrochlorothiazide,Increased bleeding risk
+Contrast Dye,Insulin,Risk of arrhythmia
+Furosemide,Lisinopril,Reduced absorption
+Clarithromycin,Losartan,Increased digoxin toxicity
+Warfarin,Lisinopril,Increased bleeding risk
+Digoxin,Levothyroxine,Increased risk of myopathy
+Levothyroxine,Clarithromycin,Reduced antihypertensive effect
+Aspirin,Losartan,Enhanced sedation
+Clarithromycin,Digoxin,Increased digoxin toxicity
+Clarithromycin,Ciprofloxacin,Risk of arrhythmia
+Atorvastatin,Aspirin,Reduced effectiveness
+Lisinopril,Prednisone,Risk of arrhythmia
+Omeprazole,Prednisone,Reduced effectiveness
+Furosemide,Lisinopril,Reduced absorption
+Losartan,Paracetamol,Risk of arrhythmia
+Paracetamol,Ciprofloxacin,Enhanced sedation
+Ibuprofen,Hydrochlorothiazide,Risk of arrhythmia
+Digoxin,Omeprazole,Increased serum levels
+Digoxin,Hydrochlorothiazide,Enhanced sedation
+Hydrochlorothiazide,Paracetamol,Increased digoxin toxicity
+Furosemide,Metformin,Reduced antihypertensive effect
+Hydrochlorothiazide,Furosemide,Reduced effectiveness
+Hydrochlorothiazide,Omeprazole,Increased digoxin toxicity
+Atorvastatin,Paracetamol,Enhanced sedation
+Amiodarone,Warfarin,Increased risk of myopathy
+Insulin,Furosemide,Enhanced sedation
+Aspirin,Omeprazole,Reduced effectiveness
+Lisinopril,Furosemide,Reduced absorption
+Amiodarone,Digoxin,Increased bleeding risk
+Clarithromycin,Losartan,Risk of arrhythmia
+Metformin,Aspirin,Increased digoxin toxicity
+Insulin,Paracetamol,Increased risk of lactic acidosis
+Ibuprofen,Paracetamol,Increased bleeding risk
+Hydrochlorothiazide,Losartan,Increased bleeding risk
+Clarithromycin,Aspirin,Reduced effectiveness
+Omeprazole,Paracetamol,Reduced effectiveness
+Paracetamol,Ibuprofen,Increased bleeding risk
+Clarithromycin,Omeprazole,Increased digoxin toxicity
+Ibuprofen,Omeprazole,Increased risk of myopathy
+Levothyroxine,Clarithromycin,Increased digoxin toxicity
+Warfarin,Paracetamol,Increased risk of myopathy
+Omeprazole,Digoxin,Increased serum levels
+Amiodarone,Digoxin,Increased serum levels
+Atorvastatin,Paracetamol,Increased digoxin toxicity
+Clarithromycin,Aspirin,Reduced absorption
+Levothyroxine,Paracetamol,Reduced absorption
+Furosemide,Digoxin,Reduced absorption
+Paracetamol,Clarithromycin,Increased risk of myopathy
+Aspirin,Clarithromycin,Reduced absorption
+Contrast Dye,Hydrochlorothiazide,Increased risk of lactic acidosis
+Ciprofloxacin,Losartan,Reduced antihypertensive effect
+Metformin,Losartan,Increased bleeding risk
+Furosemide,Levothyroxine,Reduced antihypertensive effect
+Omeprazole,Losartan,Reduced absorption
+Simvastatin,Warfarin,Risk of arrhythmia
+Insulin,Warfarin,Increased risk of lactic acidosis
+Losartan,Hydrochlorothiazide,Increased risk of myopathy
+Hydrochlorothiazide,Atorvastatin,Increased digoxin toxicity
+Ciprofloxacin,Prednisone,Enhanced sedation
+Hydrochlorothiazide,Prednisone,Increased digoxin toxicity
+Simvastatin,Amiodarone,Enhanced sedation
+Hydrochlorothiazide,Clarithromycin,Reduced antihypertensive effect
+Ciprofloxacin,Clarithromycin,Increased risk of myopathy
+Amiodarone,Clarithromycin,Enhanced sedation
+Metformin,Ibuprofen,Risk of arrhythmia
+Furosemide,Insulin,Increased risk of myopathy
+Levothyroxine,Amiodarone,Increased bleeding risk
+Insulin,Prednisone,Increased digoxin toxicity
+Levothyroxine,Paracetamol,Increased digoxin toxicity
+Hydrochlorothiazide,Omeprazole,Increased digoxin toxicity
+Levothyroxine,Losartan,Reduced absorption
+Omeprazole,Warfarin,Enhanced sedation
+Ciprofloxacin,Levothyroxine,Reduced absorption
+Metformin,Prednisone,Risk of arrhythmia
+Insulin,Levothyroxine,Reduced antihypertensive effect
+Metformin,Contrast Dye,Reduced effectiveness
+Ciprofloxacin,Hydrochlorothiazide,Risk of arrhythmia
+Aspirin,Prednisone,Increased bleeding risk
+Hydrochlorothiazide,Lisinopril,Increased digoxin toxicity
+Atorvastatin,Lisinopril,Risk of arrhythmia
+Ciprofloxacin,Contrast Dye,Reduced absorption
+Contrast Dye,Atorvastatin,Increased bleeding risk
+Contrast Dye,Amiodarone,Reduced absorption
+Atorvastatin,Paracetamol,Enhanced sedation
+Losartan,Paracetamol,Increased risk of lactic acidosis
+Simvastatin,Ciprofloxacin,Increased digoxin toxicity
+Furosemide,Paracetamol,Enhanced sedation
+Insulin,Atorvastatin,Reduced antihypertensive effect
+Atorvastatin,Ciprofloxacin,Increased risk of lactic acidosis
+Digoxin,Aspirin,Increased digoxin toxicity
+Clarithromycin,Contrast Dye,Enhanced sedation
+Lisinopril,Hydrochlorothiazide,Reduced absorption
+Hydrochlorothiazide,Omeprazole,Increased serum levels
+Amiodarone,Levothyroxine,Reduced antihypertensive effect
+Metformin,Contrast Dye,Increased risk of lactic acidosis
+Metformin,Aspirin,Increased risk of myopathy
+Paracetamol,Omeprazole,Increased risk of myopathy
+Furosemide,Ciprofloxacin,Increased serum levels
+Warfarin,Prednisone,Enhanced sedation
+Simvastatin,Warfarin,Reduced absorption
+Levothyroxine,Omeprazole,Increased risk of lactic acidosis
+Ciprofloxacin,Digoxin,Increased risk of myopathy
+Amiodarone,Lisinopril,Enhanced sedation
+Ibuprofen,Furosemide,Reduced absorption
+Omeprazole,Metformin,Increased serum levels
+Aspirin,Clarithromycin,Increased risk of lactic acidosis
+Furosemide,Lisinopril,Increased digoxin toxicity
+Lisinopril,Metformin,Reduced antihypertensive effect
+Levothyroxine,Hydrochlorothiazide,Reduced absorption
+Simvastatin,Amiodarone,Reduced effectiveness
+Prednisone,Ciprofloxacin,Reduced absorption
+Clarithromycin,Contrast Dye,Increased serum levels
+Metformin,Aspirin,Increased bleeding risk
+Simvastatin,Hydrochlorothiazide,Enhanced sedation
+Amiodarone,Lisinopril,Increased risk of lactic acidosis
+Warfarin,Furosemide,Increased risk of myopathy
+Simvastatin,Insulin,Increased bleeding risk
+Ciprofloxacin,Lisinopril,Reduced absorption
+Prednisone,Insulin,Reduced absorption
+Insulin,Digoxin,Increased bleeding risk
+Metformin,Insulin,Reduced antihypertensive effect
+Omeprazole,Prednisone,Increased digoxin toxicity
+Contrast Dye,Losartan,Increased serum levels
+Insulin,Contrast Dye,Increased bleeding risk
+Prednisone,Hydrochlorothiazide,Increased risk of myopathy
+Losartan,Warfarin,Increased risk of myopathy
+Warfarin,Paracetamol,Increased bleeding risk
+Simvastatin,Metformin,Increased risk of myopathy
+Lisinopril,Contrast Dye,Increased bleeding risk
+Amiodarone,Lisinopril,Reduced antihypertensive effect
+Furosemide,Lisinopril,Enhanced sedation
+Clarithromycin,Paracetamol,Risk of arrhythmia
+Hydrochlorothiazide,Contrast Dye,Increased risk of myopathy
+Prednisone,Omeprazole,Enhanced sedation
+Prednisone,Ibuprofen,Enhanced sedation
+Contrast Dye,Amiodarone,Reduced effectiveness
+Paracetamol,Aspirin,Enhanced sedation
+Clarithromycin,Simvastatin,Increased risk of lactic acidosis
+Ibuprofen,Warfarin,Increased serum levels
+Furosemide,Ibuprofen,Enhanced sedation
+Paracetamol,Furosemide,Reduced effectiveness
+Losartan,Digoxin,Reduced antihypertensive effect
+Simvastatin,Paracetamol,Increased digoxin toxicity
+Prednisone,Losartan,Reduced absorption
+Omeprazole,Amiodarone,Increased risk of myopathy
+Furosemide,Ibuprofen,Increased serum levels
+Contrast Dye,Metformin,Risk of arrhythmia
+Warfarin,Lisinopril,Reduced antihypertensive effect
+Prednisone,Amiodarone,Reduced absorption
+Digoxin,Omeprazole,Increased serum levels
+Ibuprofen,Paracetamol,Increased bleeding risk
+Digoxin,Furosemide,Reduced antihypertensive effect
+Warfarin,Losartan,Reduced effectiveness
+Paracetamol,Ibuprofen,Risk of arrhythmia
+Omeprazole,Simvastatin,Enhanced sedation
+Contrast Dye,Paracetamol,Increased risk of myopathy
+Lisinopril,Hydrochlorothiazide,Increased serum levels
+Warfarin,Contrast Dye,Reduced antihypertensive effect
+Warfarin,Contrast Dye,Increased digoxin toxicity
+Clarithromycin,Atorvastatin,Increased serum levels
+Warfarin,Atorvastatin,Increased risk of lactic acidosis
+Insulin,Warfarin,Enhanced sedation
+Ibuprofen,Insulin,Increased digoxin toxicity
+Lisinopril,Metformin,Reduced antihypertensive effect
+Ibuprofen,Clarithromycin,Increased digoxin toxicity
+Ciprofloxacin,Levothyroxine,Increased digoxin toxicity
+Clarithromycin,Levothyroxine,Increased risk of lactic acidosis
+Clarithromycin,Furosemide,Increased bleeding risk
+Metformin,Losartan,Reduced absorption
+Insulin,Ciprofloxacin,Risk of arrhythmia
+Losartan,Contrast Dye,Increased bleeding risk
+Digoxin,Simvastatin,Reduced antihypertensive effect
+Atorvastatin,Ciprofloxacin,Increased serum levels
+Lisinopril,Contrast Dye,Increased bleeding risk
+Amiodarone,Clarithromycin,Reduced antihypertensive effect
+Simvastatin,Furosemide,Reduced absorption
+Aspirin,Ibuprofen,Reduced antihypertensive effect
+Hydrochlorothiazide,Contrast Dye,Reduced absorption
+Paracetamol,Warfarin,Enhanced sedation
+Losartan,Warfarin,Increased risk of myopathy
+Metformin,Ibuprofen,Enhanced sedation
+Hydrochlorothiazide,Insulin,Increased bleeding risk
+Contrast Dye,Furosemide,Enhanced sedation
+Digoxin,Levothyroxine,Increased digoxin toxicity
+Paracetamol,Omeprazole,Increased serum levels
+Digoxin,Levothyroxine,Enhanced sedation
+Clarithromycin,Furosemide,Increased serum levels
+Prednisone,Paracetamol,Increased risk of myopathy
+Clarithromycin,Omeprazole,Enhanced sedation
+Hydrochlorothiazide,Paracetamol,Increased bleeding risk
+Amiodarone,Prednisone,Enhanced sedation
+Warfarin,Ibuprofen,Increased bleeding risk
+Paracetamol,Atorvastatin,Increased risk of lactic acidosis
+Simvastatin,Paracetamol,Reduced antihypertensive effect
+Warfarin,Clarithromycin,Reduced antihypertensive effect
+Insulin,Metformin,Enhanced sedation
+Clarithromycin,Insulin,Increased risk of lactic acidosis
